@@ -4,9 +4,9 @@ solution-title: User Guides
 solution-hub-url: https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html
 solution-image: /assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
-getting-started-url: https://wiki.corp.adobe.com/display/SSE/Self+Service+Excellence+%28SSE%29+for+Digital+Experience
+getting-started-url: https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/collaborative-doc-instructions/collaboration-guide/tutorials/videos.html
+tutorials-url: https://docs.adobe.com/content/help/en/experience-cloud/tutorials/home.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/bizible.en
 ---
 
