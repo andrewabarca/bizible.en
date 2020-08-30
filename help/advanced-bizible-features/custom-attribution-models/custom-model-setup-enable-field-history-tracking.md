@@ -8,7 +8,7 @@ title: Custom Model Setup: Enable Field History Tracking
 
 ## Why and When to Enable Field History Tracking {#why-and-when-to-enable-field-history-tracking}
 
-If you decide to include a custom field as a stage in your custom attribution model, field history tracking **must be enabled** for this field. Enabling field history tracking will allow Salesforce to track any time the custom field is edited by creating a&nbsp;record in the History Tracking table. Bizible can download that table and use this information to measure the time and day that a "transition" occurred.&nbsp;Without field history tracking, Bizible is unable to track changes related to this field.
+If you decide to include a custom field as a stage in your custom attribution model, field history tracking **must be enabled** for this field. Enabling field history tracking will allow Salesforce to track any time the custom field is edited by creating a record in the History Tracking table. Bizible can download that table and use this information to measure the time and day that a "transition" occurred. Without field history tracking, Bizible is unable to track changes related to this field.
 
 If only Lead Status or Opportunity Stages are used in the custom model, there is no need to turn on Field History tracking because it will tracked automatically as a stage transition.
 
@@ -28,7 +28,7 @@ To enable field history tracking, please follow the instructions below.
 
    ![](assets/2.png)
 
-   Bizible can only re-import a record if it sees that the record has recently been modified.&nbsp;Formula fields&nbsp;technically do not modify a record when it changes since it does the calculation in the background. We have seen issues where a rule is skipped because Bizible did not see the record change, so it is advised to **not use formula fields in rule definitions**. The solution is to create a text field and use a workflow to populate that field with the proper value or calculation any time the record is edited or fits the criteria. This requires that all records get edited so the workflow can work retroactively on old records.
+   Bizible can only re-import a record if it sees that the record has recently been modified. Formula fields technically do not modify a record when it changes since it does the calculation in the background. We have seen issues where a rule is skipped because Bizible did not see the record change, so it is advised to **not use formula fields in rule definitions**. The solution is to create a text field and use a workflow to populate that field with the proper value or calculation any time the record is edited or fits the criteria. This requires that all records get edited so the workflow can work retroactively on old records.
 
 >[!NOTE]
 >

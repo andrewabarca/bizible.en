@@ -8,9 +8,9 @@ title: How Bizible and Salesforce Interact
 
 Let's take a high-level look at the relationship between Bizible and Salesforce.
 
-## Salesforce and Bizible&nbsp; {#salesforce-and-bizible}
+## Salesforce and Bizible  {#salesforce-and-bizible}
 
-Once the Bizible account is created and Salesforce is connected, Bizible will begin pushing marketing data&nbsp;into the CRM instance as long as the Bizible managed package is installed. If it's not, Bizible will not write any data, but it will read information from your SFDC instance.
+Once the Bizible account is created and Salesforce is connected, Bizible will begin pushing marketing data into the CRM instance as long as the Bizible managed package is installed. If it's not, Bizible will not write any data, but it will read information from your SFDC instance.
 
 ![](assets/1-3.png)
 
@@ -164,7 +164,7 @@ Lead
    <td><p>bizible2__Touchpoint_Source_LC__c</p></td> 
    <td><p>Custom</p></td> 
    <td><p>x</p></td> 
-   <td><p>x&nbsp;</p></td> 
+   <td><p>x </p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -273,7 +273,7 @@ Contact
    <td><p>bizible2__Touchpoint_Source_LC__c</p></td> 
    <td><p>Custom</p></td> 
    <td><p>x</p></td> 
-   <td><p>x&nbsp;</p></td> 
+   <td><p>x </p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -376,7 +376,7 @@ Case
    <td><p>bizible2__Touchpoint_Source_LC__c</p></td> 
    <td><p>Custom</p></td> 
    <td><p>x</p></td> 
-   <td><p>x&nbsp;</p></td> 
+   <td><p>x </p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -419,7 +419,7 @@ Account
    <td><p>bizible2__Engagement_Score__c</p></td> 
    <td><p>Custom</p></td> 
    <td><p>x</p></td> 
-   <td><p>x&nbsp;</p></td> 
+   <td><p>x </p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -498,7 +498,7 @@ Opportunity
    <td><p>bizible2__Bizible_Opportunity_Amount__c</p></td> 
    <td><p>Custom</p></td> 
    <td><p>x</p></td> 
-   <td><p>x&nbsp;</p></td> 
+   <td><p>x </p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -698,14 +698,14 @@ Campaign Member
    <td><p>bizible2__Touchpoint_Status_Opportunity__c</p></td> 
    <td><p>Custom</p></td> 
    <td><p>x</p></td> 
-   <td><p>x&nbsp;</p></td> 
+   <td><p>x </p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Bizible Custom Objects in Salesforce&nbsp; {#bizible-custom-objects-in-salesforce}
+## Bizible Custom Objects in Salesforce  {#bizible-custom-objects-in-salesforce}
 
-Apart from creating custom fields on SFDC's Standard Objects, once the Bizible package is installed,&nbsp;it will create a couple of Custom Objects. Below is a list of these Custom Objects along with a table denoting the fields that Bizible will&nbsp;write to.
+Apart from creating custom fields on SFDC's Standard Objects, once the Bizible package is installed, it will create a couple of Custom Objects. Below is a list of these Custom Objects along with a table denoting the fields that Bizible will write to.
 
 Bizible Touchpoint
 
@@ -1008,14 +1008,14 @@ The Bizible Person is a Bizible Custom Object that is related to both the Lead, 
    <td><p>bizible2__Contact__c</p></td> 
    <td><p>Custom</p></td> 
    <td><p>x</p></td> 
-   <td><p>x&nbsp;</p></td> 
+   <td><p>x </p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Bizible Attribution Touchpoint {#bizible-attribution-touchpoint}
 
-The Bizible Attribution Touchpoint is a Bizible Custom Object to encapsulate marketing's influence on Opportunities.&nbsp;
+The Bizible Attribution Touchpoint is a Bizible Custom Object to encapsulate marketing's influence on Opportunities. 
 
 Bizible Attribution Touchpoint
 

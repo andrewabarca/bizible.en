@@ -9,7 +9,7 @@ title: Facebook API
 ## Introduction   
 {#introduction}
 
-Similar to our AdWords & Bing Ads integrations, our Facebook integration does two fundamental actions: &nbsp;
+Similar to our AdWords & Bing Ads integrations, our Facebook integration does two fundamental actions:  
 
 * `Auto-tag all Facebook Ads with a Bizible parameter (_bf)`
 * `Download ad cost information across all active Facebook ads`
@@ -20,8 +20,8 @@ As for setup, there are seven steps to be completed within Bizible's app.
 
 1. Navigate to [apps.bizible.com](http://apps.bizible.com) and log-in.
 1. Under My Account select **Settings.**
-1. Under&nbsp;Integrations&nbsp;select **Connections.**
-1. Select **Set Up New Ads Connection**, and a pop-up will appear.&nbsp;Select **Facebook** and log-in using your Facebook credentials.&nbsp;
+1. Under Integrations select **Connections.**
+1. Select **Set Up New Ads Connection**, and a pop-up will appear. Select **Facebook** and log-in using your Facebook credentials. 
 
    >[!NOTE]
    >
@@ -38,13 +38,13 @@ As for setup, there are seven steps to be completed within Bizible's app.
 
 >[!NOTE]
 >
->`If you enable auto-tagging, we'll reset the conversion history and social proof of all of the ads that we tag. We highly recommend` [exporting this data as a CSV](http://www.facebook.com/business/help/205067636197240) before you enable auto-tagging.&nbsp;
+>`If you enable auto-tagging, we'll reset the conversion history and social proof of all of the ads that we tag. We highly recommend` [exporting this data as a CSV](http://www.facebook.com/business/help/205067636197240) before you enable auto-tagging. 
 
 ![](assets/2-2.png)
 
-Once you've enabled the integration, Bizible will start downloading ad level cost into the Bizible Marketing ROI Dashboard.&nbsp;
+Once you've enabled the integration, Bizible will start downloading ad level cost into the Bizible Marketing ROI Dashboard. 
 
-For the integration to properly work, you'll need to enable auto-tagging on your Facebook account. This will allow our system to add a&nbsp; _bf parameter across all ad links. This process will add the new parameter on top of any other tracking parameters you've already added to your Facebook ads.&nbsp;
+For the integration to properly work, you'll need to enable auto-tagging on your Facebook account. This will allow our system to add a  _bf parameter across all ad links. This process will add the new parameter on top of any other tracking parameters you've already added to your Facebook ads. 
 
 ![](assets/3.gif)
 
@@ -128,7 +128,7 @@ For the integration to properly work, you'll need to enable auto-tagging on your
 
 ##### Q: What Facebook Ads are supported by Bizible?  {#q-what-facebook-ads-are-supported-by-bizible}
 
-A: Carousel, Single Image. Not Video, Slideshow or Collection at this time.&nbsp;
+A: Carousel, Single Image. Not Video, Slideshow or Collection at this time. 
 
 Q: What is social proof?
 
@@ -136,11 +136,11 @@ A: Social proof is visible engagement such as likes, clicks, comments, and share
 
 Q: What happens when Bizible tags the Ad?
 
-A: Facebook does not allow ads to be edited so Bizible needs to delete the creative, which contains the Destination URL, and then re-create the ad with the new parameters.&nbsp;
+A: Facebook does not allow ads to be edited so Bizible needs to delete the creative, which contains the Destination URL, and then re-create the ad with the new parameters. 
 
 Q: Why does Bizible update all Facebook Ads?
 
-A: Bizible's process is to tag all ads in case they are re-activated.&nbsp;
+A: Bizible's process is to tag all ads in case they are re-activated. 
 
 Q: What permission does the connected user need?
 

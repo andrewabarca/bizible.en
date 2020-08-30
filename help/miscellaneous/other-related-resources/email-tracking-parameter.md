@@ -34,19 +34,19 @@ Bizible accepts the following values: Email Address, Salesforce Lead Id, or Sale
  <tbody> 
   <tr> 
    <th><p>Marketing Automation</p></th> 
-   <th><p>Token / Tag / Macro&nbsp;</p></th> 
+   <th><p>Token / Tag / Macro </p></th> 
    <th><p>Example</p></th> 
    <th><p>Supporting Material</p></th> 
   </tr> 
   <tr> 
    <td><p>Marketo</p></td> 
-   <td><p>{{lead.Email Address}}&nbsp;</p></td> 
+   <td><p>{{lead.Email Address}} </p></td> 
    <td><p>https://engage.marketo.com/rs/460-TDH-945/images/BZ-B2B-Marketing-Attribution-101-ebook.pdf?mailId={{lead.EmailAddress}}</p></td> 
    <td><p>https://docs.marketo.com/display/public/DOCS/Tokens+Overview#TokensOverview-PersonTokens</p></td> 
   </tr> 
   <tr> 
    <td><p>Pardot</p></td> 
-   <td><p>%%email%%&nbsp;</p><p>or</p><p>%%user_crm_id%%</p></td> 
+   <td><p>%%email%% </p><p>or</p><p>%%user_crm_id%%</p></td> 
    <td><p>https://engage.marketo.com/rs/460-TDH-945/images/BZ-B2B-Marketing-Attribution-101-ebook.pdf?mailId=%%email%%</p></td> 
    <td><p>https://help.salesforce.com/articleView?id=pardot_variable_tags_reference.htm&amp;type=5</p></td> 
   </tr> 

@@ -22,7 +22,7 @@ Whenever you receive a visitor to one of your Content pages on your site (whethe
 * Landing Page
 * Referring Website
 
-To customize which "bucket" your Leads will fall into based on their UTM parameters, you can use Channel Rules.&nbsp;For more on setting up and maintaining your Channel Rules, [click here](https://support.bizible.com/hc/en-us/articles/115009615408-Online-Custom-Channel-Setup).
+To customize which "bucket" your Leads will fall into based on their UTM parameters, you can use Channel Rules. For more on setting up and maintaining your Channel Rules, [click here](https://support.bizible.com/hc/en-us/articles/115009615408-Online-Custom-Channel-Setup).
 
 Learn how to set up your [Online Channels](http://docs.marketo.com/x/5AAgAQ) and ` [Offline Channels](http://docs.marketo.com/x/5gAgAQ), as well as the difference between them.  
 `

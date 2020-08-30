@@ -52,7 +52,7 @@ If enabled, Bizible will push a status value onto the Campaign Member across 4 d
 
 ## Bizible Touchpoint Date {#bizible-touchpoint-date}
 
-With the installation of the package, Bizible also includes a field on the Campaign Member labeled “Bizible Touchpoint Date.” This allows the user to override the date that Bizible would use for the Touchpoint Date on the Touchpoint record.&nbsp;
+With the installation of the package, Bizible also includes a field on the Campaign Member labeled “Bizible Touchpoint Date.” This allows the user to override the date that Bizible would use for the Touchpoint Date on the Touchpoint record. 
 
 This could be necessary if a list was uploaded days/weeks/months after an event actually occurred. There are ways to update all records at once, which is explained [below](#below).
 

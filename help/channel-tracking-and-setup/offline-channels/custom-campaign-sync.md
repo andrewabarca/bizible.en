@@ -48,7 +48,7 @@ Today, with the installed Bizible package, you are able to indicate which Campai
 
    >[!NOTE]
    >
-   >If you are considering eventually stopping the user of the CRM Sync Type, it's ideal to create rules that do not reference the "Sync Type" but&nbsp;*still* maintain the current CRM Touchpoints. That way the rules still work if/when that switch is made.
+   >If you are considering eventually stopping the user of the CRM Sync Type, it's ideal to create rules that do not reference the "Sync Type" but *still* maintain the current CRM Touchpoints. That way the rules still work if/when that switch is made.
 
 Here's an example of what that would look like, so that no existing CRM touchpoints are lost: 
 

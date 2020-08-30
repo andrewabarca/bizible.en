@@ -6618,7 +6618,7 @@ Stores all stage transitions that occur on the Lead or Contact, tying it to a to
    <td colspan="1"><p>EMAIL</p></td> 
    <td colspan="1"><p>varchar</p></td> 
    <td colspan="1"><p>The provided email address for the related Lead/Contact</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#e58297848d8488a5878c9f8c878980cb868a88" rel="nofollow"><span>[email&nbsp;protected]</span></a></p></td> 
+   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#e58297848d8488a5878c9f8c878980cb868a88" rel="nofollow"><span>[email protected]</span></a></p></td> 
    <td colspan="1"><br></td> 
    <td colspan="1"><br></td> 
   </tr> 
@@ -6859,7 +6859,7 @@ All CRM Opportunities that are imported, along with custom Bizible fields.
    <td><p>CONVERTED_FROM_LEAD_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email of the related Lead that had converted into this Opportunity</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#8becf9eae3eae6cbe9e2f1e2e9e7eea5e8e4e6" rel="nofollow"><span>[email&nbsp;protected]</span></a></p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#8becf9eae3eae6cbe9e2f1e2e9e7eea5e8e4e6" rel="nofollow"><span>[email protected]</span></a></p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -6875,7 +6875,7 @@ All CRM Opportunities that are imported, along with custom Bizible fields.
    <td><p>PRIMARY_CONTACT_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>If Primary Contact Role is used, the email d of the related Contact that is listed as the primary contact role</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f39481929b929eb3919a899a919f96dd909c9e" rel="nofollow"><span>[email&nbsp;protected]</span></a></p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f39481929b929eb3919a899a919f96dd909c9e" rel="nofollow"><span>[email protected]</span></a></p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -9494,7 +9494,7 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
    <td colspan="1"><p>ID</p></td> 
    <td colspan="1"><p>varchar</p></td> 
    <td colspan="1"><p>A unique Id for the user touchpoint</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f995909595909897b99b9083909b959cd79a9694" rel="nofollow"><span>[email&nbsp;protected]</span></a>_2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
+   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f995909595909897b99b9083909b959cd79a9694" rel="nofollow"><span>[email protected]</span></a>_2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
    <td colspan="1">X</td> 
    <td colspan="1"><p><br></p></td> 
   </tr> 
@@ -9510,7 +9510,7 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
    <td colspan="1"><p>EMAIL</p></td> 
    <td colspan="1"><p>varchar</p></td> 
    <td colspan="1"><p>The email address that this Touchpoint is created from</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#9cf0f5f0f0f5fdf2dcfef5e6f5fef0f9b2fff3f1" rel="nofollow"><span>[email&nbsp;protected]</span></a></p></td> 
+   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#9cf0f5f0f0f5fdf2dcfef5e6f5fef0f9b2fff3f1" rel="nofollow"><span>[email protected]</span></a></p></td> 
    <td colspan="1"><br></td> 
    <td colspan="1"><br></td> 
   </tr> 

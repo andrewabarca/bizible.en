@@ -18,9 +18,9 @@ Bizible's Custom Attribution model allows users to choose which touchpoints or c
 
    To start building your custom attribution model, you will need to select which stages are important to your Marketing team. In addition to Bizible's milestone stages (FT, LC, OC, Closed) you can add up to six additional Lead/Contact Statuses or Opportunity stages in your custom model. For example, it's common for the MQL stage to be included in the custom model. Marketing teams often want to know what efforts or channels are driving transitions to the MQL stage.
 
-   Sign into [apps.bizible.com](http://apps.bizible.com). Go to My Account > Settings > and under the CRM section, select&nbsp;**Stage Mapping**.&nbsp;
+   Sign into [apps.bizible.com](http://apps.bizible.com). Go to My Account > Settings > and under the CRM section, select **Stage Mapping**. 
 
-   Once here, you will need to select which Leads/Contacts, and Opportunity stages to include by selecting the **Include in Model**&nbsp;box.
+   Once here, you will need to select which Leads/Contacts, and Opportunity stages to include by selecting the **Include in Model** box.
 
    ![](assets/1-1.png)
 

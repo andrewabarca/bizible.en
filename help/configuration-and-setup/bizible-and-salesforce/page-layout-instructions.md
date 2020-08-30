@@ -17,7 +17,7 @@ To begin, first navigate to your Salesforce Setup settings and locate the Custom
 
    ![](assets/1-1.jpg)
 
-1. Click **Edit** next to the page layout you want to update.&nbsp;
+1. Click **Edit** next to the page layout you want to update. 
 
    ![](assets/2-1.jpg)
 
@@ -34,7 +34,7 @@ To begin, first navigate to your Salesforce Setup settings and locate the Custom
 
    >[!NOTE]
    >
-   >If you are using multiple Campaign record types, the picklist values for the **Enable Bizible Touchpoints** field will need to be updated. Please reference [this article](http://docs.marketo.com/x/PgEgAQ)&nbsp;for instructions.
+   >If you are using multiple Campaign record types, the picklist values for the **Enable Bizible Touchpoints** field will need to be updated. Please reference [this article](http://docs.marketo.com/x/PgEgAQ) for instructions.
 
    `  
    `
@@ -45,7 +45,7 @@ To begin, first navigate to your Salesforce Setup settings and locate the Custom
 1. Click **Page Layouts**.
 1. Click Edit next to the page layout you want to update. Keep in mind that multiple page layouts can contain the Bizible Touchpoints sections.
 1. Click on the VisualForce page option on the left within your quick find menu.
-1. Create a new section and name it “Bizible Touchpoints.”&nbsp;&nbsp;
+1. Create a new section and name it “Bizible Touchpoints.”  
 
    >[!NOTE]
    >
@@ -95,7 +95,7 @@ To begin, first navigate to your Salesforce Setup settings and locate the Custom
 
    ![](assets/7.png)
 
-1. Go back to the Related List&nbsp;option in the menu and now add the **Bizible Attribution Touchpoint** related list.
+1. Go back to the Related List option in the menu and now add the **Bizible Attribution Touchpoint** related list.
 1. Click the wrench icon and add the following columns in this order:
 
     * `Attribution Touchpoint`
@@ -138,7 +138,7 @@ To begin, first navigate to your Salesforce Setup settings and locate the Custom
 1. Within your Build option, select **Accounts**.
 1. Click **Page Layouts**.
 1. Select the Page Layout you’d like to edit.
-1. Add the **Bizible Attribution Touchpoint**&nbsp;Related List and click the wrench to add the following columns:
+1. Add the **Bizible Attribution Touchpoint** Related List and click the wrench to add the following columns:
 
     * `Attribution Touchpoint`
     * `Marketing Channel`

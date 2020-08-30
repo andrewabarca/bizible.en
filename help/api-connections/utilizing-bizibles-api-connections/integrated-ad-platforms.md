@@ -55,7 +55,7 @@ Once you have a tracking template in place, please follow the instructions below
 
    ![](assets/5.png)
 
-1. In the top right-hand corner, toggle the **Autotagging**&nbsp;switch to **Yes**. At the bottom of the page, click **Learn More» **to expand the text box and click&nbsp;**Save**. Auto-tagging setup is complete.
+1. In the top right-hand corner, toggle the **Autotagging** switch to **Yes**. At the bottom of the page, click **Learn More» **to expand the text box and click **Save**. Auto-tagging setup is complete.
 
    ![](assets/6.png)
 

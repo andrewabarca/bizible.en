@@ -27,7 +27,7 @@ To get started, navigate to Settings > Security > Authentication page in the Biz
 
 Bizible Single Sign On requires configuring your Authentication settings in a series of steps that is important to follow so that you don’t risk getting locked out of your Bizible account.
 
-1. Set up the Bizible Application in your Identity Provider. See external documentation listed below&nbsp;for walkthroughs.
+1. Set up the Bizible Application in your Identity Provider. See external documentation listed below for walkthroughs.
 
     1. When prompted for the Single Sign On URL or Recipient URL or Destination URL, SAML Assertion Customer Service (ACS) URL, use [https://apps.bizible.com/BizibleSAML2/ReceiveSSORequest](https://apps.bizible.com/BizibleSAML2/ReceiveSSORequest)
     1. When prompted for the Audience Restriction URL or application-defined unique identifier, use [https://BizibleLPM](https://biziblelpm/)
