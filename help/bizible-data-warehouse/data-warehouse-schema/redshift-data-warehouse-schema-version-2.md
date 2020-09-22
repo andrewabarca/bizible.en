@@ -1,10 +1,10 @@
 ---
 unique-page-id: 18874702
-description: Redshift Data Warehouse Schema [V2] - Bizible - Product Documentation
-title: Redshift Data Warehouse Schema [V2]
+description: Redshift Data Warehouse Schema Version 2 - Bizible - Product Documentation
+title: Redshift Data Warehouse Schema Version 2
 ---
 
-# Redshift Data Warehouse Schema [V2] {#redshift-data-warehouse-schema-v}
+# Redshift Data Warehouse Schema Version 2 {#redshift-data-warehouse-schema-version-2}
 
 Data Warehouse (DW) allow the user to take all of Bizible’s recorded data and slice and dice it anyway they want. This includes hooking up the Data Warehouse to a Business Intelligence (BI) platform like Tableau or Domo and using that data to share with the rest of the org. The advantage of using DW is that it contains much more data than what’s shown in Salesforce, such as costs and more data than what we report in the Marketing ROI Dashboard, such as impressions, sessions, and page views.
 

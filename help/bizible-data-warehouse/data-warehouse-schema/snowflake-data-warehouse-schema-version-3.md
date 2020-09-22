@@ -1,10 +1,10 @@
 ---
 unique-page-id: 35586140
-description: Snowflake Data Warehouse Schema [V3] - Bizible - Product Documentation
-title: Snowflake Data Warehouse Schema [V3]
+description: Snowflake Data Warehouse Schema Vers 3 - Bizible - Product Documentation
+title: Snowflake Data Warehouse Schema Version 3
 ---
 
-# Snowflake Data Warehouse Schema [V3] {#snowflake-data-warehouse-schema-v}
+# Snowflake Data Warehouse Schema Version 3 {#snowflake-data-warehouse-schema-version-3}
 
 Data Warehouse allows you to track as much as you want, report on your attribution data wherever you want, and plug it in to other data sets.
 
