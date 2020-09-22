@@ -15,9 +15,9 @@ Learn more about the four main components that make up the Bizible framework. Bi
 
 ## Bizible JavaScript {#bizible-javascript}
 
-The Bizible JavaScript tracks all the online marketing interactions, also called touchpoints, that prospects/leads have with your organization. It is a custom script that is added before the closing </head> tag on every page of your website.
+The Bizible JavaScript tracks all the online marketing interactions, also called touchpoints, that prospects/leads have with your organization. It is a custom script that is added before the closing `</head>` tag on every page of your website.
 
-*<script type="text/javascript" src="// [cdn.bizible.com/scripts/bizible.js](http://cdn.bizible.com/scripts/bizible.js)" async=""></script>*
+`<script type="text/javascript" src="// [cdn.bizible.com/scripts/bizible.js](http://cdn.bizible.com/scripts/bizible.js)" async=""></script>`
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ The Bizible application is used to view and report on your attribution data, con
   
 **Account Configuration** 
   
-This is where you can update your company’s general information and access the Bizible Javascript.   
+This is where you can update your company’s general information and access the Bizible Javascript.
   
 **Settings** 
   

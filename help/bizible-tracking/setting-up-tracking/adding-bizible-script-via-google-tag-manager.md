@@ -12,21 +12,15 @@ If you decide to add our script via GTM, please set the Bizible script to the hi
 
 >[!NOTE]
 >
->Please use this support [article by Google](http://support.google.com/tagmanager/answer/2772421?hl=en) to learn more.
+>Please use this [support article by Google](http://support.google.com/tagmanager/answer/2772421?hl=en) to learn more.
 
 ## How to Add Bizible JS via Google Tag Manager {#how-to-add-bizible-js-via-google-tag-manager}
 
 1. Open GTM and add the Bizible script on your website container. Be sure to select **Custom HTML tag**. 
 1. Use the Bizible script below and incorporate it in your container.
 
-   *<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>*
+   `<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>`
 
-1. Click 
+1. Click `+Add` a Firing Rule so that you can tell Google to load our snippet on *All Pages.*
 
-   ```
-   +Add
-   ```
-
-   a Firing Rule so that you can tell Google to load our snippet on *All Pages.*
 1. Go to the Container Draft Overview section on the left. Click the button to create a new version of your container and publish the changes.
-

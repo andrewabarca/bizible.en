@@ -28,7 +28,7 @@ Today, with the installed Bizible package, you are able to indicate which Campai
    >
    >Formula fields cannot be used within your rules and will not appear in the picklist. Because formulas calculate in the background and do not modify a record, Bizible cannot detect whether a record fits a rule or not.
 
-1. Choose the Touchpoint Date. The list of possible dates will appear after you enter a curly bracket “ { “ - then you can select the date that you want to choose to apply to all Touchpoints created from the rule.
+1. Choose the Touchpoint Date. The list of possible dates will appear after you enter a curly bracket `{` - then you can select the date that you want to choose to apply to all Touchpoints created from the rule.
 
    ![](assets/3-1.png)
 
@@ -50,7 +50,7 @@ Today, with the installed Bizible package, you are able to indicate which Campai
    >
    >If you are considering eventually stopping the user of the CRM Sync Type, it's ideal to create rules that do not reference the "Sync Type" but *still* maintain the current CRM Touchpoints. That way the rules still work if/when that switch is made.
 
-Here's an example of what that would look like, so that no existing CRM touchpoints are lost: 
+Here's an example of what that would look like, so that no existing CRM touchpoints are lost:
 
 ## Validation {#validation}
 
@@ -74,4 +74,4 @@ You can easily check the Bizible Touchpoints and Bizible Attribution Touchpoint 
 
 1. You can also click on the Member count to see a list of the Leads and Contacts and their Ids that are part of the Campaign rule eligibility. This is just a sample set and will display up to 50 so that you can get an idea of which records qualify.
 
-   ![](assets/10.png)  
+   ![](assets/10.png)

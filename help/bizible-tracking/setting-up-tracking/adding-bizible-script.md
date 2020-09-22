@@ -19,9 +19,9 @@ When getting started with Bizible, there are two ways you can add the Bizible Ja
 
 As a best practice, we strongly recommend hardcoding Bizible JavaScript to your web properties. To hardcode the script, you'll need to place the script before the closing </head> on every page of your site.
 
-**<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>**
+`<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>`
 
-Hardcoding the JavaScript into the <head> of your pages ensures the Bizible script will load first and referral information isn't missed. The Bizible JavaScript loads asynchronously. If hardcoding, the JavaScript must be manually added to Marketing Automation. Click [here](http://docs.marketo.com/x/kwAgAQ) to check out the related articles.
+Hardcoding the JavaScript into the `<head>` of your pages ensures the Bizible script will load first and referral information isn't missed. The Bizible JavaScript loads asynchronously. If hardcoding, the JavaScript must be manually added to Marketing Automation. Click [here](http://docs.marketo.com/x/kwAgAQ) to check out the related articles.
 
 >[!TIP]
 >
@@ -91,7 +91,7 @@ Be sure to have a conversation with your web team so they know Bizible JavaScrip
 * Issue: If there are multiple forms hosted on a page, you might not be able to tell which specific form was filled out with Bizible’s Form URL field.
 * Solution: If you need to know which form was filled out, explore setting up dynamic URL hashing with your web team.
 
-**Forms organized in <div> format**
+**Forms organized in `<div>` format**
 
 * Issue: Bizible JS has a hard time recognizing forms organized in <div> format so custom code can be needed.
 * Solution: These [report user templates](http://docs.marketo.com/x/eQEgAQ) can be used by your web dev team to add the needed code.
@@ -108,20 +108,20 @@ Be sure to have a conversation with your web team so they know Bizible JavaScrip
 
 ## Testing Bizible JavaScript {#testing-bizible-javascript}
 
-Your Bizible Consultant will help you to spot test the website to ensure that Bizible JavaScript is present across all pages. Part of this testing will be submitting a few form fills with clearly indicated test details to ensure that tracking returns properly.   
+Your Bizible Consultant will help you to spot test the website to ensure that Bizible JavaScript is present across all pages. Part of this testing will be submitting a few form fills with clearly indicated test details to ensure that tracking returns properly.
   
-However, your Bizible Consultant is likely not as familiar with your website as your web team is. For this reason, it’s very important that your web team or other appropriate team, thoroughly checks the website especially if there are complex forms in use like the ones mentioned above. Your team will ultimately be responsible for ensuring that all needed web properties are properly tracking but if you are aware of any complex forms or situations, you are welcome to ask your Bizible Consultant for assistance in testing.   
+However, your Bizible Consultant is likely not as familiar with your website as your web team is. For this reason, it’s very important that your web team or other appropriate team, thoroughly checks the website especially if there are complex forms in use like the ones mentioned above. Your team will ultimately be responsible for ensuring that all needed web properties are properly tracking but if you are aware of any complex forms or situations, you are welcome to ask your Bizible Consultant for assistance in testing.
   
 To test a form yourself, please follow these steps:
 
 1. Always use an incognito browser or clear your cache between each form submission test AND use a different email address each time.
 
-   a. A best practice is to use a fake email that contains something indicating it is a test and the time of day. For example: [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)
+   a. A best practice is to use a fake email that contains something indicating it is a test and the time of day. For example: testing830am@test.com.
 
 1. Record the URL of the page you are submitting the form and the email used.
+
 1. Locate the record created in your CRM (Lead or Contact) for that form submission and verify that a touchpoint was appropriately created.
 
    a. You can use a Bizible stock report such as Leads with Bizible Touchpoints or look at the Lead/Contact page layout if you chose to update your page layouts with Bizible details.
 
    b. Note that this could take some time for the data to process.
-

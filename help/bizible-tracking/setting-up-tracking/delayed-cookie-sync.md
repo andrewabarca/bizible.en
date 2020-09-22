@@ -12,14 +12,14 @@ This modification to the default Bizible Javascript serves to provide bizible.js
 
 Replace the default bizible.js script tag with the following:
 
-**<script id="bizible-settings" type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async="" data-consent-button-id="ConsentButtonId"></script>**
+`<script id="bizible-settings" type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async="" data-consent-button-id="ConsentButtonId"></script>`
 
 The data-consent-button-id="ConsentButtonId" attribute tells bizible.js to not send send analytical data until an HTML element with that id is clicked.
 
 Alternatively, customers can set the data-consent-button-id to be something non-existent (e.g., "foobar") and use the following API to tell bizible.js that the user has consented:
 
-**window['Bizible'] = window['Bizible'] || { _queue: [], Push: function (o, p) {this._queue.push({ type: o, data: p }); } };** 
-**Bizible.Push("Consent", true });**
+`window['Bizible'] = window['Bizible'] || { _queue: [], Push: function (o, p) {this._queue.push({ type: o, data: p }); } };`
+`Bizible.Push("Consent", true });`
 
 >[!NOTE]
 >

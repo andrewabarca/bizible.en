@@ -40,7 +40,9 @@ Once the packages are downloaded and Salesforce has been configured, we will the
 
 [Sf.bizible.com/signup](http://Sf.bizible.com/signup), or [sf.bizible.com/salesforce/sandboxsignup](https://sf.bizible.com/salesforce/sandboxsignup) if installing in Sandbox.
 
-1. You will begin adding in Account Details: Company Name, Phone Number, and Website. After the fields are populated, you will select to agree to the terms of service and save. ![](assets/2.jpg)
+1. You will begin adding in Account Details: Company Name, Phone Number, and Website. After the fields are populated, you will select to agree to the terms of service and save.
+
+   ![](assets/2.jpg)
 
 1. This will generate a pop-up window for you to authenticate the connection to your Salesforce org at which point you will select **Allow**.
 
@@ -57,4 +59,3 @@ Once the packages are downloaded and Salesforce has been configured, we will the
    ![](assets/5.jpg)
 
    Once you complete all of the above steps, you're good to go. If you run into any issues along the way, please don’t hesitate to reach out to your Bizible representative or [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a4d7d1d4d4cbd6d0e4c6cddecdc6c8c18ac7cbc9).
-

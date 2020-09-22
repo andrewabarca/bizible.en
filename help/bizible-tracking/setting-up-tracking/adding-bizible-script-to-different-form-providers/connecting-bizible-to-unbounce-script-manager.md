@@ -13,7 +13,7 @@ Bizible integrates directly with Unbounce, allowing you to track the digital mar
 1. In the popup, select Custom Script and name it "Bizible Marketing Analytics." Click **Add Script Details**.
 1. Select placement in the Head. Include the script on Main Landing Page and Form Confirmation Dialog. Paste the Bizible script below into the box.
 
-   *<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>*
+   `<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>`
 
 1. Click **Save**.
 
