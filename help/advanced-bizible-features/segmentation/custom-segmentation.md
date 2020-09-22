@@ -16,8 +16,7 @@ The Custom Segmentation feature allows you to filter Touchpoints by one category
 
 Custom Segmentation can be used to see data for a particular record type. Once you map the filter logic, you should be able to see in the Bizible dashboard’s Demand Waterfall View--the same data you would see in your CRM.
 
-**How do I set it up?* 
-***
+**How do I set it up?**
 
 Step 1 - Determine what information you want to see.
 
@@ -61,7 +60,7 @@ Step 4 - Add Filter Rules
     * You added all the segments you want to track within a category
     * The Save and Process button triggers Bizible to sync all your Touchpoints and apply the new information you added. This process takes 7 days and rules cannot be changed during this period
 
-***`Additional Notes:`***
+***Additional Notes:***
 
 If rules aren’t set up for both Leads/Contacts and Opportunities, you will see only a portion of your data. To elaborate, if you do not set up the Opportunities rules, you will only see Lead/Contact data without the Opportunities associated with it. The same is true if you do not set up rules for Leads/Contacts--you will only see Opportunities without the associated Leads/Contacts.
 

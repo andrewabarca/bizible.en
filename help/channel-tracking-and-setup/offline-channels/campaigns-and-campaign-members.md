@@ -103,8 +103,7 @@ Once your date and time is set, click the **Update Selected Records** button to 
 
 Learn all about Campaign Costs [in this article](http://docs.marketo.com/x/QAEgAQ).
 
-##  
-Campaign Member Removal {#campaign-member-removal}
+## Campaign Member Removal {#campaign-member-removal}
 
 The way that Bizible keeps up with any deleted records in Salesforce, whether they’re deleted Leads or Accounts or Opportunities is to see those records in the API and track that an entry is marked as “IsDeleted.” Unfortunately with Campaign Members, Salesforce introduced a different way of deleting these Campaign Members from a Campaign and they’re actually just marked as “removed” as opposed to “deleted” so the issue is that touchpoints were still living in Salesforce that were related to deleted Campaign Members.
 

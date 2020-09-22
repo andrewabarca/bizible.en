@@ -50,16 +50,15 @@ For Bizible custom entities, we will need full permissions across all of our ent
 >
 >Users who will be closing opportunities also will need the full permissions.
 
-![](assets/4.png)  
+![](assets/4.png)
+
 For Dynamics standard entities, please refer to Bizible’s Dynamics schema document. At a high level, Bizible just needs to read in certain entities in order to gather the appropriate data and write to custom fields that will get installed with the managed solution. We will not create new standard records, nor will we update any standard fields.
 
 ## Include Touchpoints on Page Layouts: {#include-touchpoints-on-page-layouts}
 
-1. For each Entity, navigate to the Form Editor. You can either find this under Settings > Customizations > Customize the System > [Entity] > Forms. Or you can find it on the settings while you’re viewing a record.
+1. For each Entity, navigate to the Form Editor. You can either find this under Settings > Customizations > Customize the System > `[Entity]` > Forms. Or you can find it on the settings while you’re viewing a record.
 
-    1.
-
-        * The entities to configure: Account, Opportunity, Contact, Lead, and Campaign.
+   * The entities to configure: Account, Opportunity, Contact, Lead, and Campaign.
 
    ![](assets/5.png)
 
@@ -78,16 +77,15 @@ For Dynamics standard entities, please refer to Bizible’s Dynamics schema docu
 
 1. Once you’re done updating the form, publish and save your changes.
 
-   ## Schema-related Considerations   
-   {#schema-related-considerations}
+## Schema-related Considerations {#schema-related-considerations}
 
-   **`Revenue`**
+**`Revenue`**
 
-   Bizible points to the standard Actual Revenue field by default. If you are not using this, please explain how you report on revenue to your Solutions Engineer or Success Manager as a custom workflow will be needed.
+Bizible points to the standard Actual Revenue field by default. If you are not using this, please explain how you report on revenue to your Solutions Engineer or Success Manager as a custom workflow will be needed.
 
-   **`Close` `Date`**
+**`Close Date`**
 
-   Bizible points to the Actual Close Date field out of the box. If you are not using this or also use the Estimated Close Date field, please explain your process to your Solutions Engineer or Success Manager. A custom workflow may be need to account for both fields.
+Bizible points to the Actual Close Date field out of the box. If you are not using this or also use the Estimated Close Date field, please explain your process to your Solutions Engineer or Success Manager. A custom workflow may be need to account for both fields.
 
 ## Create your Bizible Account {#create-your-bizible-account}
 

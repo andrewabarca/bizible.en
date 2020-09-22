@@ -10,7 +10,7 @@ This article provides a glossary of all the Bizible Fields that are added to you
   
 For a map of which Object each Bizible Field relates to, please [click here](http://docs.marketo.com/x/2AAgAQ).
 
-A · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · H · I · J · [K](#k) · [L](#l) · [M](#m) · N · [O](#o) · [P](#p) · Q · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · W · X · Y · Z
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · H · I · J · [K](#k) · [L](#l) · [M](#m) · N · [O](#o) · [P](#p) · Q · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · W · X · Y · Z
 
 ## A {#a}
 
@@ -22,27 +22,27 @@ This field populates with the Account name that is associated to the BAT.
   
 There are three ways this field can be populated:  
   
-1) If the touchpoint comes from a paid search effort (either AdWords or BingAds), the Ad Campaign Id from the ad platform will be surfaced here.   
+`1)` If the touchpoint comes from a paid search effort (either AdWords or BingAds), the Ad Campaign Id from the ad platform will be surfaced here.   
   
-2) If the touchpoint did not come from paid search, the field will be populated using the utm_campaign value from the landing page URL.  
+`2)` If the touchpoint did not come from paid search, the field will be populated using the utm_campaign value from the landing page URL.  
   
 e.g. `http://info.bizible.com/adwords-for-lead-generation?utm_source=Event&utm_medium=booth&utm_campaign=Marketo%20Virtual%20Event%20sep2014`  
   
 In this example, Ad Campaign Id would display: __GAId__ Marketing Virtual Event sept2014  
   
-3) If the touchpoint comes from an offline Salesforce Campaign (a conference, dinner, etc.), Ad Campaign Id will surface the Salesforce Campaign Id  
+`3)` If the touchpoint comes from an offline Salesforce Campaign (a conference, dinner, etc.), Ad Campaign Id will surface the Salesforce Campaign Id  
   
 If none of the above, this field will be blank.  
   
 **Ad Campaign Name** | Bizible Touchpoint, Bizible Attribution Touchpoint   
   
-1) If the touchpoint comes from paid search (AdWords/Bing Ads), the ad campaign name from the ad platform will be displayed here.  
+`1)` If the touchpoint comes from paid search (AdWords/Bing Ads), the ad campaign name from the ad platform will be displayed here.  
   
-2) If the touchpoint did not come from paid search, and the landing page URL contains a value for utm_campaign, that value will be populated here.  
+`2)` If the touchpoint did not come from paid search, and the landing page URL contains a value for utm_campaign, that value will be populated here.  
   
-3) If the touchpoint came from a Salesforce Campaign, the name of the Salesforce Campaign will be displayed here.  
+`3)` If the touchpoint came from a Salesforce Campaign, the name of the Salesforce Campaign will be displayed here.  
   
-4) This will populate with the Campaign Name defined for Touchpoints generated from Activities as built within your Bizible Account.  
+`4)` This will populate with the Campaign Name defined for Touchpoints generated from Activities as built within your Bizible Account.  
   
 If none of the above, this field will be blank.  
   
@@ -56,37 +56,37 @@ This field is populated the same way as Ad Campaign Name. However, this field sp
   
 **Ad Content** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint is from paid search (AdWords/Bing Ads), the field will display the full ad copy from the ad platform.   
+`1)` If the touchpoint is from paid search (AdWords/Bing Ads), the field will display the full ad copy from the ad platform.   
   
-2) If the touchpoint is not from paid search, this field will display the utm_content value in the landing page URL.  
+`2)` If the touchpoint is not from paid search, this field will display the utm_content value in the landing page URL.  
   
-3) This will populate with the Subject value from the related Activity that generated the Touchpoint.  
+`3)` This will populate with the Subject value from the related Activity that generated the Touchpoint.  
   
 If neither of the above, this field will be blank.  
   
 **Ad Destination URL** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint is from paid search, this field will display the URL destination you are directed to after clicking on the ad from the search engine.  
+`1)` If the touchpoint is from paid search, this field will display the URL destination you are directed to after clicking on the ad from the search engine.  
   
 If the touchpoint is not from paid search, the field will be blank.  
   
 **Ad Group Id** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint came from paid search, the Ad Group Id from AdWords/Bing Ads will be displayed here.   
+`1)` If the touchpoint came from paid search, the Ad Group Id from AdWords/Bing Ads will be displayed here.   
   
 If the touchpoint did not come from paid search, the field will be blank.   
   
 **Ad Group Name** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint came from paid search, the Ad Group Name from AdWords/Bing Ads will be displayed here.   
+`1)` If the touchpoint came from paid search, the Ad Group Name from AdWords/Bing Ads will be displayed here.   
   
 If the touchpoint did not come from paid search, the field will be blank.  
   
 **Ad Id** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint came from paid search, the Ad Id from AdWords/Bing Ads will be displayed here.  
+`1)` If the touchpoint came from paid search, the Ad Id from AdWords/Bing Ads will be displayed here.  
   
-2) This will populate with the Activity external ID if the Touchpoint is generated from a CRM Activity.  
+`2)` This will populate with the Activity external ID if the Touchpoint is generated from a CRM Activity.  
   
 If the touchpoint did not come from paid search, the field will be blank.  
   
@@ -260,11 +260,11 @@ If the touchpoint comes from paid search, this field will display the matchtype 
   
 **Keyword Text** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint comes from paid search, this field will display the keyword text from the ad platform (Adwords/BingAds) OR the value from the _bk parameter in the landing page URL.   
+`1)` If the touchpoint comes from paid search, this field will display the keyword text from the ad platform (Adwords/BingAds) OR the value from the _bk parameter in the landing page URL.   
   
 e.g. `http://info.bizible.com/intro-guide-b2b-marketing-attribution?_bt=12345678&_bk=marketing%20attribution&_bm=p&gclid=ABc123def456ghi789jkl`  
   
-2) If the touchpoint does not come from paid search, this field will display the utm_term value from the landing page URL.   
+`2)` If the touchpoint does not come from paid search, this field will display the utm_term value from the landing page URL.
   
 [http://www.bizible.com/blog/lead-generation?utm_source=linkedin&utm_medium=Social&utm_campaign=ABC%20Blog&utm_content=Lead%20Gen&utm_term=lead%20gen](http://www.bizible.com/blog/lead-generation?utm_source=linkedin&utm_medium=Social&utm_campaign=ABC%20Blog&utm_content=Lead%20Gen&utm_term=lead%20gen).  
   
@@ -302,13 +302,13 @@ This field shows you the marketing channel, and the sub-channel that a touchpoin
   
 **Medium** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint comes from paid search, the medium from Adwords/BingAds will be displayed here (i.e. CPC).  
+`1)` If the touchpoint comes from paid search, the medium from Adwords/BingAds will be displayed here (i.e. CPC).  
   
-2) If the touchpoint does not come from paid search, this field displays the utm_medium value from the landing page URL.  
+`2)` If the touchpoint does not come from paid search, this field displays the utm_medium value from the landing page URL.  
   
-3) If the touchpoint comes from an offline campaign, this field will display the 'Type' field in the Salesforce Campaign.  
+`3)` If the touchpoint comes from an offline campaign, this field will display the 'Type' field in the Salesforce Campaign.  
   
-4) This will populate with the Activity Type value from the related Activity that generated the Touchpoint.  
+`4)` This will populate with the Activity Type value from the related Activity that generated the Touchpoint.  
   
 If none of the above, Bizible automatically set a Medium value.
 
@@ -394,11 +394,11 @@ T
 
 **Touchpoint Date** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
-1) If the touchpoint came from an online source, this field will display the date and time the touchpoint occurred.  
+`1)` If the touchpoint came from an online source, this field will display the date and time the touchpoint occurred.  
   
-2) If the touchpoint came from an offline event, this field will display the date and time set in the Salesforce Campaign or from the date field selected in the Campaign Sync Rules.  
+`2)` If the touchpoint came from an offline event, this field will display the date and time set in the Salesforce Campaign or from the date field selected in the Campaign Sync Rules.  
   
-3) If the touchpoint came from an Activity, this field will display the date and time of the field selected as the Touchpoint Date in the Activity rules.  
+`3)` If the touchpoint came from an Activity, this field will display the date and time of the field selected as the Touchpoint Date in the Activity rules.  
   
 **Touchpoint Date (FT)** | Bizible Touchpoint  
   
@@ -424,15 +424,15 @@ Closed - The marketing interaction closest to when the Opp is Closed (Won or Los
   
 **Touchpoint Source** | Bizible Touchpoint, Bizible Attribution Touchpoint   
   
-1) If the touchpoint came from paid search, this field will display the name of the ad platform (AdWords/BingAds)  
+`1)` If the touchpoint came from paid search, this field will display the name of the ad platform (AdWords/BingAds)  
   
-2) If the touchpoint came from organic search, this field will display the name of the search engine  
+`2)` If the touchpoint came from organic search, this field will display the name of the search engine  
   
-3) If not #1 or #2, and the utm_source value is present in the landing page URL for the touchpoint, that value will be displayed here  
+`3)` If not #1 or #2, and the utm_source value is present in the landing page URL for the touchpoint, that value will be displayed here  
   
-4) This will populate as CRM Campaign if the Touchpoint is generated from a CRM Campaign.  
+`4)` This will populate as CRM Campaign if the Touchpoint is generated from a CRM Campaign.  
   
-5) This will populate as CRM Activity if the Touchpoint is generated from a CRM Activity.  
+`5)` This will populate as CRM Activity if the Touchpoint is generated from a CRM Activity.  
   
 If none of the above, this field will be populated as 'Web Direct' or 'Web'.   
   

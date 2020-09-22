@@ -72,23 +72,23 @@ Categories
 
 **Revenue**
 
-1. The total revenue amount from Closed Won opportunities, based off the attribution model.
+`1.` The total revenue amount from Closed Won opportunities, based off the attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Overview**
 
-2. Using the Metric dropdown from the Filters menu, this chart shows revenue / pipeline revenue / spend / deals / opportunities / leads / contacts attributed to each channel, shown over time.
+`2.` Using the Metric dropdown from the Filters menu, this chart shows revenue / pipeline revenue / spend / deals / opportunities / leads / contacts attributed to each channel, shown over time.
 
 **Spend**
 
-3. The total amount of recorded spend from both API costs and self reported costs rolled up at the highest Channel level.
+`3.` The total amount of recorded spend from both API costs and self reported costs rolled up at the highest Channel level.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **ROI**
 
-4. Using the Dimensions dropdown from the Filters menu, this shows how much ROI was attributed to each Channel / Subchannel / Campaign / Account / AdGroup / Ad / Advertiser / Creative / Keyword / Placement / Site based off the attribution model during the entire date range selected.
+`4.` Using the Dimensions dropdown from the Filters menu, this shows how much ROI was attributed to each Channel / Subchannel / Campaign / Account / AdGroup / Ad / Advertiser / Creative / Keyword / Placement / Site based off the attribution model during the entire date range selected.
 
 **ROI Summary**
 
@@ -96,13 +96,13 @@ Using the Dimensions dropdown from the Filters menu, this shows how much Revenue
 
 **Deals**
 
-5. The total number of Closed Won opportunities, based of the attribution model count. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within an opportunity using this date type.
+`5.` The total number of Closed Won opportunities, based of the attribution model count. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within an opportunity using this date type.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Cost Per Deal**
 
-6. The total spend divided by the total number of deals, providing an average cost that it takes to acquire one closed won opportunity.
+`6.` The total spend divided by the total number of deals, providing an average cost that it takes to acquire one closed won opportunity.
 
 **Pipeline Revenue**
 
@@ -154,37 +154,37 @@ Categories
 
 **Revenue**
 
-1. The total revenue amount from Closed Won opportunities, based off the attribution model.
+`1.` The total revenue amount from Closed Won opportunities, based off the attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Revenue over time**
 
-2. The total revenue amount from Closed Won opportunities, based off the attribution model showing the trend over a specific time frame. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`2.` The total revenue amount from Closed Won opportunities, based off the attribution model showing the trend over a specific time frame. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
 **Deals**
 
-3. The total number of Closed Won opportunities, based of the attribution model count.
+`3.` The total number of Closed Won opportunities, based of the attribution model count.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Deals over time**
 
-4. The total number of Closed Won opportunities, based off the attribution model showing the trend over a specific time frame. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`4.` The total number of Closed Won opportunities, based off the attribution model showing the trend over a specific time frame. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
 **Pipeline Revenue**
 
-5. The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
+`5.` The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Pipeline Revenue over time**
 
-6. The total potential revenue from any Open Opportunity, based off the attribution model showing the trend over a specific time frame. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`6.` The total potential revenue from any Open Opportunity, based off the attribution model showing the trend over a specific time frame. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
@@ -250,7 +250,7 @@ Click to Show Details and drill into the data by viewing it as a visualization a
 
 **Unique Visits over time**
 
-16. The total number of unique site visits tracked showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`16.` The total number of unique site visits tracked showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
@@ -258,7 +258,7 @@ Drill in to view the data from a smaller date dimension.
 
 **Forms**
 
-17. The total number of forms submitted across all known and anonymous visitors.
+`17.` The total number of forms submitted across all known and anonymous visitors.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
@@ -266,7 +266,7 @@ Click to Show Details and drill into the data by viewing it as a visualization a
 
 **Forms over time**
 
-18. The total number of forms submitted showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`18.` The total number of forms submitted showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
@@ -298,15 +298,15 @@ Categories
 
 **Campaign ROI Summary**
 
-1. A list of campaigns based on how much revenue, spend, and ROI attributed to each campaign, sorted by the highest revenue based off the selected attribution model.
+`1.` A list of campaigns based on how much revenue, spend, and ROI attributed to each campaign, sorted by the highest revenue based off the selected attribution model.
 
 **Creative ROI Summary**
 
-2. A list of creatives based on how much revenue, spend, and ROI attributed to each creative, sorted by the highest revenue based off the selected attribution model.
+`2.` A list of creatives based on how much revenue, spend, and ROI attributed to each creative, sorted by the highest revenue based off the selected attribution model.
 
 **Keyword ROI Summary**
 
-3. A list of keywords based on how much revenue, spend, and ROI attributed to each keywords, sorted by the highest revenue based off the selected attribution model.
+`3.` A list of keywords based on how much revenue, spend, and ROI attributed to each keywords, sorted by the highest revenue based off the selected attribution model.
 
 ### Account Based Marketing {#account-based-marketing}
 
@@ -324,7 +324,7 @@ Group By is Channel
 
 Accounts is equal to __
 
-![](assets/6.png)
+![](assets/`6.`png)
 
 **Revenue**
 
@@ -532,7 +532,7 @@ A list of landing pages based on the number of leads that were generated from ea
 
 A list of form URLs based on the number of leads that were generated from each URL, sorted by the most number of leads.
 
-# Role-Based Views {#role-based-views}
+## Role-Based Views {#role-based-views}
 
 ### CMO {#cmo}
 
@@ -560,33 +560,33 @@ Categories
 
 **Revenue**
 
-1. The total revenue amount from Closed Won opportunities, based off the attribution model.
+`1.` The total revenue amount from Closed Won opportunities, based off the attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Overview**
 
-2. Using the Metric dropdown from the Filters menu, this chart shows revenue / pipeline revenue / spend / deals / opportunities / leads / contacts attributed to each channel, shown over time.
+`2.` Using the Metric dropdown from the Filters menu, this chart shows revenue / pipeline revenue / spend / deals / opportunities / leads / contacts attributed to each channel, shown over time.
 
 **Spend**
 
-3. The total amount of recorded spend from both API costs and self reported costs rolled up at the highest Channel level.
+`3.` The total amount of recorded spend from both API costs and self reported costs rolled up at the highest Channel level.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **ROI**
 
-4. The calculated ROI (return on investment) from the total revenue (from the selected attribution model) and total spend.
+`4.` The calculated ROI (return on investment) from the total revenue (from the selected attribution model) and total spend.
 
 **Deals**
 
-5. The total number of Closed Won opportunities, based of the attribution model count. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within an opportunity using this date type.
+`5.` The total number of Closed Won opportunities, based of the attribution model count. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within an opportunity using this date type.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Cost per Deal**
 
-6. The total spend divided by the total number of deals, providing an average cost that it takes to acquire one closed won opportunity.
+`6.` The total spend divided by the total number of deals, providing an average cost that it takes to acquire one closed won opportunity.
 
 **Pipeline Revenue**
 
@@ -640,67 +640,67 @@ Categories
 
 **Revenue**
 
-1. The total revenue amount from Closed Won opportunities, based off the attribution model.
+`1.` The total revenue amount from Closed Won opportunities, based off the attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Spend**
 
-2. The total amount of recorded spend from both API costs and self reported costs rolled up at the highest Channel level.
+`2.` The total amount of recorded spend from both API costs and self reported costs rolled up at the highest Channel level.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **ROI**
 
-3. The calculated ROI (return on investment) from the total revenue (from the selected attribution model) and total spend.
+`3.` The calculated ROI (return on investment) from the total revenue (from the selected attribution model) and total spend.
 
 **Pipeline Revenue**
 
-4. The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
+`4.` The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Overview**
 
-5. Using the Metric dropdown from the Filters menu, this chart shows revenue / pipeline revenue / spend / deals / opportunities / leads / contacts / visits / unique visits / impressions / clicks / forms over time.
+`5.` Using the Metric dropdown from the Filters menu, this chart shows revenue / pipeline revenue / spend / deals / opportunities / leads / contacts / visits / unique visits / impressions / clicks / forms over time.
 
 **Impressions**
 
-6. The total number of impressions served from all the connected ads accounts.
+`6.` The total number of impressions served from all the connected ads accounts.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **CPM**
 
-7. The total spend from the served impressions divided by the total impressions (divided by 1000), providing the CPM rate.
+`7.` The total spend from the served impressions divided by the total impressions (divided by 1000), providing the CPM rate.
 
 **Clicks**
 
-8. The total number of clicks tracked from all the connected ads accounts.
+`8.` The total number of clicks tracked from all the connected ads accounts.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **CPC**
 
-9. The total spend from the clicks tracked divided by the total clicks, providing the CPC rate.
+`9.` The total spend from the clicks tracked divided by the total clicks, providing the CPC rate.
 
 **Leads**
 
-10. The total number of leads created in the CRM.
+`10.` The total number of leads created in the CRM.
 
 **Cost Per Lead**
 
-11. The total spend from the leads created divided by the total clicks, providing the CPL rate.
+`11.` The total spend from the leads created divided by the total clicks, providing the CPL rate.
 
 **Visits**
 
-12. The total number of site visits tracked across all known and anonymous visitors.
+`12.` The total number of site visits tracked across all known and anonymous visitors.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Unique Visits**
 
-13. The total number of unique site visits tracked across all known and anonymous visitors.
+`13.` The total number of unique site visits tracked across all known and anonymous visitors.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
@@ -746,77 +746,77 @@ Categories
 
 **Total Revenue**
 
-1. The total revenue amount from Closed Won opportunities from digital sources only, based off the attribution model.
+`1.` The total revenue amount from Closed Won opportunities from digital sources only, based off the attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Landing Pages by Revenue**
 
-2. A list of landing pages based on how much revenue was attributed to each landing page, sorted by the highest revenue based off the selected attribution model.
+`2.` A list of landing pages based on how much revenue was attributed to each landing page, sorted by the highest revenue based off the selected attribution model.
 
 **Total Pipeline Revenue**
 
-3. The total potential revenue from any Open Opportunity from digital sources only, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
+`3.` The total potential revenue from any Open Opportunity from digital sources only, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Landing Pages by Pipeline Revenue**
 
-4. A list of landing pages based on how much pipeline revenue was attributed to each landing page, sorted by the most pipeline revenue based off the selected attribution model.
+`4.` A list of landing pages based on how much pipeline revenue was attributed to each landing page, sorted by the most pipeline revenue based off the selected attribution model.
 
 **Total Opportunities**
 
-5. The total number of Opportunities from digital sources only, based off the attribution model.
+`5.` The total number of Opportunities from digital sources only, based off the attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Landing Pages by Opportunity Count**
 
-6. A list of landing pages based on how many opportunities were attributed to each landing page, sorted by the highest number of opportunities based off the selected attribution model.
+`6.` A list of landing pages based on how many opportunities were attributed to each landing page, sorted by the highest number of opportunities based off the selected attribution model.
 
 **Forms**
 
-7. The total number of forms submitted throughout all tracked pages.
+`7.` The total number of forms submitted throughout all tracked pages.
 
 **Top Form URLs by Form Submit**
 
-8. A list of form URLs based on the number of forms that were submitted on each URL, sorted by the most number of forms submitted on a page.
+`8.` A list of form URLs based on the number of forms that were submitted on each URL, sorted by the most number of forms submitted on a page.
 
 **Form URLs by Channel**
 
-9. The top 10 form URLs grouped by the channel that’s driving the visit.
+`9.` The top 10 form URLs grouped by the channel that’s driving the visit.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Unique Visits**
 
-10. The total number of unique site visits tracked across all known and anonymous visitors.
+`10.` The total number of unique site visits tracked across all known and anonymous visitors.
 
 Drill in to see the unique site visits tracked by month.
 
 **Top Landing Pages by Unique Visits**
 
-11. A list of landing pages based on the number of unique visits to each landing page, sorted by the pages with the most number of unique visits.
+`11.` A list of landing pages based on the number of unique visits to each landing page, sorted by the pages with the most number of unique visits.
 
 Drill in to see the unique visits by month to the selected URL.
 
 **Visits**
 
-12. The total number of site visits tracked across all known and anonymous visitors.
+`12.` The total number of site visits tracked across all known and anonymous visitors.
 
 **Top Landing Pages by Visits**
 
-13. A list of landing pages based on the number of initial visits to each landing page, sorted by the pages with the most number of visits.
+`13.` A list of landing pages based on the number of initial visits to each landing page, sorted by the pages with the most number of visits.
 
 **Leads**
 
-14. The total number of Leads, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within a Lead record using this date type. If an attribution model beyond U-Shaped is applied, the U-Shaped count is used for W-Shaped, W-Shaped, and Custom Model.
+`14.` The total number of Leads, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within a Lead record using this date type. If an attribution model beyond U-Shaped is applied, the U-Shaped count is used for W-Shaped, W-Shaped, and Custom Model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Landing Pages by Lead Count**
 
-15. A list of page URLs based on the number of leads created from each URL, sorted by the pages with the most leads.
+`15.` A list of page URLs based on the number of leads created from each URL, sorted by the pages with the most leads.
 
 ### Marketing Ops {#marketing-ops}
 
@@ -862,31 +862,31 @@ Touchpoint Details
 
 **Accounts**
 
-1. List of all accounts with touchpoints. The information for each account includes engagement rating, number of opportunities, number of contacts, number of leads, number of attribution touchpoints, and number of touchpoint.
+`1.` List of all accounts with touchpoints. The information for each account includes engagement rating, number of opportunities, number of contacts, number of leads, number of attribution touchpoints, and number of touchpoint.
 
 Click the aggregated numbers to drill down for base data details.
 
 **Opportunities**
 
-2. List of all opportunities with attribution touchpoints. The information for each opportunity includes the opportunity amount, number of contacts, and number of attribution touchpoints.
+`2.` List of all opportunities with attribution touchpoints. The information for each opportunity includes the opportunity amount, number of contacts, and number of attribution touchpoints.
 
 Click the aggregated numbers to drill down for base data details.
 
 **Contacts**
 
-3. List of all contacts with touchpoints. The information for each contact includes number of attribute touchpoints and number of touchpoints
+`3.` List of all contacts with touchpoints. The information for each contact includes number of attribute touchpoints and number of touchpoints
 
 Click the aggregated numbers to drill down for base data details.
 
 **Leads**
 
-4. List of all leads with touchpoints. The information for each lead includes number of touchpoints.
+`4.` List of all leads with touchpoints. The information for each lead includes number of touchpoints.
 
 Click the aggregated numbers to drill down for base data details.
 
 **Campaigns**
 
-5. List of all campaigns with touchpoints. The information for each campaign includes campaign spend, attribute amount, number of attribution touchpoints, and number of touchpoints.
+`5.` List of all campaigns with touchpoints. The information for each campaign includes campaign spend, attribute amount, number of attribution touchpoints, and number of touchpoints.
 
 Click the aggregated numbers to drill down for base data details.
 
@@ -928,49 +928,49 @@ Channel is equal to __
 
 Subchannel is equal to __
 
-![](assets/18.png)
+![](assets/`18.`png)
 
 ![](assets/19.png)
 
 **Velocity (days)**
 
-1. The average number of days that Opportunities are in their sales cycle, from the first anonymous touch through the opportunity close.
+`1.` The average number of days that Opportunities are in their sales cycle, from the first anonymous touch through the opportunity close.
 
 **Active Opportunities**
 
-2. The total number of opportunities from any Open Opportunity, meaning that it is not Closed Lost or Closed Won.
+`2.` The total number of opportunities from any Open Opportunity, meaning that it is not Closed Lost or Closed Won.
 
 **Average Deal Size**
 
-3. The average amount of a Closed Won opportunity.
+`3.` The average amount of a Closed Won opportunity.
 
 **Win Rate**
 
-4. The total number of Closed Won opportunities divided by the total number of Closed Lost and Closed Won Opportunities, showing the win rate percentage.
+`4.` The total number of Closed Won opportunities divided by the total number of Closed Lost and Closed Won Opportunities, showing the win rate percentage.
 
 **Opportunity Velocity by Channel**
 
-5. The average number of days that Opportunities are in their cycle per stage, grouped by the Marketing Channel and showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC, OC) and custom stages.
+`5.` The average number of days that Opportunities are in their cycle per stage, grouped by the Marketing Channel and showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC, OC) and custom stages.
 
 **Lead Velocity by Channel**
 
-6. The average number of days that Leads are in their cycle per stage before they’re converted to a Contact/Opportunity/Account, grouped by the Marketing Channel and showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC) and custom stages.
+`6.` The average number of days that Leads are in their cycle per stage before they’re converted to a Contact/Opportunity/Account, grouped by the Marketing Channel and showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC) and custom stages.
 
 **Average Opportunity Velocity**
 
-7. The average number of days that Opportunities are in their cycle per stage, showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC, OC) and custom stages. The numbers here reflect the time per stage in the Opportunity Velocity by Channel chart above.
+`7.` The average number of days that Opportunities are in their cycle per stage, showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC, OC) and custom stages. The numbers here reflect the time per stage in the Opportunity Velocity by Channel chart above.
 
 **Average Lead Velocity**
 
-8. The average number of days that Leads are in their cycle per stage before they’re converted to a Contact/Opportunity/Account, showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC) and custom stages. The numbers here reflect the time per stage in the Lead Velocity by Channel chart above.
+`8.` The average number of days that Leads are in their cycle per stage before they’re converted to a Contact/Opportunity/Account, showing length of time it takes to progress to the next stage. The stages that appear here are milestone stages (FT, LC) and custom stages. The numbers here reflect the time per stage in the Lead Velocity by Channel chart above.
 
 **Opportunity Velocity over time**
 
-9. The average number of days that Opportunities are in their cycle per stage with a trend over time.
+`9.` The average number of days that Opportunities are in their cycle per stage with a trend over time.
 
 **Lead Velocity over time**
 
-10. The average number of days that Leads are in their cycle per stage with a trend over time.
+`10.` The average number of days that Leads are in their cycle per stage with a trend over time.
 
 ### Snapshot {#snapshot}
 
@@ -986,19 +986,19 @@ Leads or Contacts
 
 **Lead/Contact Snapshot**
 
-1. The number of Lead or Contact records that were in each stage on the date selected.
+`1.` The number of Lead or Contact records that were in each stage on the date selected.
 
 **Lead/Contact Snapshot (Table)**
 
-2. The number of Lead or Contact records that were in each stage on the date selected.
+`2.` The number of Lead or Contact records that were in each stage on the date selected.
 
 **Opportunity Snapshot**
 
-3. The number of Opportunity records that were in each stage on the date selected.
+`3.` The number of Opportunity records that were in each stage on the date selected.
 
 **Opportunity Snapshot (Table)**
 
-4. The number of Opportunity records that were in each stage on the date selected.
+`4.` The number of Opportunity records that were in each stage on the date selected.
 
 ### Passport {#passport}
 
@@ -1024,11 +1024,11 @@ Categories
 
 **Lead/Contact Passport**
 
-1. & 2. Each stage shows the number of records in each Lead Status or Contact Stage and the total of records that have passed through each stage.
+`1.` & `2.` Each stage shows the number of records in each Lead Status or Contact Stage and the total of records that have passed through each stage.
 
 **Opportunity Passport**
 
-3. Each stage shows the number of records in each Opportunity Stage and the total of records that have passed through each stage.
+`3.` Each stage shows the number of records in each Opportunity Stage and the total of records that have passed through each stage.
 
 ### Engagement Path {#engagement-path}
 

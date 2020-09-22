@@ -14,11 +14,13 @@ Granting login access differs slightly depending on whether you are using Salesf
 
 Depending on your Organization, the Setup button will either be beside your name at the top-right corner of the page, or listed as a drop-down option when you click on your name.
 
-1. To access the **Grant Login Access*** *page in Salesforce Classic User Interface, either:
+1. To access the **Grant Login Access** page in Salesforce Classic User Interface, either:
 
-    * `Click on Setup > My Personal Information > Grant Login Access.`OR
+    * Click on **Setup** > **My Personal Information** > **Grant Login Access**.
     
-    * `Click on your name > My Settings > Personal > Grant Account Login Access.`
+      OR
+    
+    * Click on `<your name>` > **My Settings** > **Personal** > **Grant Account Login Access**.
 
 1. Set the access expiration date for Bizible Support. For technical troubleshooting, we recommend granting Bizible support access for at least one week. 
 1. Click **Save**.

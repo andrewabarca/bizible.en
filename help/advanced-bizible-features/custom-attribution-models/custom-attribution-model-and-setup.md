@@ -26,9 +26,11 @@ Bizible's Custom Attribution model allows users to choose which touchpoints or c
 
    >[!NOTE]
    >
-   >**All **Leads/Contacts and Opportunity stages will appear here, even if the stage is inactive or no longer used in Salesforce. If you want these stages removed, you'll need to hard delete them in Salesforce.
+   >*All* Leads/Contacts and Opportunity stages will appear here, even if the stage is inactive or no longer used in Salesforce. If you want these stages removed, you'll need to hard delete them in Salesforce.
 
-   **Save & Process****Attribution Settings**If there are other stages that you want to include in the model, but they are not in the Lead/Contact Status or Opportunity Stage list, you can define your own custom stage based off of fields in your CRM.
+   When you've selected your stages, be sure to click the **Save & Process** button at the bottom of the page. The stages will now appear in the **Attribution Settings** tab and you'll be able to assign attribution percentages to each stage. Custom stages will also be displayed in the Marketing Performance Suite as a Lead or Opportunity stage within the Demand Waterfall.
+
+   If there are other stages that you want to include in the model, but they are not in the Lead/Contact Status or Opportunity Stage list, you can define your own custom stage based off of fields in your CRM.
 
    In the example below, a custom “MQL” stage is defined using a date field. The rule simply states that if the MQL Date field isn’t empty, it should be considered an MQL and should be included in the custom model. Please note it is also important to sort the custom stages once they have been created so that it follows the progression of your sales cycle.
 
