@@ -84,7 +84,7 @@ This is not available for Dynamics customers
 
 ## FAQ {#faq}
 
-##### Can we enable touchpoints on Marketing Lists or only campaigns in Dynamics? {#can-we-enable-touchpoints-on-marketing-lists-or-only-campaigns-in-dynamics}
+**Can we enable touchpoints on Marketing Lists or only campaigns in Dynamics?**
 
 You can enable a Marketing List but it needs to be related to a Campaign because the option to sync a Marketing List lives on the Campaign.
 

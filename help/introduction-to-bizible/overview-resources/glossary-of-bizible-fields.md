@@ -118,7 +118,7 @@ This field will display the percentage of revenue attributed to a touchpoint acc
 
 [Click here to return to the top of the page](#top)
 
-##  B {#b}
+## B {#b}
 
 **Bizible Opportunity Amount** | Salesforce Opportunity   
   
@@ -130,7 +130,7 @@ This field displays the type of web browser used during the web session (Chrome,
 
 [Click here to return to the top of the page](#top)
 
-##  C {#c}
+## C {#c}
 
 **Contact** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
@@ -188,7 +188,7 @@ This field shows, in decimal form, the percentage of credit given to a touchpoin
 
 [Click here to return to the top of the page](#top)
 
-##  D {#d}
+## D {#d}
 
 Date Reported | Bizible ABTest, Bizible Event  
   
@@ -198,7 +198,7 @@ Bizible ABTest - the date when a user participated in an A/B Test on your websit
 
 [Click here to return to the top of the page](#top)
 
-##  E {#e}
+## E {#e}
 
 **Event Name** | Bizible Event  
   
@@ -218,7 +218,7 @@ The unique identification code for each experiment
 
 [Click here to return to the top of the page](#top)
 
-##  F {#f}
+## F {#f}
 
 Form URL | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
@@ -230,7 +230,7 @@ This field displays the entire page URL where the form fill occurred, including 
 
 [Click here to return to the top of the page](#top)
 
-##  G {#g}
+## G {#g}
 
 Geo City | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
@@ -246,7 +246,7 @@ This field displays the region or state where the lead/contact visited your webs
 
 [Click here to return to the top of the page](#top)
 
-##  K {#k}
+## K {#k}
 
 **Keyword Id** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
@@ -272,7 +272,7 @@ If the touchpoint did not come from paid search, or there is no utm_term value, 
 
 [Click here to return to the top of the page](#top)
 
-##  L {#l}
+## L {#l}
 
 **Landing Page** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
@@ -288,7 +288,7 @@ This field displays the name of the lead a touchpoint belongs to.
 
 [Click here to return to the top of the page](#top)
 
-##  M {#m}
+## M {#m}
 
 **Marketing Channel** | Bizible Touchpoint, Bizible Attribution Touchpoint  
   
@@ -462,7 +462,7 @@ Optimizely's unique identification code for each use
 
 [Click here to return to the top of the page](#top)
 
-##  V {#v}
+## V {#v}
 
 **Variation** | Bizible ABTest  
   

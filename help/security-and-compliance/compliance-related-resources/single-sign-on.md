@@ -144,7 +144,7 @@ Once Custom SSO has been set up, the Users page will be updated to only show ext
 
 Only valid Google accounts can be added and must have a User Role defined.
 
-##  External Links {#external-links}
+## External Links {#external-links}
 
 * [Okta](http://developer.okta.com/standards/SAML/setting_up_a_saml_application_in_okta)
 * [Ping Identity](http://docs.pingidentity.com/bundle/p1_enterpriseConfigSsoSaml_cas/page/enableAppWithoutURL.html)

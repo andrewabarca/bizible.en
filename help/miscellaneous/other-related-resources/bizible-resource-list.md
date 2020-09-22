@@ -10,12 +10,12 @@ Here are various links to pertinent articles/videos to help you get up and runni
 
 ## Articles {#articles}
 
-##### General Knowledge {#general-knowledge}
+**General Knowledge**
 
 * [What is Marketing Attribution?](http://docs.marketo.com/display/BIZ/Marketing+Attribution)
 * [Bizible Attribution Models](http://docs.marketo.com/display/BIZ/Bizible+Attribution+Models)
 
-Configuration
+**Configuration**
 
 * [Marketing Channel Setup, Best Practice](http://docs.marketo.com/display/BIZ/Marketing+Channels+and+Sub-Channels)
 * [Online Channel Setup](http://docs.marketo.com/display/BIZ/Online+Custom+Channel+Setup)
@@ -26,16 +26,15 @@ Configuration
 * [Uploading Marketing Spend](http://docs.marketo.com/display/BIZ/Marketing+Channel+Costs#MarketingChannelCosts-marketingcosts)
 * [Re-connect Ad Accounts](http://docs.marketo.com/display/BIZ/Reauthorizing+Connected+Accounts)
 * [Adding Bizible Javascript](http://docs.marketo.com/display/BIZ/Adding+Bizible+Script)
-
     * [Adding Bizible Javascript to Different Form Providers](http://docs.marketo.com/display/BIZ/Adding+Bizible+Script+to+Different+Form+Providers)
     * [Exclude Forms](http://docs.marketo.com/display/BIZ/Excluding+Bizible+from+Specific+Forms)
 
-Reporting
+**Reporting**
 
 * [Creating Custom Report Types with Bizible](http://docs.marketo.com/display/BIZ/Creating+Custom+Bizible+Report+Types) (if you need to report on custom Lead/Contact/Opportunity fields)
 * [Glossary of Bizible fields](http://docs.marketo.com/display/BIZ/Glossary+of+Bizible+Fields)
 
-Troubleshooting
+**Troubleshooting**
 
 * [Granting Bizible Support Access to SFDC](http://docs.marketo.com/display/BIZ/Granting+Salesforce+Access+to+Bizible+Support)
 * Email: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#196a6c6969766b6d597b7063707b757c377a7674) to open support tickets
@@ -44,11 +43,9 @@ Troubleshooting
 
 Here are a couple of videos to help you get up to speed:
 
-* [Bizible Intro Training](https://embed.vidyard.com/watch/Pb4DuWJwtFgw3jUBDGneb4)** **(22 mins)
-
+* [Bizible Intro Training](https://embed.vidyard.com/watch/Pb4DuWJwtFgw3jUBDGneb4) (22 mins)
 * [Bizible Reporting in SFDC](https://universityonline.marketo.com/courses/bizible-and-salesforce/) (30-45mins)
-
-[**Bizible 101**](https://universityonline.marketo.com/courses/bizible-101/)** (~30 minutes)**
+* [Bizible 101](https://universityonline.marketo.com/courses/bizible-101/) (~30 minutes)
 
 This course series is designed as a general introduction to the basic concepts you'll need to know to master Bizible. It provides an introduction to the concept of attribution, what Bizible does as a tool, and the general framework on which Bizible operates.
 
@@ -73,9 +70,7 @@ Topics covered:
 * Opportunities by ID Report
 * Opportunities by Channel Report
 
-** **
-
-** [Channel Management](http://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/)**
+[Channel Management](http://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/)**
 
 This course covers various ways that you can customize Bizible, in terms of online and offline tracking. This course is more advanced, and may not be relevant to all users.
 

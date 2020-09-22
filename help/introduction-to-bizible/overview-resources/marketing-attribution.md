@@ -10,8 +10,7 @@ title: Marketing Attribution
 
 Bizible gives marketers insight into which marketing efforts are the most effective in driving revenue for their company. Bizible is a marketing attribution solution that automatically tracks and reports on channel performance, providing visibility into which channels are driving the most customer engagement and allowing you to optimize your marketing spend accordingly.
 
-## Marketing Attribution   
-{#marketing-attribution-1}
+## Marketing Attribution {#marketing-attribution-1}
 
 **Marketing attribution** is the process of assigning revenue credit to a marketing touchpoint. This is done by tracking a prospect’s entire customer journey, starting from their very first interaction with your company to when the deal closes. The revenue generated from the deal gets attributed back to the marketing touchpoints that drove the sale. The amount of revenue credit given to a touchpoint depends on how much that touchpoint influenced the customer’s purchasing decision.
 

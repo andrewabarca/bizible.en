@@ -53,10 +53,9 @@ There are many components that go into the algorithm that calculates the PES. Re
 >
 >You may notice a grade of "N/A" or "-" (the dash symbol) in your Predictive Engagement Score for some Accounts.
 
-*A grade of "N/A" simply means that we do not have sufficient data yet on that account for our model to generate a true grade - with more data, a grade will be given eventually.* *A grade of "-" (the dash symbol) means that this account has yet to be processed by our ABM process, due to time constraints, occasionally missed processes, etc. If you believe an Account should have a grade, based on other similar accounts or timeframes, please reach out and let Bizible know.  
-*
+*A grade of "N/A" simply means that we do not have sufficient data yet on that account for our model to generate a true grade - with more data, a grade will be given eventually.* *A grade of "-" (the dash symbol) means that this account has yet to be processed by our ABM process, due to time constraints, occasionally missed processes, etc. If you believe an Account should have a grade, based on other similar accounts or timeframes, please reach out and let Bizible know.*
 
-##  Setting up ABM Page Layout in Salesforce {#setting-up-abm-page-layout-in-salesforce}
+## Setting up ABM Page Layout in Salesforce {#setting-up-abm-page-layout-in-salesforce}
 
 To begin using the PES, you simply need to add the PES field and Related List to the appropriate page layouts in Salesforce.
 

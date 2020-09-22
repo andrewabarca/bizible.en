@@ -98,7 +98,7 @@ When reporting on leads (people) in Bizible Discover, you'll see the total of yo
 
 ## FAQ {#faq}
 
-##### Why do my lead counts differ between my CRM and Bizible Discover? {#why-do-my-lead-counts-differ-between-my-crm-and-bizible-discover}
+**Why do my lead counts differ between my CRM and Bizible Discover?**
 
 Because this integration allows us to create touchpoints for leads that we’ve imported directly from Marketo, there may be leads that didn’t get synced to the CRM so therefore the count within Discover could be higher than the CRM since touchpoints are only pushed for the CRM Leads.
 

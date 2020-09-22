@@ -42,7 +42,7 @@ Passport Funnel
 
 Engagement Path
 
-# Bizible Boards {#bizible-boards}
+## Bizible Boards {#bizible-boards}
 
 ### Overview {#overview}
 
@@ -636,9 +636,7 @@ Categories
 
 ![](assets/13.png)
 
-** ![](assets/14.png)
-
-**
+![](assets/14.png)
 
 **Revenue**
 
@@ -862,31 +860,31 @@ Touchpoint Details
 
 ![](assets/mark-ops.png)
 
-**Accounts **
+**Accounts**
 
 1. List of all accounts with touchpoints. The information for each account includes engagement rating, number of opportunities, number of contacts, number of leads, number of attribution touchpoints, and number of touchpoint.
 
 Click the aggregated numbers to drill down for base data details.
 
-**Opportunities **
+**Opportunities**
 
 2. List of all opportunities with attribution touchpoints. The information for each opportunity includes the opportunity amount, number of contacts, and number of attribution touchpoints.
 
 Click the aggregated numbers to drill down for base data details.
 
-**Contacts **
+**Contacts**
 
 3. List of all contacts with touchpoints. The information for each contact includes number of attribute touchpoints and number of touchpoints
 
 Click the aggregated numbers to drill down for base data details.
 
-**Leads **
+**Leads**
 
 4. List of all leads with touchpoints. The information for each lead includes number of touchpoints.
 
 Click the aggregated numbers to drill down for base data details.
 
-**Campaigns **
+**Campaigns**
 
 5. List of all campaigns with touchpoints. The information for each campaign includes campaign spend, attribute amount, number of attribution touchpoints, and number of touchpoints.
 
@@ -912,7 +910,7 @@ A: Yes, when hovering over the tile title (e.g., ‘Accounts’), click on the t
 Q: Can I see beyond 500 rows of data?  
 A: The tile is limited to displaying 500 rows at a time, but you can export the data and choose ‘All Results’ to see more than the 500 rows displayed.
 
-# Journey {#journey}
+## Journey {#journey}
 
 ### Sales Velocity {#sales-velocity}
 

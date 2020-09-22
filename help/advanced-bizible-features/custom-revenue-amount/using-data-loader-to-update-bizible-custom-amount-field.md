@@ -8,8 +8,7 @@ title: Using Data Loader to Update Bizible Custom Amount Field
 
 Bizible recommends using Data Loader as a convenient option to update opportunity values when using a custom revenue field (we use the Amount field out of the box) in Bizible. Data Loader is preferred over using the Bizible update script as the script requires users to disable all Salesforce validation rules while the Bizible script runs.
 
-## Using Data Loader to Update Bizible Custom Amount Field  
-{#using-data-loader-to-update-bizible-custom-amount-field-1}
+## Using Data Loader to Update Bizible Custom Amount Field{#using-data-loader-to-update-bizible-custom-amount-field-1}
 
 1. Create an excel sheet with the:
 

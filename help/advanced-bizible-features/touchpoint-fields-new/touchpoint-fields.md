@@ -194,7 +194,7 @@ The rule references the same Touchpoint Field and searches for values that are â
 
 ## FAQ {#faq}
 
-##### Is there a maximum number of Touchpoint Fields that we can create? {#is-there-a-maximum-number-of-touchpoint-fields-that-we-can-create}
+**Is there a maximum number of Touchpoint Fields that we can create?**
 
 There is a limit of 100 fields.
 

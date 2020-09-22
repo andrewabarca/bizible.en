@@ -60,19 +60,18 @@ You can easily check the Bizible Touchpoints and Bizible Attribution Touchpoint 
 
 ## Testing {#testing}
 
-##### 1. The Campaign Sync feature comes with a testing feature so that you can check if the rules you’ve created actually fit the Campaign criteria. Begin by clicking the Test button. The rules must be saved first before you can begin testing.  {#the-campaign-sync-feature-comes-with-a-testing-feature-so-that-you-can-check-if-the-rules-you-ve-created-actually-fit-the-campaign-criteria-begin-by-clicking-the-test-button-the-rules-must-be-saved-first-before-you-can-begin-testing}
+1. The Campaign Sync feature comes with a testing feature so that you can check if the rules you’ve created actually fit the Campaign criteria. Begin by clicking the Test button. The rules must be saved first before you can begin testing.
 
-![](assets/7-1.png)
+   ![](assets/7-1.png)
 
-A pop-up will appear where you can enter a Campaign Id (either 15 or 18 characters from the CRM) to test. The point is to enter the Campaign Id from the CRM that you were trying to sync to ensure it matches up with the rule you created.
+   A pop-up will appear where you can enter a Campaign Id (either 15 or 18 characters from the CRM) to test. The point is to enter the Campaign Id from the CRM that you were trying to sync to ensure it matches up with the rule you created.
 
-![](assets/8-1.png)
+   ![](assets/8-1.png)
 
-2. After you click Test, you’ll see the name of the Campaign and the number of Campaign Members that are eligible for touchpoints. A table will appear below that shows all of the rules that match to your Campaign Id. Only the matches will appear.
+1. After you click Test, you’ll see the name of the Campaign and the number of Campaign Members that are eligible for touchpoints. A table will appear below that shows all of the rules that match to your Campaign Id. Only the matches will appear.
 
-![](assets/9.png)
+   ![](assets/9.png)
 
-3. You can also click on the Member count to see a list of the Leads and Contacts and their Ids that are part of the Campaign rule eligibility. This is just a sample set and will display up to 50 so that you can get an idea of which records qualify.
+1. You can also click on the Member count to see a list of the Leads and Contacts and their Ids that are part of the Campaign rule eligibility. This is just a sample set and will display up to 50 so that you can get an idea of which records qualify.
 
-![](assets/10.png)  
-
+   ![](assets/10.png)  

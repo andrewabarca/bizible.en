@@ -53,7 +53,7 @@ Boomerang Stages will impact:
 
 ## FAQ {#faq}
 
-##### Q: How many boomerang stages can I include in my attribution model? {#q-how-many-boomerang-stages-can-i-include-in-my-attribution-model}
+**How many boomerang stages can I include in my attribution model?**
 
 You can select up to 15 stages.
 

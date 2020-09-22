@@ -62,7 +62,7 @@ Any changes to the cost or distribution must be done in the CRM so that we can p
 
 ## FAQ {#faq}
 
-##### I’ve made a change to my campaign - when should I expect to see the changes in the Marketing Spend table or in my reporting? {#i-ve-made-a-change-to-my-campaign-when-should-i-expect-to-see-the-changes-in-the-marketing-spend-table-or-in-my-reporting}
+**I’ve made a change to my campaign - when should I expect to see the changes in the Marketing Spend table or in my reporting?**
 
 3-4 hours
 

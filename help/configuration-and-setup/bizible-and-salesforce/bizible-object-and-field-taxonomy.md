@@ -16,7 +16,7 @@ For the full-sized image, [click here](http://docs.marketo.com/display/biz/asset
 
 ## FAQ {#faq}
 
-#####  Q: What is the logic in the arrows? {#q-what-is-the-logic-in-the-arrows}
+**What is the logic in the arrows?**
 
 A: Each arrow describes the relationship between an object and the other. For example, you'll see that the Bizible Person populates fields on the standard Salesforce Lead Object. If it's pointing to it, then it means that it's populating the receiving end of the arrow.
 

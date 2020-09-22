@@ -9943,7 +9943,7 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
 
 ## Sample Queries {#sample-queries}
 
-##### How many Leads had sessions from Paid Search in 1-month? {#how-many-leads-had-sessions-from-paid-search-in-month}
+**How many Leads had sessions from Paid Search in 1-month?**
 
 ```
 select

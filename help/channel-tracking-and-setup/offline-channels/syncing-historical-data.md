@@ -8,7 +8,7 @@ title: Syncing Historical Data
 
 Bizible is a solution that provides the most granular, actionable data. We understand, however, that you might have existing data you’d like to have attribution for. It's possible to generate Touchpoints for historical data, but it's important to take a few factors into consideration before moving forward with this process.
 
-##   
+##  
 Factors to Consider {#factors-to-consider}
 
 **Is the data already organized into campaigns?**
@@ -35,7 +35,7 @@ Bizible strongly recommends not going past the previous year.
 
 This is a topic we strongly encourage discussing with your Bizible contact first. If you’ve considered the above and would like to proceed, general instructions (separate for Salesforce and Microsoft Dynamics) are below.
 
-##   
+##  
 Syncing Historic Campaigns in Salesforce {#syncing-historic-campaigns-in-salesforce}
 
 **Online:**
@@ -66,7 +66,7 @@ Historical data of offline marketing efforts (those that cannot be tracked via J
 
 If necessary, use the “Bulk Update Touchpoint Date” button to mass edit the touchpoint date for campaign members. For example, if you are creating SFDC campaigns after the event occurred--you’d want to mass edit for the correct date. If you do leverage the Bulk Update Touchpoint Date functionality, make sure to update the Campaign Sync Rule to use the Bizible Touchpoint Date on the date field. Note that this could require getting creative with your Campaign Sync rules if this will only apply to a Campaign or two and not all.
 
-##   
+##  
 Syncing Historic Campaigns in Dynamics {#syncing-historic-campaigns-in-dynamics}
 
 Bizible is able to retroactively generate touchpoints for interactions that occurred in the past, as long as they're organized into Campaigns within Dynamics.   

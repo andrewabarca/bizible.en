@@ -6,8 +6,7 @@ title: Facebook API
 
 # Facebook API {#facebook-api}
 
-## Introduction   
-{#introduction}
+## Introduction {#introduction}
 
 Similar to our AdWords & Bing Ads integrations, our Facebook integration does two fundamental actions:  
 
@@ -123,10 +122,9 @@ For the integration to properly work, you'll need to enable auto-tagging on your
  </tbody> 
 </table>
 
-## FAQ   
-{#faq}
+## FAQ {#faq}
 
-##### Q: What Facebook Ads are supported by Bizible?  {#q-what-facebook-ads-are-supported-by-bizible}
+**What Facebook Ads are supported by Bizible? **
 
 A: Carousel, Single Image. Not Video, Slideshow or Collection at this time. 
 

@@ -6,19 +6,19 @@ title: Understanding Bizible AdWords Tagging
 
 # Understanding Bizible AdWords Tagging {#understanding-bizible-adwords-tagging}
 
-In order to track your ads at a very granular level, the Ad Destination URLs must be unique. To accomplish this, Bizible's autotagging automatically adds tracking parameters to the Ad Destination URLs of your AdWords ads. Let's take a look at an example below.   
+In order to track your ads at a very granular level, the Ad Destination URLs must be unique. To accomplish this, Bizible's autotagging automatically adds tracking parameters to the Ad Destination URLs of your AdWords ads. Let's take a look at an example below.
   
 The following URL will not provide any granular data:
 
-* `http://example.com/landing-page?myParam=foo`*
+* `http://example.com/landing-page?myParam=foo`
 
 However, the same URL will provide granular data because of the Bizible parameters:
 
-* `http://example.com/landing-page?myParam=foo&_bt={creative}&_bk={keyword}&_bm={matchtype}&_bn={network}&_bg={adgroupid`}*
+* `http://example.com/landing-page?myParam=foo&_bt={creative}&_bk={keyword}&_bm={matchtype}&_bn={network}&_bg={adgroupid}`
 
 ## How Bizible's Auto-tagging Works {#how-bizibles-auto-tagging-works}
 
-##### If Bizible finds a Tracking Template: {#if-bizible-finds-a-tracking-template}
+**If Bizible finds a Tracking Template:**
 
 * Bizible will add its parameters to the Tracking Template.
 * If a third-party redirect is found in a Tracking Template such as Kenshoo or Marin, Bizible will take no action. Instead, you must [add Bizible parameters to the third-party tool in your account](http://docs.marketo.com/x/YAEgAQ).
@@ -86,7 +86,7 @@ There are two tracking templates Bizible recommends using. Please use the follow
 
 ## FAQ {#faq}
 
-##### Q: What permissions does the connected user need? {#q-what-permissions-does-the-connected-user-need}
+**What permissions does the connected user need?**
 
 A: userinfo.email
 

@@ -67,15 +67,15 @@ Creative D : Share 234
 
 ![](assets/two.png)
 
-1) Bizible will first look through all Campaigns, Creatives and Shares with an "Active" status. Bizible will not tag paused, archived, or cancelled ads. If an ad was paused, then set to active, we will tag it once it's active again. If we can find a unique Share, meaning it's not used across multiple Creatives or Campaigns (e.g., Creative A : Share 123), Bizible will add our custom parameter >> ?_bl={creativeId} to the share URL.
+`1)` Bizible will first look through all Campaigns, Creatives and Shares with an "Active" status. Bizible will not tag paused, archived, or cancelled ads. If an ad was paused, then set to active, we will tag it once it's active again. If we can find a unique Share, meaning it's not used across multiple Creatives or Campaigns (e.g., Creative A : Share 123), Bizible will add our custom parameter `>> ?_bl={creativeId}` to the share URL.
 
-2) Now if the Share has been shared and lost its uniqueness (for instance, Creative B : Share 234 and Creative C : Share 234 and Creative D : Share 234), Bizible will pause and archive all similar creatives (which would be Creative B, Creative C, and Creative D).
+`2)` Now if the Share has been shared and lost its uniqueness (for instance, Creative B : Share 234 and Creative C : Share 234 and Creative D : Share 234), Bizible will pause and archive all similar creatives (which would be Creative B, Creative C, and Creative D).
 
-3) Bizible will create 3 new creatives, Creative E, Creative F, and Creative G, that copies the content of Creative B, which is archived.
+`3)` Bizible will create 3 new creatives, Creative E, Creative F, and Creative G, that copies the content of Creative B, which is archived.
 
-5) Bizible will also create 3 new shares, Share 345, Share 456, and Share 567, that copies the content of Share 234, except it will have its own unique ?_bl tagging.
+`4)` Bizible will also create 3 new shares, Share 345, Share 456, and Share 567, that copies the content of Share 234, except it will have its own unique `?_bl` tagging.
 
-6) Bizible will have to regularly check that Shares do not get shared and if they do, we will restart the process at step 2 above.
+`5)` Bizible will have to regularly check that Shares do not get shared and if they do, we will restart the process at step 2 above.
 
 >[!NOTE]
 >
@@ -194,7 +194,7 @@ As with other ad integrations, Bizible has defined a marketing channel rule to p
 
 ## FAQ {#faq}
 
-##### What is a Dark Share? {#what-is-a-dark-share}
+**What is a Dark Share?**
 
 A dark share is a post where it is never posted on the company page and immediately gets created and directly added as a Creative. So that Bizible-created Creatives don’t appear at the top of a company’s page and get promoted again, dark shares are used so that it can launch behind the scenes.
 

@@ -1,8 +1,9 @@
 ---
 cloud: experience-cloud
-product: marketo
-archtype: end-user
-user-guide-title: Marketo Product Documentation
+product: bizible
+audience: end-user
+user-guide-title: Bizible Guide
+user-guide-description: Bizible gives marketers insight into which marketing efforts are the most effective in driving revenue for their company.
 ---
 
 # Bizible Help Docs {#using}
@@ -55,7 +56,7 @@ user-guide-title: Marketo Product Documentation
   + Sandbox Testing {#sandbox-testing}
     + [Testing a Staging Environment](configuration-and-setup/sandbox-testing/testing-a-staging-environment.md)
     + [Salesforce Sandbox to Production Migration](configuration-and-setup/sandbox-testing/salesforce-sandbox-to-production-migration.md)
-  + Bizible Insights [Canvas App] {#bizible-insights-canvas-app}
+  + Bizible Insights (Canvas App) {#bizible-insights-canvas-app}
     + [Bizible Insights Explained](configuration-and-setup/bizible-insights-canvas-app/bizible-insights-explained.md)
     + [Bizible Insights Configuration](configuration-and-setup/bizible-insights-canvas-app/bizible-insights-configuration.md)
 + Channel Tracking and Setup {#channel-tracking-and-setup}

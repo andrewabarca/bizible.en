@@ -62,7 +62,7 @@ Bizible comes with 13 default channels that can be used or expanded upon. In add
 
 Bizible will automatically download marketing channel costs from platforms that it has an API integration with, such as Bing Ads and Google AdWords. Costs for platforms that are not integrated with Bizible will need to be uploaded manually. The marketing channels should be set up before the cost data is uploaded.
 
-##  Uploading Marketing Costs {#uploading-marketing-costs}
+## Uploading Marketing Costs {#uploading-marketing-costs}
 
 Once marketing channels and rules have been set up or updated, the associated costs may be uploaded. To do this, follow the steps below:
 
@@ -107,9 +107,9 @@ If you are working in Google Sheets, be sure to download the file first. Do not 
 
 Go to the **Cost** section of the Bizible app and click **Upload.CSV**. The system will refresh and reflect the new information.
 
-##  FAQ {#faq}
+## FAQ {#faq}
 
-##### Why are numbers appearing in the CSV {#why-are-numbers-appearing-in-the-csv}
+**Why are numbers appearing in the CSV**
 
 If no value is entered at a higher level like Channel or Subchannel, Bizible will automatically sum of the child levels for you, which will be presented once your file is uploaded. Also, if the sum of the children is less than a value entered for the parent, Bizible will add an “Other” row to show the difference in the total.
 

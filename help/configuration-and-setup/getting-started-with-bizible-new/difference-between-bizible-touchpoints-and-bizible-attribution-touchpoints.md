@@ -43,7 +43,7 @@ Difference between BT and BAT:
 
 ## FAQ {#faq}
 
-##### When does a Bizible Touchpoint become a Bizible Attribution Touchpoint? {#when-does-a-bizible-touchpoint-become-a-bizible-attribution-touchpoint}
+**When does a Bizible Touchpoint become a Bizible Attribution Touchpoint?**
 
 A BT becomes a BAT once this BT is associated to a Contact that has an associated Opportunity. One very important thing to understand is that one specific marketing interaction can be a BT and BAT.
 
