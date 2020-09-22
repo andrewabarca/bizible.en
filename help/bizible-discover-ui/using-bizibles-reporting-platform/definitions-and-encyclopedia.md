@@ -106,25 +106,25 @@ Click to Show Details and drill into the data by viewing it as a visualization a
 
 **Pipeline Revenue**
 
-7. The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
+`7.` The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Deal Size**
 
-8. The average amount of a Closed Won opportunity.
+`8.` The average amount of a Closed Won opportunity.
 
 **Channel Summary**
 
-9. Using the Metric dropdown from the Filters menu, this is a list of channels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each channel, sorted by the highest based off the selected attribution model.
+`9`. Using the Metric dropdown from the Filters menu, this is a list of channels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each channel, sorted by the highest based off the selected attribution model.
 
 **Subchannel Summary**
 
-10. Using the Metric dropdown from the Filters menu, this is a list of subchannels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each subchannel, sorted by the highest based off the selected attribution model.
+`10.` Using the Metric dropdown from the Filters menu, this is a list of subchannels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each subchannel, sorted by the highest based off the selected attribution model.
 
 **Campaign Summary**
 
-11. Using the Metric dropdown from the Filters menu, this is a list of campaigns based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each campaign, sorted by the highest based off the selected attribution model.
+`11.` Using the Metric dropdown from the Filters menu, this is a list of campaigns based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each campaign, sorted by the highest based off the selected attribution model.
 
 ### Growth {#growth}
 
@@ -190,43 +190,43 @@ Drill in to view the data from a smaller date dimension.
 
 **Leads**
 
-7. The total number of Leads, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within a Lead record using this date type. If an attribution model beyond U-Shaped is applied, the U-Shaped count is used for W-Shaped, W-Shaped, and Custom Model.
+`7.` The total number of Leads, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within a Lead record using this date type. If an attribution model beyond U-Shaped is applied, the U-Shaped count is used for W-Shaped, W-Shaped, and Custom Model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Leads over time**
 
-8. The total number of Leads, based off the attribution model showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`8.` The total number of Leads, based off the attribution model showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
 **Contacts**
 
-9. The total number of Contacts, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within a Contact record using this date type. If an attribution model beyond U-Shaped is applied, the U-Shaped count is used for W-Shaped, W-Shaped, and Custom Model.
+`9.` The total number of Contacts, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within a Contact record using this date type. If an attribution model beyond U-Shaped is applied, the U-Shaped count is used for W-Shaped, W-Shaped, and Custom Model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Contacts over time**
 
-10. The total number of Contacts, based off the attribution model showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`10.` The total number of Contacts, based off the attribution model showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
 **Opportunities**
 
-11. The total number of Opportunities, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within an Opportunity record using this date type.
+`11.` The total number of Opportunities, based off the attribution model. If the date type “Touchpoint Date” is selected, partial counts are possible because it is possible to exclude some touchpoints within an Opportunity record using this date type.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Opportunities over time**
 
-12. The total number of Opportunities, based off the attribution model showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`12.` The total number of Opportunities, based off the attribution model showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
 **Visits**
 
-13. The total number of site visits tracked across all known and anonymous visitors.
+`13.` The total number of site visits tracked across all known and anonymous visitors.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
@@ -234,7 +234,7 @@ Click to Show Details and drill into the data by viewing it as a visualization a
 
 **Visits over time**
 
-14. The total number of site visits tracked showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
+`14.` The total number of site visits tracked showing the trend over a specific time period. Use the Group By filter to change the stack by Channel, Subchannel, Campaign, Account, Ad Group, Ad, Advertiser, Creative, Keyword, Placement, Site.
 
 Drill in to view the data from a smaller date dimension.
 
@@ -242,7 +242,7 @@ Drill in to view the data from a smaller date dimension.
 
 **Unique Visits**
 
-15. The total number of unique site visits tracked across all known and anonymous visitors.
+`15.` The total number of unique site visits tracked across all known and anonymous visitors.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
@@ -590,25 +590,25 @@ Click to Show Details and drill into the data by viewing it as a visualization a
 
 **Pipeline Revenue**
 
-7. The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
+`7.` The total potential revenue from any Open Opportunity, meaning that it is not Closed Lost or Closed Won. The revenue is based off the selected attribution model.
 
 Click to Show Details and drill into the data by viewing it as a visualization and table.
 
 **Deal Size**
 
-8. The average amount of a Closed Won opportunity.
+`8.` The average amount of a Closed Won opportunity.
 
 **Channel Summary**
 
-9. Using the Metric dropdown from the Filters menu, this is a list of channels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each channel, sorted by the highest based off the selected attribution model.
+`9.` Using the Metric dropdown from the Filters menu, this is a list of channels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each channel, sorted by the highest based off the selected attribution model.
 
 **Subchannel Summary**
 
-10. Using the Metric dropdown from the Filters menu, this is a list of subchannels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each subchannel, sorted by the highest based off the selected attribution model.
+`10.` Using the Metric dropdown from the Filters menu, this is a list of subchannels based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each subchannel, sorted by the highest based off the selected attribution model.
 
 **Campaign Summary**
 
-11. Using the Metric dropdown from the Filters menu, this is a list of campaigns based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each campaign, sorted by the highest based off the selected attribution model.
+`11.` Using the Metric dropdown from the Filters menu, this is a list of campaigns based on how much revenue / pipeline revenue / spend / deals / opportunities / leads / contacts was attributed to each campaign, sorted by the highest based off the selected attribution model.
 
 ### Paid Media {#paid-media}
 

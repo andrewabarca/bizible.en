@@ -37,7 +37,7 @@ All tiers.
 
    ![](assets/four.png)
 
-1. Choose which date or date/time field should be used to map to the Touchpoint Date. To see the list of values available from Marketo, enter a curly bracket **{** and we’ll display the available fields.
+1. Choose which date or date/time field should be used to map to the Touchpoint Date. To see the list of values available from Marketo, enter a curly bracket `{` and we’ll display the available fields.
 
    ![](assets/five.png)
 
@@ -145,7 +145,7 @@ With this cookie mapping enhancement, the FT would go back and get credited to t
 If your rule wants to capture the Activity Date, or the date that a Program Member reached a particular status, you’ll want to utilize the Marketo Engage Activities Integration and set up a rule for the “Change Status in Progression” activity type. Otherwise, the Marketo Engage Programs Integration only makes the Membership Date available, which is the first date that brought the Marketo Person into the Program, even if there are multiple statuses.
 
 **Can I get a picklist of date options for the Touchpoint Date?** 
-To trigger the auto-complete, start by entering a curly bracket **{** in the text field, then the available fields will appear.
+To trigger the auto-complete, start by entering a curly bracket `{` in the text field, then the available fields will appear.
 
 **If I create Marketo Program rules and also have CRM Campaign rules, will they count twice?** 
 It depends on your rule definition, but possibly, yes. You’ll want to evaluate your rule set so that you don’t have rules that cover a Program and a Campaign because we will not de-duplicate or detect for similar memberships. One possible solution is to copy your Campaign rules over to Programs if you wish for Marketo to be your single source of truth, then remove the Campaign rules. Another option is to add a “CreatedOn” or “CreatedDate” criteria in your rules so that rules prior to a certain date will use Campaign rules and rules after a certain date will use Program rules. There are many workarounds out there, but it will take some planning and coordination.

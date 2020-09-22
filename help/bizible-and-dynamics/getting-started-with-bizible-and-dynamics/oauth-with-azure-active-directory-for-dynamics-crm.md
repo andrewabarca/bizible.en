@@ -83,7 +83,7 @@ This setup is for new Bizible customers using Dynamics CRM with an Azure Active 
 
 ## Logging into the Bizible Application {#logging-into-the-bizible-application}
 
-1. Navigate to [https://apps.bizible.com/business/{accountId](https://apps.bizible.com/business/{accountId)}, where {accountId} is your Bizible account Id. Your Implementation team will provide this to you.
+1. Navigate to `https://apps.bizible.com/business/{accountId}`, where `{accountId}` is your Bizible account Id. Your Implementation team will provide this to you.
 1. Click **Sign in with Active Directory**. If you’re already authenticated with Azure Active Directory, you’ll be signed in to Bizible. Otherwise, you’ll sign-in with your Azure Active Directory credentials.
 
    ![](assets/logging-2.png)
