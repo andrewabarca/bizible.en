@@ -1,7 +1,7 @@
 ---
 unique-page-id: 18874706
-description: Security Session Restrictions: IP Addresses to Allowlist - Bizible - Product Documentation
-title: Security Session Restrictions: IP Addresses to Allowlist
+description: Security Session Restrictions - IP Addresses to Allowlist - Bizible - Product Documentation
+title: Security Session Restrictions - IP Addresses to Allowlist
 ---
 
 # Security Session Restrictions: IP Addresses to Allowlist {#security-session-restrictions-ip-addresses-to-allowlist}

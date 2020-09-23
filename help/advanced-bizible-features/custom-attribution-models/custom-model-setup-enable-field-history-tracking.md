@@ -1,7 +1,7 @@
 ---
 unique-page-id: 18874777
 description: Custom Model Setup: Enable Field History Tracking - Bizible - Product Documentation
-title: Custom Model Setup: Enable Field History Tracking
+title: Custom Model Setup - Enable Field History Tracking
 ---
 
 # Custom Model Setup: Enable Field History Tracking {#custom-model-setup-enable-field-history-tracking}
