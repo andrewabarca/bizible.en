@@ -68,7 +68,7 @@ Campaign is equal to __
 
 Categories
 
-![](assets/1-1.png)
+![](assets/definitions-and-encyclopedia-1.png)
 
 **Revenue**
 
@@ -148,9 +148,9 @@ Campaign is equal to __
 
 Categories
 
-![](assets/2-1.png)
+![](assets/definitions-and-encyclopedia-2.png)
 
-![](assets/3.png)
+![](assets/definitions-and-encyclopedia-3.png)
 
 **Revenue**
 
@@ -292,9 +292,9 @@ Campaign is equal to __
 
 Categories
 
-![](assets/4.png)
+![](assets/definitions-and-encyclopedia-4.png)
 
-![](assets/5.png)
+![](assets/definitions-and-encyclopedia-5.png)
 
 **Campaign ROI Summary**
 
@@ -324,7 +324,7 @@ Group By is Channel
 
 Accounts is equal to __
 
-![](assets/`6.`png)
+![](assets/definitions-and-encyclopedia-6.png)
 
 **Revenue**
 
@@ -392,7 +392,7 @@ Subchannel is equal to __
 
 Campaign is equal to __
 
-![](assets/7.png)
+![](assets/definitions-and-encyclopedia-7.png)
 
 **Revenue**
 
@@ -456,13 +456,13 @@ Subchannel is equal to __
 
 Campaign is equal to __
 
-![](assets/8.png)
+![](assets/definitions-and-encyclopedia-8.png)
 
-![](assets/9.png)
+![](assets/definitions-and-encyclopedia-9.png)
 
-![](assets/10.png)
+![](assets/definitions-and-encyclopedia-10.png)
 
-![](assets/11.png)
+![](assets/definitions-and-encyclopedia-11.png)
 
 **Unique Visits**
 
@@ -556,7 +556,7 @@ Metric is Revenue
 
 Categories
 
-![](assets/12.png)
+![](assets/definitions-and-encyclopedia-12.png)
 
 **Revenue**
 
@@ -634,9 +634,9 @@ Campaign is equal to __
 
 Categories
 
-![](assets/13.png)
+![](assets/definitions-and-encyclopedia-13.png)
 
-![](assets/14.png)
+![](assets/definitions-and-encyclopedia-14.png)
 
 **Revenue**
 
@@ -738,11 +738,11 @@ Campaign is equal to __
 
 Categories
 
-![](assets/15.png)
+![](assets/definitions-and-encyclopedia-15.png)
 
-![](assets/16.png)
+![](assets/definitions-and-encyclopedia-16.png)
 
-![](assets/17.png)
+![](assets/definitions-and-encyclopedia-17.png)
 
 **Total Revenue**
 
@@ -858,7 +858,7 @@ Attribution Touchpoint Details
 
 Touchpoint Details
 
-![](assets/mark-ops.png)
+![](assets/definitions-and-encyclopedia-18.png)
 
 **Accounts**
 
@@ -928,9 +928,9 @@ Channel is equal to __
 
 Subchannel is equal to __
 
-![](assets/`18.`png)
+![](assets/definitions-and-encyclopedia-19.png)
 
-![](assets/19.png)
+![](assets/definitions-and-encyclopedia-20.png)
 
 **Velocity (days)**
 
@@ -982,7 +982,7 @@ Date is on 2018-01-01
 
 Leads or Contacts
 
-![](assets/20.png)
+![](assets/definitions-and-encyclopedia-21.png)
 
 **Lead/Contact Snapshot**
 
@@ -1020,7 +1020,7 @@ Campaign is equal to __
 
 Categories
 
-![](assets/22.png)
+![](assets/definitions-and-encyclopedia-22.png)
 
 **Lead/Contact Passport**
 
@@ -1066,7 +1066,7 @@ First Interaction with the Person (Y/N)
 
 Attributed Revenue
 
-![](assets/eng-path.png)
+![](assets/definitions-and-encyclopedia-23.png)
 
 **Journey of Events**
 
