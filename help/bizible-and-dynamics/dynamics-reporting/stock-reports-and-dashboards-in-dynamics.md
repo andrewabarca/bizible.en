@@ -175,14 +175,14 @@ Bizible’s Managed Solution comes with a number of stock Dashboards and Reports
    <td>All</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Leads by Landing Page (LC)</p></td> 
-   <td colspan="1">Measure how many leads were generated with a lead creation touch from each landing page.</td> 
-   <td colspan="1">All</td> 
+   <td><p>Leads by Landing Page (LC)</p></td> 
+   <td>Measure how many leads were generated with a lead creation touch from each landing page.</td> 
+   <td>All</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Leads by Social Source (FT)</td> 
-   <td colspan="1">Measure how many leads had a first touch from the social channel.</td> 
-   <td colspan="1">All</td> 
+   <td>Leads by Social Source (FT)</td> 
+   <td>Measure how many leads had a first touch from the social channel.</td> 
+   <td>All</td> 
   </tr> 
   <tr> 
    <td>Leads by Social Source (LC)</td> 

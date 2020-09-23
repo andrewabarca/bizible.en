@@ -174,12 +174,12 @@ Once Bizible has successfully tagged your landing page on the LinkedIn creative,
    <td><p>(blank) </p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Touchpoint Type </p></td> 
-   <td colspan="1"><p>Web Form </p></td> 
+   <td><p>Touchpoint Type </p></td> 
+   <td><p>Web Form </p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Touchpoint Source </p></td> 
-   <td colspan="1"><p>LinkedIn </p></td> 
+   <td><p>Touchpoint Source </p></td> 
+   <td><p>LinkedIn </p></td> 
   </tr> 
  </tbody> 
 </table>

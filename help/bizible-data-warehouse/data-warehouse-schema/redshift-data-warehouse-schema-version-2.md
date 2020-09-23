@@ -251,256 +251,256 @@ All touchpoints that are associated with an Opportunity. This table will be empt
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Country</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
-   <td colspan="1"><br></td> 
+   <td>Country</td> 
+   <td>varchar (50)</td> 
+   <td>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Medium</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Medium</td> 
+   <td>varchar (32)</td> 
+   <td>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Web_Source</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Web_Source</td> 
+   <td>varchar (64)</td> 
+   <td>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Search_Phrase</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
-   <td colspan="1"><br></td> 
+   <td>Search_Phrase</td> 
+   <td>varchar (200)</td> 
+   <td>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Provider</td> 
-   <td colspan="1">varchar (30)</td> 
-   <td colspan="1">The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Provider</td> 
+   <td>varchar (30)</td> 
+   <td>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Name</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Name</td> 
+   <td>varchar (32)</td> 
+   <td>The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Unique_Id</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The Id of the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Unique_Id</td> 
+   <td>varchar (32)</td> 
+   <td>The Id of the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Name</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Name</td> 
+   <td>varchar (128)</td> 
+   <td>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the campaign from the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the campaign from the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Name</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Name</td> 
+   <td>varchar (200)</td> 
+   <td>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_1</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_1</td> 
+   <td>varchar (100)</td> 
+   <td>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_2 </td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_2 </td> 
+   <td>varchar (100)</td> 
+   <td>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Destination_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Destination_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Display_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Display_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Match_Type</td> 
-   <td colspan="1">varchar (16)</td> 
-   <td colspan="1">The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Match_Type</td> 
+   <td>varchar (16)</td> 
+   <td>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_First_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the first touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_First_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the first touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Lead_Creation_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Lead_Creation_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Opp_Creation_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Opp_Creation_Touch</td> 
+   <td>boolean</td> 
+   <td>This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Closed_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Closed_Touch</td> 
+   <td>boolean</td> 
+   <td>This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Stages_Touched</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
-   <td colspan="1"><br></td> 
+   <td>Stages_Touched</td> 
+   <td>varchar (100)</td> 
+   <td>This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Form_Submission_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint had a form fill during the session</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Form_Submission_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint had a form fill during the session</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Impression_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Impression_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">First_Click_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</td> 
-   <td colspan="1"><br></td> 
+   <td>First_Click_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Last_Anon_Click_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</td> 
-   <td colspan="1"><br></td> 
+   <td>Last_Anon_Click_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">U_Shape_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</td> 
-   <td colspan="1"><br></td> 
+   <td>U_Shape_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">W_Shape_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
-   <td colspan="1"><br></td> 
+   <td>W_Shape_Percentage</td> 
+   <td>real</td> 
+   <td>This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Full_Path_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
-   <td colspan="1"><br></td> 
+   <td>Full_Path_Percentage</td> 
+   <td>real</td> 
+   <td>This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Custom_Model_Percentage </td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
-   <td colspan="1"><br></td> 
+   <td>Custom_Model_Percentage </td> 
+   <td>real</td> 
+   <td>This column is blank for Biz_Touchpoints. Please refer to Biz_Attribution_Touchpoints table for this information.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Deleted</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether this touchpoint is deleted or not. Used for diagnostics to see if a record was deleted in CRM.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Deleted</td> 
+   <td>boolean</td> 
+   <td>Whether this touchpoint is deleted or not. Used for diagnostics to see if a record was deleted in CRM.</td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -959,118 +959,118 @@ All cost data, either from third party integrations or self reported marketing s
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Is_Aggregatable_Cost</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">If rolling up costs and summarizing by the campaign, filter this column by “TRUE”</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Is_Aggregatable_Cost</td> 
+   <td>boolean</td> 
+   <td>If rolling up costs and summarizing by the campaign, filter this column by “TRUE”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Unique_Id</td> 
-   <td colspan="1">varchar (3642)</td> 
-   <td colspan="1">The Id of the ad group pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Unique_Id</td> 
+   <td>varchar (3642)</td> 
+   <td>The Id of the ad group pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Name</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The name of the ad group pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Name</td> 
+   <td>varchar (200)</td> 
+   <td>The name of the ad group pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Is_Aggregatable_Cost</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">If rolling up costs and summarizing by the ad group, filter this column by “TRUE”</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Is_Aggregatable_Cost</td> 
+   <td>boolean</td> 
+   <td>If rolling up costs and summarizing by the ad group, filter this column by “TRUE”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the ad pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the ad pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the ad pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the ad pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Is_Aggregatable_Cost</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">If rolling up costs and summarizing by the ad, filter this column by “TRUE”</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Is_Aggregatable_Cost</td> 
+   <td>boolean</td> 
+   <td>If rolling up costs and summarizing by the ad, filter this column by “TRUE”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the creative pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the creative pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The name of the creative pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The name of the creative pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Is_Aggregatable_Cost</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">If rolling up costs and summarizing by the creative, filter this column by “TRUE”</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Is_Aggregatable_Cost</td> 
+   <td>boolean</td> 
+   <td>If rolling up costs and summarizing by the creative, filter this column by “TRUE”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the keyword pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the keyword pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The name of the keyword pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The name of the keyword pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Is_Aggregatable_Cost</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">If rolling up costs and summarizing by the keyword, filter this column by “TRUE”</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Is_Aggregatable_Cost</td> 
+   <td>boolean</td> 
+   <td>If rolling up costs and summarizing by the keyword, filter this column by “TRUE”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the placement pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the placement pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the placement pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the placement pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Is_Aggregatable_Cost</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">If rolling up costs and summarizing by the placement, filter this column by “TRUE”</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Is_Aggregatable_Cost</td> 
+   <td>boolean</td> 
+   <td>If rolling up costs and summarizing by the placement, filter this column by “TRUE”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the site pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the site pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the site pulled from the ads connection</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the site pulled from the ads connection</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Is_Aggregatable_Cost</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">If rolling up costs and summarizing by the site, filter this column by “TRUE”</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Is_Aggregatable_Cost</td> 
+   <td>boolean</td> 
+   <td>If rolling up costs and summarizing by the site, filter this column by “TRUE”</td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -1591,160 +1591,160 @@ Requirements: Enable View Through: True, Doubleclick by Google: True
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Name</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Name</td> 
+   <td>varchar (128)</td> 
+   <td>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the campaign from the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the campaign from the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Name</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Name</td> 
+   <td>varchar (200)</td> 
+   <td>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_1</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_1</td> 
+   <td>varchar (100)</td> 
+   <td>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_2 </td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_2 </td> 
+   <td>varchar (100)</td> 
+   <td>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Destination_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Destination_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Display_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Display_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Match_Type</td> 
-   <td colspan="1">varchar (16)</td> 
-   <td colspan="1">The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Match_Type</td> 
+   <td>varchar (16)</td> 
+   <td>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">Referred to in the CRM as “Ad Campaign Name.” Used to define the ad campaign that resulted in the touchpoint. This can either be parsed out from the URL from utm_campaign or if Bizible is able to resolve an ad, it may be values such as “Winter Promotion 2018” or “Quarterly Customer Webinar.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign</td> 
+   <td>varchar (100)</td> 
+   <td>Referred to in the CRM as “Ad Campaign Name.” Used to define the ad campaign that resulted in the touchpoint. This can either be parsed out from the URL from utm_campaign or if Bizible is able to resolve an ad, it may be values such as “Winter Promotion 2018” or “Quarterly Customer Webinar.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Medium</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Medium</td> 
+   <td>varchar (32)</td> 
+   <td>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Source</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Source</td> 
+   <td>varchar (64)</td> 
+   <td>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Term</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">Referred to in the CRM as “Keyword Text.” Used the define any targeted keyword terms from the ad platform that resulted in the touchpoint. This can be parsed out from the URL from utm_term or if Bizible is able to resolve the ad, it may be values from the user's search such as “marketing analytics” or “analytics vendors.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Term</td> 
+   <td>varchar (128)</td> 
+   <td>Referred to in the CRM as “Keyword Text.” Used the define any targeted keyword terms from the ad platform that resulted in the touchpoint. This can be parsed out from the URL from utm_term or if Bizible is able to resolve the ad, it may be values from the user's search such as “marketing analytics” or “analytics vendors.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Content</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">Referred to in the CRM as “Ad Content.” Used to share more detail about the ad, whether it’s the size or placement location or creative name. This can be parsed out from the URL from utm_content or if Bizible is able to resolve ad ad, it can be the creative description or ad body.</td> 
-   <td colspan="1"><br></td> 
+   <td>Content</td> 
+   <td>varchar (128)</td> 
+   <td>Referred to in the CRM as “Ad Content.” Used to share more detail about the ad, whether it’s the size or placement location or creative name. This can be parsed out from the URL from utm_content or if Bizible is able to resolve ad ad, it can be the creative description or ad body.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">IP_Address</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The recorded IP address at the time of the impression</td> 
-   <td colspan="1"><br></td> 
+   <td>IP_Address</td> 
+   <td>varchar (100)</td> 
+   <td>The recorded IP address at the time of the impression</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">City</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">The resolved city from the IP address. For example, Seattle or Vancouver.</td> 
-   <td colspan="1"><br></td> 
+   <td>City</td> 
+   <td>varchar (50)</td> 
+   <td>The resolved city from the IP address. For example, Seattle or Vancouver.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Region</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">The resolved region from the IP address. For example, Washington or British Columbia.</td> 
-   <td colspan="1"><br></td> 
+   <td>Region</td> 
+   <td>varchar (50)</td> 
+   <td>The resolved region from the IP address. For example, Washington or British Columbia.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Country</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">The resolved country from the IP address. For example, United States or Canada.</td> 
-   <td colspan="1"><br></td> 
+   <td>Country</td> 
+   <td>varchar (50)</td> 
+   <td>The resolved country from the IP address. For example, United States or Canada.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ISP_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the internet service provider, used by customers with advanced Geo IP tracking.</td> 
-   <td colspan="1"><br></td> 
+   <td>ISP_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the internet service provider, used by customers with advanced Geo IP tracking.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Deleted</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not the record was deleted, used for diagnostics and auditing.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Deleted</td> 
+   <td>boolean</td> 
+   <td>Whether or not the record was deleted, used for diagnostics and auditing.</td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -2100,196 +2100,196 @@ Page views form web visits with a VisitorId and is related to Biz_Session. Multi
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Name</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Name</td> 
+   <td>varchar (128)</td> 
+   <td>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the campaign from the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the campaign from the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Name</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Name</td> 
+   <td>varchar (200)</td> 
+   <td>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_1</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_1</td> 
+   <td>varchar (100)</td> 
+   <td>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_2 </td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_2 </td> 
+   <td>varchar (100)</td> 
+   <td>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Destination_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Destination_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Display_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Display_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Match_Type</td> 
-   <td colspan="1">varchar (16)</td> 
-   <td colspan="1">The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Match_Type</td> 
+   <td>varchar (16)</td> 
+   <td>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">Referred to in the CRM as “Ad Campaign Name.” Used to define the ad campaign that resulted in the touchpoint. This can either be parsed out from the URL from utm_campaign or if Bizible is able to resolve an ad, it may be values such as “Winter Promotion 2018” or “Quarterly Customer Webinar.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign</td> 
+   <td>varchar (100)</td> 
+   <td>Referred to in the CRM as “Ad Campaign Name.” Used to define the ad campaign that resulted in the touchpoint. This can either be parsed out from the URL from utm_campaign or if Bizible is able to resolve an ad, it may be values such as “Winter Promotion 2018” or “Quarterly Customer Webinar.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Medium</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Medium</td> 
+   <td>varchar (32)</td> 
+   <td>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Source</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Source</td> 
+   <td>varchar (64)</td> 
+   <td>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Term</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">Referred to in the CRM as “Keyword Text.” Used the define any targeted keyword terms from the ad platform that resulted in the touchpoint. This can be parsed out from the URL from utm_term or if Bizible is able to resolve the ad, it may be values from the user's search such as “marketing analytics” or “analytics vendors.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Term</td> 
+   <td>varchar (128)</td> 
+   <td>Referred to in the CRM as “Keyword Text.” Used the define any targeted keyword terms from the ad platform that resulted in the touchpoint. This can be parsed out from the URL from utm_term or if Bizible is able to resolve the ad, it may be values from the user's search such as “marketing analytics” or “analytics vendors.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Content</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">Referred to in the CRM as “Ad Content.” Used to share more detail about the ad, whether it’s the size or placement location or creative name. This can be parsed out from the URL from utm_content or if Bizible is able to resolve ad ad, it can be the creative description or ad body.</td> 
-   <td colspan="1"><br></td> 
+   <td>Content</td> 
+   <td>varchar (128)</td> 
+   <td>Referred to in the CRM as “Ad Content.” Used to share more detail about the ad, whether it’s the size or placement location or creative name. This can be parsed out from the URL from utm_content or if Bizible is able to resolve ad ad, it can be the creative description or ad body.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">IP_Address</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The recorded IP address at the time the form was submitted</td> 
-   <td colspan="1"><br></td> 
+   <td>IP_Address</td> 
+   <td>varchar (100)</td> 
+   <td>The recorded IP address at the time the form was submitted</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">City</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">The resolved city from the IP address. For example, Seattle or Vancouver.</td> 
-   <td colspan="1"><br></td> 
+   <td>City</td> 
+   <td>varchar (50)</td> 
+   <td>The resolved city from the IP address. For example, Seattle or Vancouver.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Region</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">The resolved region from the IP address. For example, Washington or British Columbia.</td> 
-   <td colspan="1"><br></td> 
+   <td>Region</td> 
+   <td>varchar (50)</td> 
+   <td>The resolved region from the IP address. For example, Washington or British Columbia.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Country</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">The resolved country from the IP address. For example, United States or Canada.</td> 
-   <td colspan="1"><br></td> 
+   <td>Country</td> 
+   <td>varchar (50)</td> 
+   <td>The resolved country from the IP address. For example, United States or Canada.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ISP_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the internet service provider, used by customers with advanced Geo IP tracking</td> 
-   <td colspan="1"><br></td> 
+   <td>ISP_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the internet service provider, used by customers with advanced Geo IP tracking</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Deleted</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not the record was deleted, mainly used for diagnostics and audits.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Deleted</td> 
+   <td>boolean</td> 
+   <td>Whether or not the record was deleted, mainly used for diagnostics and audits.</td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -2417,190 +2417,190 @@ All recorded sessions associated with a VisitorId. Multiple sessions can be asso
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Country</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
-   <td colspan="1"><br></td> 
+   <td>Country</td> 
+   <td>varchar (50)</td> 
+   <td>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Medium</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Medium</td> 
+   <td>varchar (32)</td> 
+   <td>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Web_Source</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Web_Source</td> 
+   <td>varchar (64)</td> 
+   <td>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Search_Phrase</td> 
-   <td colspan="1">varchar (256)</td> 
-   <td colspan="1">The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
-   <td colspan="1"><br></td> 
+   <td>Search_Phrase</td> 
+   <td>varchar (256)</td> 
+   <td>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Provider</td> 
-   <td colspan="1">varchar (30)</td> 
-   <td colspan="1">The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Provider</td> 
+   <td>varchar (30)</td> 
+   <td>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Name</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Name</td> 
+   <td>varchar (32)</td> 
+   <td>The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Unique_Id</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The Id of the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Unique_Id</td> 
+   <td>varchar (32)</td> 
+   <td>The Id of the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Name</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Name</td> 
+   <td>varchar (128)</td> 
+   <td>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the campaign from the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the campaign from the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Name</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Name</td> 
+   <td>varchar (200)</td> 
+   <td>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_1</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_1</td> 
+   <td>varchar (100)</td> 
+   <td>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_2 </td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_2 </td> 
+   <td>varchar (100)</td> 
+   <td>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Destination_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Destination_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Display_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Display_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Match_Type</td> 
-   <td colspan="1">varchar (16)</td> 
-   <td colspan="1">The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Match_Type</td> 
+   <td>varchar (16)</td> 
+   <td>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Form_Submission_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint had a form fill during the session</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Form_Submission_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint had a form fill during the session</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Impression_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Impression_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Deleted</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Did this session merge with another and should be deleted.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Deleted</td> 
+   <td>boolean</td> 
+   <td>Did this session merge with another and should be deleted.</td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -2738,274 +2738,274 @@ All touchpoints that are associated with a Lead and/or Contact. This table will 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Form_Date</td> 
-   <td colspan="1">timestamp</td> 
-   <td colspan="1">The date that the form submission occurred.</td> 
-   <td colspan="1"><br></td> 
+   <td>Form_Date</td> 
+   <td>timestamp</td> 
+   <td>The date that the form submission occurred.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">City</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</td> 
-   <td colspan="1"><br></td> 
+   <td>City</td> 
+   <td>varchar (50)</td> 
+   <td>From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Region</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</td> 
-   <td colspan="1"><br></td> 
+   <td>Region</td> 
+   <td>varchar (50)</td> 
+   <td>From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Country</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
-   <td colspan="1"><br></td> 
+   <td>Country</td> 
+   <td>varchar (50)</td> 
+   <td>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Medium</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Medium</td> 
+   <td>varchar (32)</td> 
+   <td>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Web_Source</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Web_Source</td> 
+   <td>varchar (64)</td> 
+   <td>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Search_Phrase</td> 
-   <td colspan="1">varchar (256)</td> 
-   <td colspan="1">The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
-   <td colspan="1"><br></td> 
+   <td>Search_Phrase</td> 
+   <td>varchar (256)</td> 
+   <td>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Provider</td> 
-   <td colspan="1">varchar (30)</td> 
-   <td colspan="1">The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Provider</td> 
+   <td>varchar (30)</td> 
+   <td>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Name</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Name</td> 
+   <td>varchar (32)</td> 
+   <td>The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Unique_Id</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The Id of the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Unique_Id</td> 
+   <td>varchar (32)</td> 
+   <td>The Id of the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Name</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Name</td> 
+   <td>varchar (128)</td> 
+   <td>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the campaign from the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the campaign from the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Name</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Name</td> 
+   <td>varchar (200)</td> 
+   <td>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_1</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_1</td> 
+   <td>varchar (100)</td> 
+   <td>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_2 </td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_2 </td> 
+   <td>varchar (100)</td> 
+   <td>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Destination_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Destination_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Display_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Display_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Match_Type</td> 
-   <td colspan="1">varchar (16)</td> 
-   <td colspan="1">The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Match_Type</td> 
+   <td>varchar (16)</td> 
+   <td>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_First_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the first touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_First_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the first touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Lead_Creation_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Lead_Creation_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Opp_Creation_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the opportunity creation touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Opp_Creation_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the opportunity creation touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Closed_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the closed touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Closed_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the closed touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Stages_Touched</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">Whether or not this touchpoint caused the stage transition for these stages</td> 
-   <td colspan="1"><br></td> 
+   <td>Stages_Touched</td> 
+   <td>varchar (100)</td> 
+   <td>Whether or not this touchpoint caused the stage transition for these stages</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Form_Submission_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint had a form fill during the session</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Form_Submission_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint had a form fill during the session</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Impression_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Impression_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">First_Click_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</td> 
-   <td colspan="1"><br></td> 
+   <td>First_Click_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Last_Anon_Click_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</td> 
-   <td colspan="1"><br></td> 
+   <td>Last_Anon_Click_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">U_Shape_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</td> 
-   <td colspan="1"><br></td> 
+   <td>U_Shape_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">W_Shape_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch). Because this is the lead model, this is expected to be 0.</td> 
-   <td colspan="1"><br></td> 
+   <td>W_Shape_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch). Because this is the lead model, this is expected to be 0.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Full_Path_Percentage</td> 
-   <td colspan="1">Real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch). Because this is the lead model, this is expected to be 0.</td> 
-   <td colspan="1"><br></td> 
+   <td>Full_Path_Percentage</td> 
+   <td>Real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch). Because this is the lead model, this is expected to be 0.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Custom_Model_Percentage</td> 
-   <td colspan="1">real</td> 
-   <td colspan="1">The calculated percentage that gets allocated to this touchpoint because it’s part of a custom model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages Touch). Because this is the lead model, this is expected to be 0.</td> 
-   <td colspan="1"><br></td> 
+   <td>Custom_Model_Percentage</td> 
+   <td>real</td> 
+   <td>The calculated percentage that gets allocated to this touchpoint because it’s part of a custom model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages Touch). Because this is the lead model, this is expected to be 0.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Deleted</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not the record was deleted, used for diagnostics and auditing.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Deleted</td> 
+   <td>boolean</td> 
+   <td>Whether or not the record was deleted, used for diagnostics and auditing.</td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -3145,190 +3145,190 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Country</td> 
-   <td colspan="1">varchar (50)</td> 
-   <td colspan="1">From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
-   <td colspan="1"><br></td> 
+   <td>Country</td> 
+   <td>varchar (50)</td> 
+   <td>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Medium</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Medium</td> 
+   <td>varchar (32)</td> 
+   <td>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Web_Source</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
-   <td colspan="1"><br></td> 
+   <td>Web_Source</td> 
+   <td>varchar (64)</td> 
+   <td>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Search_Phrase</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
-   <td colspan="1"><br></td> 
+   <td>Search_Phrase</td> 
+   <td>varchar (200)</td> 
+   <td>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Provider</td> 
-   <td colspan="1">varchar (30)</td> 
-   <td colspan="1">The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Provider</td> 
+   <td>varchar (30)</td> 
+   <td>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Name</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Name</td> 
+   <td>varchar (32)</td> 
+   <td>The name of the ads account in which the ad was resolved from, such as Bizible-US.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Account_Unique_Id</td> 
-   <td colspan="1">varchar (32)</td> 
-   <td colspan="1">The Id of the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Account_Unique_Id</td> 
+   <td>varchar (32)</td> 
+   <td>The Id of the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Advertiser_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Advertiser_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the advertiser from the ads accounts in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Site_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Site_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Placement_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
-   <td colspan="1"><br></td> 
+   <td>Placement_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Name</td> 
-   <td colspan="1">varchar (128)</td> 
-   <td colspan="1">The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Name</td> 
+   <td>varchar (128)</td> 
+   <td>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaign_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the campaign from the ads account in which the ad was resolved from.</td> 
-   <td colspan="1"><br></td> 
+   <td>Campaign_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the campaign from the ads account in which the ad was resolved from.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Name</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Name</td> 
+   <td>varchar (200)</td> 
+   <td>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Group_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Group_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Name</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Name</td> 
+   <td>varchar (64)</td> 
+   <td>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Ad_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
-   <td colspan="1"><br></td> 
+   <td>Ad_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_1</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_1</td> 
+   <td>varchar (100)</td> 
+   <td>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Description_2 </td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Description_2 </td> 
+   <td>varchar (100)</td> 
+   <td>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Destination_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Destination_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Creative_Display_URL</td> 
-   <td colspan="1">varchar (200)</td> 
-   <td colspan="1">The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
-   <td colspan="1"><br></td> 
+   <td>Creative_Display_URL</td> 
+   <td>varchar (200)</td> 
+   <td>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Name</td> 
-   <td colspan="1">varchar (100)</td> 
-   <td colspan="1">The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Name</td> 
+   <td>varchar (100)</td> 
+   <td>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Unique_Id</td> 
-   <td colspan="1">varchar (64)</td> 
-   <td colspan="1">The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Unique_Id</td> 
+   <td>varchar (64)</td> 
+   <td>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Keyword_Match_Type</td> 
-   <td colspan="1">varchar (16)</td> 
-   <td colspan="1">The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
-   <td colspan="1"><br></td> 
+   <td>Keyword_Match_Type</td> 
+   <td>varchar (16)</td> 
+   <td>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Form_Submission_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint had a form fill during the session</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Form_Submission_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint had a form fill during the session</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Impression_Touch</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Impression_Touch</td> 
+   <td>boolean</td> 
+   <td>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Is_Deleted</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Whether or not the record was deleted, used for diagnostics and auditing.</td> 
-   <td colspan="1"><br></td> 
+   <td>Is_Deleted</td> 
+   <td>boolean</td> 
+   <td>Whether or not the record was deleted, used for diagnostics and auditing.</td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>

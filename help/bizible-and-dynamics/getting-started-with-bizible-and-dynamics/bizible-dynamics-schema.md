@@ -141,154 +141,154 @@ This diagram is a high-level visualization of the relationships between the Dyna
    <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Keyword_Id</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Keyword_Id</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Keyword_MatchType</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Keyword_MatchType</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Keyword_Text</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Keyword_Text</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Landing_Page</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Landing_Page</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Landing_Page_Raw</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Landing_Page_Raw</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_LeadId</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_LeadId</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Marketing_Channel</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Marketing_Channel</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Marketing_Channel_Path</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Marketing_Channel_Path</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Medium</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Medium</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Name</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Name</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Placement_Id</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Placement_Id</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Placement_Name</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Placement_Name</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Platform</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Platform</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Referrer_Page</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Referrer_Page</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Referrer_Page_Raw</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Referrer_Page_Raw</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Search_Phrase</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Search_Phrase</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Segment</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Segment</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Site_Id</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Site_Id</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Site_Name</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Site_Name</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Date</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Date</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Position</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Position</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Source</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Source</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Type</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Type</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_UniqueId</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_UniqueId</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Account</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Account</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -426,280 +426,280 @@ This diagram is a high-level visualization of the relationships between the Dyna
    <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Count_Custom_Model_2</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Count_Custom_Model_2</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Count_First_Touch</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Count_First_Touch</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Count_Lead_Creation_Touch</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Count_Lead_Creation_Touch</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Count_U_Shaped</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Count_U_Shaped</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Count_W_Shaped</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Count_W_Shaped</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Form_URL</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Form_URL</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Form_URL_Raw</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Form_URL_Raw</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Geo_City</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Geo_City</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Geo_Country</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Geo_Country</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Geo_Region</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Geo_Region</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Keyword_Id</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Keyword_Id</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Keyword_MatchType</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Keyword_MatchType</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Keyword_Text</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Keyword_Text</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Landing_Page</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Landing_Page</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Landing_Page_Raw</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Landing_Page_Raw</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Marketing_Channel</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Marketing_Channel</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Marketing_Channel_Path</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Marketing_Channel_Path</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Medium</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Medium</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Name</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Name</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_OpportunityId</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_OpportunityId</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Placement_Id</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Placement_Id</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Placement_Name</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Placement_Name</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Platform</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Platform</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Referrer_Page</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Referrer_Page</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Referrer_Page_Raw</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Referrer_Page_Raw</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Revenue_Custom_Model</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Revenue_Custom_Model</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Revenue_Custom_Model_2</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Revenue_Custom_Model_2</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_revenue_custom_model_2_Base</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_revenue_custom_model_2_Base</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_revenue_custom_model_Base</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_revenue_custom_model_Base</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Revenue_First_Touch</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Revenue_First_Touch</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_revenue_first_touch_Base</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_revenue_first_touch_Base</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Revenue_Lead_Conversion_Touch</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Revenue_Lead_Conversion_Touch</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_revenue_lead_conversion_Base</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_revenue_lead_conversion_Base</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Revenue_U_Shaped</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Revenue_U_Shaped</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_revenue_u_shaped_Base</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_revenue_u_shaped_Base</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Revenue_W_Shaped</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Revenue_W_Shaped</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_revenue_w_shaped_Base</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_revenue_w_shaped_Base</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Search_Phrase</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Search_Phrase</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Segment</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Segment</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Site_Id</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Site_Id</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Site_Name</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Site_Name</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Date</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Date</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Position</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Position</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Source</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Source</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_Touchpoint_Type</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_Touchpoint_Type</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>bizible2_UniqueId</p></td> 
-   <td colspan="1"><p>Custom</p></td> 
-   <td colspan="1"><p>x</p></td> 
-   <td colspan="1"><p>x</p></td> 
+   <td><p>bizible2_UniqueId</p></td> 
+   <td><p>Custom</p></td> 
+   <td><p>x</p></td> 
+   <td><p>x</p></td> 
   </tr> 
  </tbody> 
 </table>

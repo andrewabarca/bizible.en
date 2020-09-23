@@ -28,7 +28,7 @@ To access and assign Permission Sets in Salesforce:
  <tbody> 
   <tr> 
    <td><span><strong>Bizible Administrator</strong></span></td> 
-   <td><span>Gives an SFDC admin the ability to create, read, write, delete records from Bizible objects. The license under which Bizible pushes data to SFDC should have this permission set enabled. Additionally, it's recommended this license has the ability to edit converted Leads in the scenarios where the Lead is converted prior to Bizible applying data to the record. This will ensure accuracy in reporting between Salesforce and Bizible. <a href="http://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_sales_leads_view_converted.htm" rel="nofollow">Read more here</a>.</span></td> 
+   <td><span>Gives an SFDC admin the ability to create, read, write, delete records from Bizible objects. The license under which Bizible pushes data to SFDC should have this permission set enabled. Additionally, it's recommended this license has the ability to edit converted Leads in the scenarios where the Lead is converted prior to Bizible applying data to the record. This will ensure accuracy in reporting between Salesforce and Bizible. <a href="http://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_sales_leads_view_converted.htm">Read more here</a>.</span></td> 
   </tr> 
   <tr> 
    <td><span><strong>Bizible Marketing User</strong></span></td> 

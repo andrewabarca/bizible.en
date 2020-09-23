@@ -25,11 +25,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-crm-data.pdf" rel="nofollow"><img width="290" src="assets/crm-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="crm-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-crm-data.pdf"><img width="290" src="assets/crm-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="crm-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-creation-data.pdf" rel="nofollow"><img width="290" src="assets/touchpoint-creation-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="touchpoint-creation-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img width="290" src="assets/touchpoint-creation-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="touchpoint-creation-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
     </div></td> 
   </tr> 
   <tr> 
@@ -39,11 +39,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-attributes.pdf" rel="nofollow"><img width="290" src="assets/touchpoint-attribute-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="touchpoint-attribute-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img width="290" src="assets/touchpoint-attribute-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="touchpoint-attribute-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-spend-data.pdf" rel="nofollow"><img width="290" src="assets/spend-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="spend-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-spend-data.pdf"><img width="290" src="assets/spend-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="spend-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
     </div></td> 
   </tr> 
  </tbody> 
@@ -397,44 +397,44 @@ Table that stores all ads downloaded from any connected ads accounts.
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_CURRENT</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_CURRENT</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_OLD</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_OLD</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_REQUESTED</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_REQUESTED</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_ALTENATIVES</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_ALTENATIVES</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
-   <td colspan="1"><p>6008900572523230000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_FACTS.AD_KEY</p></td> 
+   <td><p>ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
+   <td><p>6008900572523230000</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_FACTS.AD_KEY</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -462,12 +462,12 @@ Table that stores all advertisers downloaded from any connected ads accounts.
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the advertiser</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the advertiser</p></td> 
+   <td><br></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>DISPLAY_ID</p></td> 
@@ -647,108 +647,108 @@ Table that stores all ads accounts downloaded from any connected ads accounts.
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the ad account</p></td> 
-   <td colspan="1"><p>aw.6601259029</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the ad account</p></td> 
+   <td><p>aw.6601259029</p></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>6601259029</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>6601259029</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Advertiser above the Ad Accounts in any ads hierarchy</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Advertiser above the Ad Accounts in any ads hierarchy</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Advertiser above the Ad Accounts in any ads hierarchy</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Advertiser above the Ad Accounts in any ads hierarchy</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Group above the Ad Accounts in any ads hierarchy</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Group above the Ad Accounts in any ads hierarchy</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Group above the Ad Accounts in any ads hierarchy</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Group above the Ad Accounts in any ads hierarchy</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Campaign above the Ad Accounts in any ads hierarchy</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Campaign above the Ad Accounts in any ads hierarchy</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Campaign above the Ad Accounts in any ads hierarchy</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Campaign above the Ad Accounts in any ads hierarchy</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_ACTIVE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the advertiser is still active in the ads platform</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_ACTIVE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the advertiser is still active in the ads platform</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the advertiser has been deleted in the ads platform</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the advertiser has been deleted in the ads platform</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-09-06 12:54:37.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-09-06 12:54:37.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>FIRST_IMPORTED</p></td> 
@@ -936,44 +936,44 @@ Table that stores all campaigns downloaded from any connected ads accounts or UT
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>285114995</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>285114995</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the connected ads account for the campaign</p></td> 
-   <td colspan="1"><p>aw.6601259029</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the connected ads account for the campaign</p></td> 
+   <td><p>aw.6601259029</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the connected ads account for the campaign</p></td> 
-   <td colspan="1"><p>Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the connected ads account for the campaign</p></td> 
+   <td><p>Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser for the campaign, specifically for Doubleclick.</p></td> 
-   <td colspan="1"><p>300181641</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser for the campaign, specifically for Doubleclick.</p></td> 
+   <td><p>300181641</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser for the campaign, specifically for Doubleclick.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser for the campaign, specifically for Doubleclick.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>AD_GROUP_UNIQUE_ID</p></td> 
@@ -1120,12 +1120,12 @@ Table that stores all campaigns downloaded from any connected ads accounts or UT
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
-   <td colspan="1"><p>-6008900572523230000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_FACTS.CAMPAIGN_KEY</p></td> 
+   <td><p>ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
+   <td><p>-6008900572523230000</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_FACTS.CAMPAIGN_KEY</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -1153,52 +1153,52 @@ Table that stores all ad groups downloaded from any connected ads accounts.
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the ad group</p></td> 
-   <td colspan="1"><p>aw.6601259029.317737955.23105326115</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the ad group</p></td> 
+   <td><p>aw.6601259029.317737955.23105326115</p></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>23105326115</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>23105326115</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the connected ads account for the ad group</p></td> 
-   <td colspan="1"><p>aw.6601259029</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the connected ads account for the ad group</p></td> 
+   <td><p>aw.6601259029</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the connected ads account for the ad group</p></td> 
-   <td colspan="1"><p>Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the connected ads account for the ad group</p></td> 
+   <td><p>Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Group in the Doubleclick ads hierarchy.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Group in the Doubleclick ads hierarchy.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Group in the Doubleclick ads hierarchy.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Group in the Doubleclick ads hierarchy.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>AD_GROUP_UNIQUE_ID</p></td> 
@@ -1427,324 +1427,324 @@ All touchpoints that are associated with an Opportunity. This table will be empt
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique Id for the touchpoint</p></td> 
-   <td colspan="1"><p>BAT2_0060Z00000lFHtOQAW_</p><p>0030Z00003K5bpKQAR_2017-06-20:01-05-20-6193330.0b5c5678807c</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique Id for the touchpoint</p></td> 
+   <td><p>BAT2_0060Z00000lFHtOQAW_</p><p>0030Z00003K5bpKQAR_2017-06-20:01-05-20-6193330.0b5c5678807c</p></td> 
+   <td>X</td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-09-01 04:53:53.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-09-01 04:53:53.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>USER_TOUCHPOINT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_User_Touchpoints table to select columns such as email, campaignmember_id, session_id</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_USER_TOUCHPOINTS.ID</p></td> 
+   <td><p>USER_TOUCHPOINT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_User_Touchpoints table to select columns such as email, campaignmember_id, session_id</p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><br></td> 
+   <td><p>BIZ_USER_TOUCHPOINTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OPPORTUNITY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_Opportunities table to select columns such as Amount or Close Date</p></td> 
-   <td colspan="1"><p>0060Z00000lFHtOQAW</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_OPPORTUNITIES.ID</p></td> 
+   <td><p>OPPORTUNITY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_Opportunities table to select columns such as Amount or Close Date</p></td> 
+   <td><p>0060Z00000lFHtOQAW</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_OPPORTUNITIES.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CONTACT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_Contacts table to select columns such as Created Date</p></td> 
-   <td colspan="1"><p>0030Z00003K5bpKQAR</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CONTACTS.ID</p></td> 
+   <td><p>CONTACT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_Contacts table to select columns such as Created Date</p></td> 
+   <td><p>0030Z00003K5bpKQAR</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CONTACTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_Accounts table to select columns such as Website or Engagement Rating</p></td> 
-   <td colspan="1"><p>0013100001otbIAAAY</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_ACCOUNTS.ID</p></td> 
+   <td><p>ACCOUNT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_Accounts table to select columns such as Website or Engagement Rating</p></td> 
+   <td><p>0013100001otbIAAAY</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_ACCOUNTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>TOUCHPOINT_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date of the recorded touchpoint, which is the date that the session occurred</p></td> 
-   <td colspan="1"><p>2017-06-20 01:05:20.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>TOUCHPOINT_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date of the recorded touchpoint, which is the date that the session occurred</p></td> 
+   <td><p>2017-06-20 01:05:20.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MARKETING_TOUCH_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Touchpoint Type.” This records the type of activity, whether it was a Web Visit, Web Form, Web Chat, Phone Call, [CRM] Campaign, or [CRM] Activity</p></td> 
-   <td colspan="1"><p>Web Form</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MARKETING_TOUCH_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Touchpoint Type.” This records the type of activity, whether it was a Web Visit, Web Form, Web Chat, Phone Call, [CRM] Campaign, or [CRM] Activity</p></td> 
+   <td><p>Web Form</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CHANNEL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Social.LinkedIn</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CHANNEL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
+   <td><p>Social.LinkedIn</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY1</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 1st Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>ABC, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY1</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 1st Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>ABC, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY2</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 2nd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Yes, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY2</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 2nd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>Yes, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY3</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 3rd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>SMB, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY3</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 3rd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>SMB, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY4</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 4th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>New Business, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY4</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 4th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>New Business, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY5</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 5th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY5</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 5th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY6</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 6th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY6</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 6th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY7</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 7th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY7</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 7th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY8</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 8th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY8</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 8th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY9</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 9th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY9</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 9th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY10</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 10th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY10</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 10th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY11</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 11th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY11</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 11th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY12</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 12th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY12</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 12th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY13</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 13th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY13</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 13th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY14</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 14th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY14</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 14th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY15</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 15th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY15</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 15th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>Chrome</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>Chrome</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>58</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>58</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>Mac</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>Mac</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>10_12</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>10_12</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page” This is the first landing page of the session that resulted in a touchpoint.</p></td> 
-   <td colspan="1"><p><span>http://www.bizible.com/blog/uncover-</span> truth-behind-cost-per-lead</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page” This is the first landing page of the session that resulted in a touchpoint.</p></td> 
+   <td><p><span>http://www.bizible.com/blog/uncover-</span> truth-behind-cost-per-lead</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
-   <td colspan="1"><p><span>http://www.bizible.com/blog/uncover-truth</span> -behind-cost-per-lead?utm_content=27322869&amp;utm_</p><p>medium=social&amp;utm_source=linkedin</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
+   <td><p><span>http://www.bizible.com/blog/uncover-truth</span> -behind-cost-per-lead?utm_content=27322869&amp;utm_</p><p>medium=social&amp;utm_source=linkedin</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page” This is the usually the external landing page immediately before the user comes onto the website.</p></td> 
-   <td colspan="1"><p>https://www.linkedin.com/</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page” This is the usually the external landing page immediately before the user comes onto the website.</p></td> 
+   <td><p>https://www.linkedin.com/</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
-   <td colspan="1"><p>https://www.linkedin.com/</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
+   <td><p>https://www.linkedin.com/</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Form URL.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table.</p></td> 
-   <td colspan="1"><p><span>http://info.bizible.com/intro-guide-b2b-marketing-attribution</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Form URL.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table.</p></td> 
+   <td><p><span>http://info.bizible.com/intro-guide-b2b-marketing-attribution</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Form URL - Raw.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table. A raw form page may contain query parameters in the URL.</p></td> 
-   <td colspan="1"><p><span>http://info.bizible.com/intro-guide-b2b-marketing-attribution</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Form URL - Raw.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table. A raw form page may contain query parameters in the URL.</p></td> 
+   <td><p><span>http://info.bizible.com/intro-guide-b2b-marketing-attribution</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date that the form submission occurred.</p></td> 
-   <td colspan="1"><p>2017-06-20 01:06:41.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date that the form submission occurred.</p></td> 
+   <td><p>2017-06-20 01:06:41.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CITY </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</p></td> 
-   <td colspan="1"><p>San Francisco</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CITY </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</p></td> 
+   <td><p>San Francisco</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REGION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</p></td> 
-   <td colspan="1"><p>California</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REGION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</p></td> 
+   <td><p>California</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>COUNTRY</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</p></td> 
-   <td colspan="1"><p>United States</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>COUNTRY</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</p></td> 
+   <td><p>United States</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MEDIUM</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</p></td> 
-   <td colspan="1"><p>social</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MEDIUM</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</p></td> 
+   <td><p>social</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>WEB_SOURCE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
-   <td colspan="1"><p>linkedin</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>WEB_SOURCE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
+   <td><p>linkedin</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>SEARCH_PHRASE</p></td> 
@@ -1899,276 +1899,276 @@ All touchpoints that are associated with an Opportunity. This table will be empt
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_2 </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Learn how attribution measures ROI by connecting marketing activities to revenue</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_2 </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Learn how attribution measures ROI by connecting marketing activities to revenue</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESTINATION_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p><span>http://info.bizible.com/cmos-guide-to-b2b-marketing-attribution</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESTINATION_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p><span>http://info.bizible.com/cmos-guide-to-b2b-marketing-attribution</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DISPLAY_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p><span>http://info.bizible.com/CMOs-Guide</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DISPLAY_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p><span>http://info.bizible.com/CMOs-Guide</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads</p></td> 
-   <td colspan="1"><p>aw.6601259029.317738075.23105327435.4838421670</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_KEYWORDS.ID</td> 
+   <td><p>KEYWORD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads</p></td> 
+   <td><p>aw.6601259029.317738075.23105327435.4838421670</p></td> 
+   <td><br></td> 
+   <td>BIZ_KEYWORDS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</p></td> 
-   <td colspan="1"><p>"marketing attribution"</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</p></td> 
+   <td><p>"marketing attribution"</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_MATCH_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</p></td> 
-   <td colspan="1"><p>Phrase</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_MATCH_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</p></td> 
+   <td><p>Phrase</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_FIRST_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the first touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_FIRST_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the first touch of the opportunity journey</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_LEAD_CREATION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_LEAD_CREATION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_OPP_CREATION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the opportunity creation touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_OPP_CREATION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the opportunity creation touch of the opportunity journey</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_CLOSED_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the closed touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_CLOSED_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the closed touch of the opportunity journey</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>STAGES_TOUCHED</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The stages that the touchpoint has gone through</p></td> 
-   <td colspan="1"><p>Qualified Discovery, Demo Scheduled</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>STAGES_TOUCHED</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The stages that the touchpoint has gone through</p></td> 
+   <td><p>Qualified Discovery, Demo Scheduled</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_FORM_SUBMISSION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint had a form fill during the session</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_FORM_SUBMISSION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint had a form fill during the session</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_IMPRESSION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_IMPRESSION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FIRST_CLICK_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</p></td> 
-   <td colspan="1"><p>0.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FIRST_CLICK_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</p></td> 
+   <td><p>0.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LAST_ANON_CLICK_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</p></td> 
-   <td colspan="1"><p>0.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LAST_ANON_CLICK_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</p></td> 
+   <td><p>0.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>U_SHAPE_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</p></td> 
-   <td colspan="1"><p>0.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>U_SHAPE_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</p></td> 
+   <td><p>0.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>W_SHAPE_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch)</p></td> 
-   <td colspan="1"><p>0.0153374234214425</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>W_SHAPE_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch)</p></td> 
+   <td><p>0.0153374234214425</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FULL_PATH_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19) </p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, </p><p>Is_Closed_Touch)</p></td> 
-   <td colspan="1"><p>0.0143061513081193</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FULL_PATH_PERCENTAGE</p></td> 
+   <td><p>number(22,19) </p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, </p><p>Is_Closed_Touch)</p></td> 
+   <td><p>0.0143061513081193</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CUSTOM_MODEL_PERCENTAGE </p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages_Touched)</p></td> 
-   <td colspan="1"><p>0.0143061513081193</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CUSTOM_MODEL_PERCENTAGE </p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages_Touched)</p></td> 
+   <td><p>0.0143061513081193</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether this touchpoint is deleted or not. Used for diagnostics to see if a record was deleted in CRM.</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether this touchpoint is deleted or not. Used for diagnostics to see if a record was deleted in CRM.</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
-   <td colspan="1"><p>-2712935512233520000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_FACTS.ATP_KEY</p></td> 
+   <td><p>ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
+   <td><p>-2712935512233520000</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_FACTS.ATP_KEY</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OPPORTUNITY_ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>-2712935512233520000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>OPPORTUNITY_ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><br></td> 
+   <td><p>-2712935512233520000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">LANDING_PAGE_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>LANDING_PAGE_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">REFERRER_PAGE_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>REFERRER_PAGE_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">FORM_PAGE_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>FORM_PAGE_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ACCOUNT_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ACCOUNT_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ADVERTISER_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ADVERTISER_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">SITE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>SITE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_ROW_KEY</p></td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLACEMENT_ROW_KEY</p></td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CAMPAIGN_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CAMPAIGN_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_GROUP_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_GROUP_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CREATIVE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CREATIVE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">KEYWORD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>KEYWORD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -2196,12 +2196,12 @@ All CRM Campaign Members that are imported, along with custom Bizible fields. Th
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>CRM CampaignMember Id</p></td> 
-   <td colspan="1"><p>00v0Z00001VVzdLQAT</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>CRM CampaignMember Id</p></td> 
+   <td><p>00v0Z00001VVzdLQAT</p></td> 
+   <td>X</td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
    <td><p>MODIFIED_DATE</p></td> 
@@ -2631,28 +2631,28 @@ All CRM Contacts that are imported, along with custom Bizible fields.
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">IS_DUPLICATE</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1">Default is 'FALSE'. This column exists to mark any persons (leads, contacts) that exist in both Marketo and CRM as duplicate true. If there are duplicates, the Marketo Source lead will be marked IS_DUPLICATE = true (see BIZ_LEADS)</td> 
-   <td colspan="1">FALSE / TRUE</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>IS_DUPLICATE</td> 
+   <td>boolean</td> 
+   <td>Default is 'FALSE'. This column exists to mark any persons (leads, contacts) that exist in both Marketo and CRM as duplicate true. If there are duplicates, the Marketo Source lead will be marked IS_DUPLICATE = true (see BIZ_LEADS)</td> 
+   <td>FALSE / TRUE</td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">SOURCE_SYSTEM</td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1">Default is 'Crm'. This column exists to capture the 'source' (Marketo or Crm) from where a contact was imported into our system.</td> 
-   <td colspan="1"><p>CRM / Marketo </p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>SOURCE_SYSTEM</td> 
+   <td>varchar</td> 
+   <td>Default is 'Crm'. This column exists to capture the 'source' (Marketo or Crm) from where a contact was imported into our system.</td> 
+   <td><p>CRM / Marketo </p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OTHER_SYSTEM_ID</p></td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1"><p>Default is 'NULL'. This column exists to map a person from Marketo with a Contact from Crm. The value would be the corresponding ID (from Marketo or CRM) </p></td> 
-   <td colspan="1"><p>1234 / 00Q0Z00001OohgTUAR </p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>OTHER_SYSTEM_ID</p></td> 
+   <td>varchar</td> 
+   <td><p>Default is 'NULL'. This column exists to map a person from Marketo with a Contact from Crm. The value would be the corresponding ID (from Marketo or CRM) </p></td> 
+   <td><p>1234 / 00Q0Z00001OohgTUAR </p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -2832,268 +2832,268 @@ All cost data, either from third party integrations or self reported marketing s
    <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the campaign pulled from the ads connection</p></td> 
-   <td colspan="1"><p>Partner Retargeting</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the campaign pulled from the ads connection</p></td> 
+   <td><p>Partner Retargeting</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_IS_AGGREGATABLE_COST</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the campaign, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CAMPAIGN_IS_AGGREGATABLE_COST</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the campaign, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ad group pulled from the ads connection</p></td> 
-   <td colspan="1"><p>aw.6601259029.285114995.21703163075</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ad group pulled from the ads connection</p></td> 
+   <td><p>aw.6601259029.285114995.21703163075</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ad group pulled from the ads connection</p></td> 
-   <td colspan="1"><p>ClosedOpp</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ad group pulled from the ads connection</p></td> 
+   <td><p>ClosedOpp</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_IS_AGGREGATABLE_COST</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the ad group, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_IS_AGGREGATABLE_COST</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the ad group, filter this column by “TRUE”</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ad pulled from the ads connection</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADS.ID</td> 
+   <td><p>AD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ad pulled from the ads connection</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_ADS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ad pulled from the ads connection</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ad pulled from the ads connection</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_IS_AGGREGATABLE_COST</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the ad, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_IS_AGGREGATABLE_COST</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the ad, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the creative pulled from the ads connection</p></td> 
-   <td colspan="1"><p>aw.6601259029.285114995.51749608028.266050115160</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_CREATIVES.ID</td> 
+   <td><p>CREATIVE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the creative pulled from the ads connection</p></td> 
+   <td><p>aw.6601259029.285114995.51749608028.266050115160</p></td> 
+   <td><br></td> 
+   <td>BIZ_CREATIVES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the creative pulled from the ads connection</p></td> 
-   <td colspan="1"><p>Ad name: Ad3-320x50.gif; 320 x 50</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the creative pulled from the ads connection</p></td> 
+   <td><p>Ad name: Ad3-320x50.gif; 320 x 50</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_IS_AGGREGATABLE_COST</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the creative, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_IS_AGGREGATABLE_COST</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the creative, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the keyword pulled from the ads connection</p></td> 
-   <td colspan="1"><p>aw.6601259029.669328935.39419128772.99608705795</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_KEYWORDS.ID</td> 
+   <td><p>KEYWORD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the keyword pulled from the ads connection</p></td> 
+   <td><p>aw.6601259029.669328935.39419128772.99608705795</p></td> 
+   <td><br></td> 
+   <td>BIZ_KEYWORDS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the keyword pulled from the ads connection</p></td> 
-   <td colspan="1"><p>sfdc marketing attribution</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the keyword pulled from the ads connection</p></td> 
+   <td><p>sfdc marketing attribution</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_IS_AGGREGATABLE_COST</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the keyword, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_IS_AGGREGATABLE_COST</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the keyword, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the placement pulled from the ads connection</p></td> 
-   <td colspan="1"><p>120839827</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_PLACEMENTS.ID</td> 
+   <td><p>PLACEMENT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the placement pulled from the ads connection</p></td> 
+   <td><p>120839827</p></td> 
+   <td><br></td> 
+   <td>BIZ_PLACEMENTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the placement pulled from the ads connection</p></td> 
-   <td colspan="1"><p>roadblock</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLACEMENT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the placement pulled from the ads connection</p></td> 
+   <td><p>roadblock</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_IS_AGGREGATABLE_COST</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the placement, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLACEMENT_IS_AGGREGATABLE_COST</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the placement, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the site pulled from the ads connection</p></td> 
-   <td colspan="1"><p>1695651</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SITES.ID</td> 
+   <td><p>SITE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the site pulled from the ads connection</p></td> 
+   <td><p>1695651</p></td> 
+   <td><br></td> 
+   <td>BIZ_SITES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the site pulled from the ads connection</p></td> 
-   <td colspan="1">quora.com</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SITE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the site pulled from the ads connection</p></td> 
+   <td>quora.com</td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_IS_AGGREGATABLE_COST</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the site, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SITE_IS_AGGREGATABLE_COST</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the site, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the record was deleted, used as an audit trail.</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the record was deleted, used as an audit trail.</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_FACTS.COST_KEY</td> 
+   <td>ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_FACTS.COST_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_ROW_KEY</p></td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ACCOUNT_ROW_KEY</p></td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ADVERTISER_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ADVERTISER_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">SITE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>SITE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">PLACEMENT_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>PLACEMENT_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CAMPAIGN_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CAMPAIGN_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_GROUP_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_GROUP_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CREATIVE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CREATIVE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">KEYWORD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>KEYWORD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ISO_CURRENCY_CODE</td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1">The ISO currency code as imported from costs data source.</td> 
-   <td colspan="1">USD</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ISO_CURRENCY_CODE</td> 
+   <td>varchar</td> 
+   <td>The ISO currency code as imported from costs data source.</td> 
+   <td>USD</td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CURRENCY_ID</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_CURRENCIES.ID</td> 
+   <td>CURRENCY_ID</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_CURRENCIES.ID</td> 
   </tr> 
  </tbody> 
 </table>
@@ -3121,212 +3121,212 @@ Table that stores all creatives downloaded from any connected ads accounts.
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the creative</p></td> 
-   <td colspan="1"><p>ba.3284209.132855866.4556709270.10426699711</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the creative</p></td> 
+   <td><p>ba.3284209.132855866.4556709270.10426699711</p></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>10426699711</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>10426699711</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the connected ads account for the creative</p></td> 
-   <td colspan="1"><p>ba.3284209</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the connected ads account for the creative</p></td> 
+   <td><p>ba.3284209</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the connected ads account for the creative</p></td> 
-   <td colspan="1"><p>Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the connected ads account for the creative</p></td> 
+   <td><p>Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser for the creative, specifically for Doubleclick.</p></td> 
-   <td colspan="1"><p>300181641</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser for the creative, specifically for Doubleclick.</p></td> 
+   <td><p>300181641</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser for the creative, specifically for Doubleclick.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser for the creative, specifically for Doubleclick.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the ad group for the creative</p></td> 
-   <td colspan="1"><p>ba.3284209.132855866.4556709270</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the ad group for the creative</p></td> 
+   <td><p>ba.3284209.132855866.4556709270</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ad group for the creative</p></td> 
-   <td colspan="1"><p>PipelineMarketing.com - General</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ad group for the creative</p></td> 
+   <td><p>PipelineMarketing.com - General</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the campaign for the creative</p></td> 
-   <td colspan="1"><p>ba.3284209.132855866</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the campaign for the creative</p></td> 
+   <td><p>ba.3284209.132855866</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the campaign for the creative</p></td> 
-   <td colspan="1"><p>PipelineMarketing.com</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the campaign for the creative</p></td> 
+   <td><p>PipelineMarketing.com</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_ACTIVE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the creative is still active in the ads account</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_ACTIVE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the creative is still active in the ads account</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the creative has been deleted in the ads account</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the creative has been deleted in the ads account</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-08-02 06:36:25.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-08-02 06:36:25.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FIRST_IMPORTED</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date that the creative was first downloaded by Bizible</p></td> 
-   <td colspan="1"><p>2018-08-02 06:36:25.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FIRST_IMPORTED</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date that the creative was first downloaded by Bizible</p></td> 
+   <td><p>2018-08-02 06:36:25.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the creative</p></td> 
-   <td colspan="1"><p>PipelineMarketing.com</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the creative</p></td> 
+   <td><p>PipelineMarketing.com</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>NEEDS_UPDATE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the creative needs to get updated to get Bizible tagging</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>NEEDS_UPDATE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the creative needs to get updated to get Bizible tagging</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>GROUPING_KEY</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>ba.3284209.132855866.4556709270</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>GROUPING_KEY</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>ba.3284209.132855866.4556709270</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ENTITY_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The main object or entity for this table. In this case, “Creative”</p></td> 
-   <td colspan="1"><p>Creative</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ENTITY_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The main object or entity for this table. In this case, “Creative”</p></td> 
+   <td><p>Creative</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PROVIDER_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ads provider for the creative</p></td> 
-   <td colspan="1"><p>BingAds</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PROVIDER_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ads provider for the creative</p></td> 
+   <td><p>BingAds</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_CURRENT</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The current version of the URL including all tags</p></td> 
-   <td colspan="1"><p>cdn.bizible.com/redir?lp=http%3a%2f%2fwww.pipelinemarketing.com%2f&amp;_bt={creative}&amp;_bk={keyword}&amp;_bm={matchType}&amp;utm_content={adid}&amp;utm_term={keyword}&amp;utm_campaign=PipelineMarketing.com&amp;utm_source=bing&amp;utm_medium=cpc</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_CURRENT</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The current version of the URL including all tags</p></td> 
+   <td><p>cdn.bizible.com/redir?lp=http%3a%2f%2fwww.pipelinemarketing.com%2f&amp;_bt={creative}&amp;_bk={keyword}&amp;_bm={matchType}&amp;utm_content={adid}&amp;utm_term={keyword}&amp;utm_campaign=PipelineMarketing.com&amp;utm_source=bing&amp;utm_medium=cpc</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_DISPLAY</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The shortened and friendly URL that’s displayed on the creative</p></td> 
-   <td colspan="1"><p>PipelineMarketing.com</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_DISPLAY</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The shortened and friendly URL that’s displayed on the creative</p></td> 
+   <td><p>PipelineMarketing.com</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_OLD</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_OLD</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_REQUESTED</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_REQUESTED</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_SHORTENED</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_SHORTENED</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The type of creative, which could be Text or Display</p></td> 
-   <td colspan="1"><p>Text</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The type of creative, which could be Text or Display</p></td> 
+   <td><p>Text</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_UPGRADED_URL</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the creative is using Upgraded URLs</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_UPGRADED_URL</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the creative is using Upgraded URLs</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>HEADLINE</p></td> 
@@ -4007,180 +4007,180 @@ Table that stores all landing pages downloaded from any connected ads accounts.
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser for the landing page, specifically for Doubleclick.</p></td> 
-   <td colspan="1">300181641</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_ADVERTISERS.ID</p></td> 
+   <td><p>ADVERTISER_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser for the landing page, specifically for Doubleclick.</p></td> 
+   <td>300181641</td> 
+   <td><br></td> 
+   <td><p>BIZ_ADVERTISERS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser for the landing page, specifically for Doubleclick.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser for the landing page, specifically for Doubleclick.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_ACTIVE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_ACTIVE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FIRST_IMPORTED</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FIRST_IMPORTED</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>NEEDS_UPDATE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>NEEDS_UPDATE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>GROUPING_KEY</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>GROUPING_KEY</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ENTITY_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ENTITY_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PROVIDER_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PROVIDER_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_CURRENT</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_CURRENT</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>URL_OLD</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>URL_OLD</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -4477,28 +4477,28 @@ Table that stores all landing pages downloaded from any connected ads accounts.
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">IS_DELETED</td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>IS_DELETED</td> 
+   <td>boolean</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">QUERY_PARAMETERS</td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>QUERY_PARAMETERS</td> 
+   <td>varchar</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -4751,452 +4751,452 @@ The biz_facts table unions together Impressions, Page Views, Visits, Form Submit
    <td><p>BIZ_CREATIVES.ROW_KEY</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_SITES table to join the dimensions</p></td> 
-   <td colspan="1"><p>8817975702393619368</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_SITES.ROW_KEY</p></td> 
+   <td><p>SITE_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_SITES table to join the dimensions</p></td> 
+   <td><p>8817975702393619368</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_SITES.ROW_KEY</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_ADVERTISERS table to join the dimensions</p></td> 
-   <td colspan="1"><p>8817975702393619368</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_ADVERTISERS.ROW_KEY</p></td> 
+   <td><p>ADVERTISER_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_ADVERTISERS table to join the dimensions</p></td> 
+   <td><p>8817975702393619368</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_ADVERTISERS.ROW_KEY</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_AD_ACCOUNTS table to join the dimensions</p></td> 
-   <td colspan="1"><p>1825012532740770032</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_AD_ACCOUNTS.ROW_KEY</p></td> 
+   <td><p>AD_ACCOUNT_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_AD_ACCOUNTS table to join the dimensions</p></td> 
+   <td><p>1825012532740770032</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_AD_ACCOUNTS.ROW_KEY</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_PLACEMENTS table to join the dimensions</p></td> 
-   <td colspan="1"><p>8817975702393619368</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_PLACEMENTS.ROW_KEY</p></td> 
+   <td><p>PLACEMENT_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_PLACEMENTS table to join the dimensions</p></td> 
+   <td><p>8817975702393619368</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_PLACEMENTS.ROW_KEY</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_01_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_01_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_02_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_02_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_03_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_03_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_04_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_04_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_05_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_05_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_06_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_06_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_07_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_07_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_08_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_08_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_09_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_09_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_10_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_10_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_11_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_11_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_12_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_12_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_13_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_13_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_14_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_14_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1">CATEGORY_15_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SEGMENTS.ROW_KEY</td> 
+   <td>CATEGORY_15_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_SEGMENTS.ROW_KEY</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>TYPE</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>Maps the row to the category it belongs to:</p><p>TPOpp = 1,<br>Cost = 2,<br>TPLead = 3,<br>TPUser = 4,<br>PageView = 5,<br>Session = 6,<br>FormSubmit = 7,<br>Impression = 8</p></td> 
-   <td colspan="1"><p>3</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>TYPE</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>Maps the row to the category it belongs to:</p><p>TPOpp = 1,<br>Cost = 2,<br>TPLead = 3,<br>TPUser = 4,<br>PageView = 5,<br>Session = 6,<br>FormSubmit = 7,<br>Impression = 8</p></td> 
+   <td><p>3</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DATE</p></td> 
-   <td colspan="1"><p>date</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>2018-08-28</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DATE</p></td> 
+   <td><p>date</p></td> 
+   <td><br></td> 
+   <td><p>2018-08-28</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>TIMESTAMP</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>2018-08-28 19:39:15.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>TIMESTAMP</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><br></td> 
+   <td><p>2018-08-28 19:39:15.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date and time the row was last modified</p></td> 
-   <td colspan="1"><p>2018-08-29 00:46:47.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date and time the row was last modified</p></td> 
+   <td><p>2018-08-29 00:46:47.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>COST_IN_MICRO</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The reported cost of the day in millions. User will need to divide the value by 1000000 before using this column.</p></td> 
-   <td colspan="1"><p>27370000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>COST_IN_MICRO</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The reported cost of the day in millions. User will need to divide the value by 1000000 before using this column.</p></td> 
+   <td><p>27370000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IMPRESSIONS</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The number of impressions reported for the day</p></td> 
-   <td colspan="1"><p>340</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IMPRESSIONS</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The number of impressions reported for the day</p></td> 
+   <td><p>340</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CLICKS</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The number of clicks reported for the day</p></td> 
-   <td colspan="1"><p>4</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CLICKS</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The number of clicks reported for the day</p></td> 
+   <td><p>4</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FIRST_CLICK_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</p></td> 
-   <td colspan="1"><p>100.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FIRST_CLICK_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</p></td> 
+   <td><p>100.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LAST_ANON_CLICK_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</p></td> 
-   <td colspan="1"><p>100.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LAST_ANON_CLICK_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</p></td> 
+   <td><p>100.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>U_SHAPE_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</p></td> 
-   <td colspan="1"><p>100.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>U_SHAPE_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</p></td> 
+   <td><p>100.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>W_SHAPE_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch)</p></td> 
-   <td colspan="1"><p>0.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>W_SHAPE_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch)</p></td> 
+   <td><p>0.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FULL_PATH_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, </p><p>Is_Closed_Touch)</p></td> 
-   <td colspan="1"><p>0.0000000000000000000 </p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FULL_PATH_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, </p><p>Is_Closed_Touch)</p></td> 
+   <td><p>0.0000000000000000000 </p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CUSTOM_MODEL_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages_Touched)</p></td> 
-   <td colspan="1"><p>0.0000000000000000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CUSTOM_MODEL_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages_Touched)</p></td> 
+   <td><p>0.0000000000000000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AMOUNT</p></td> 
-   <td colspan="1"><p>number(38,8)</p></td> 
-   <td colspan="1"><p>The deal amount that is expected or closed from the Opportunity</p></td> 
-   <td colspan="1"><p>42000.00000000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AMOUNT</p></td> 
+   <td><p>number(38,8)</p></td> 
+   <td><p>The deal amount that is expected or closed from the Opportunity</p></td> 
+   <td><p>42000.00000000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_WON</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the Opportunity has been moved to a stage that is considered Won</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_WON</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the Opportunity has been moved to a stage that is considered Won</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_OPP_CLOSED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the Opportunity has been moved to a stage that is considered closed, which can either be Won or Lost</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_OPP_CLOSED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the Opportunity has been moved to a stage that is considered closed, which can either be Won or Lost</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OPPORTUNITY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id that relates this table to the BIZ_OPPORTUNITIES table to join the dimension</p></td> 
-   <td colspan="1"><p>0060Z00000nFEfEQAW</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_OPPORTUNITIES.ID</p></td> 
+   <td><p>OPPORTUNITY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id that relates this table to the BIZ_OPPORTUNITIES table to join the dimension</p></td> 
+   <td><p>0060Z00000nFEfEQAW</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_OPPORTUNITIES.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OPP_CREATED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The created date of the Opportunity from the CRM</p></td> 
-   <td colspan="1"><p>2018-08-31 15:45:47.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>OPP_CREATED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The created date of the Opportunity from the CRM</p></td> 
+   <td><p>2018-08-31 15:45:47.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OPP_CLOSE_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The anticipated or actual Close Date set on the Opportunity</p></td> 
-   <td colspan="1"><p>2018-12-31 07:00:00.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>OPP_CLOSE_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The anticipated or actual Close Date set on the Opportunity</p></td> 
+   <td><p>2018-12-31 07:00:00.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CONTACT_CREATED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The created date of the Contact from the CRM</p></td> 
-   <td colspan="1"><p>2018-08-07 20:49:07.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CONTACT_CREATED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The created date of the Contact from the CRM</p></td> 
+   <td><p>2018-08-07 20:49:07.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CONTACT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id that relates this table to the BIZ_CONTACTS table to join the dimensions</p></td> 
-   <td colspan="1"><p>0030Z00003ORVJmQAP</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CONTACTS.ID</p></td> 
+   <td><p>CONTACT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id that relates this table to the BIZ_CONTACTS table to join the dimensions</p></td> 
+   <td><p>0030Z00003ORVJmQAP</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CONTACTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">EMAIL</td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>EMAIL</td> 
+   <td>varchar</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LEAD_CREATED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The created date of the Lead from the CRM</p></td> 
-   <td colspan="1"><p>2017-04-28 00:21:52.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LEAD_CREATED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The created date of the Lead from the CRM</p></td> 
+   <td><p>2017-04-28 00:21:52.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LEAD_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id that relates this table to the BIZ_LEADS table to join the dimensions</p></td> 
-   <td colspan="1"><p>00Q3100001GMPIsEAP</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_LEADS.ID</p></td> 
+   <td><p>LEAD_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id that relates this table to the BIZ_LEADS table to join the dimensions</p></td> 
+   <td><p>00Q3100001GMPIsEAP</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_LEADS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_AD</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the ad, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_AD</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the ad, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_ADVERTISER</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the advertiser, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_ADVERTISER</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the advertiser, filter this column by “TRUE”</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_AD_ACCOUNT</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the ad account, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_AD_ACCOUNT</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the ad account, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_AD_GROUP</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the ad group, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_AD_GROUP</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the ad group, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_CAMPAIGN</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the campaign, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_CAMPAIGN</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the campaign, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_CHANNEL</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the channel, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_CHANNEL</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the channel, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_CREATIVE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the creative, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_CREATIVE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the creative, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_KEYWORD</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the keyword, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_KEYWORD</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the keyword, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_PLACEMENT</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the placement, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_PLACEMENT</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the placement, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_AGGREGATABLE_COST_SITE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>If rolling up costs and summarizing by the site, filter this column by “TRUE”</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_AGGREGATABLE_COST_SITE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>If rolling up costs and summarizing by the site, filter this column by “TRUE”</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the record was deleted, used as an audit trail.</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the record was deleted, used as an audit trail.</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ISO_CODE</td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ISO_CODE</td> 
+   <td>varchar</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CURRENCY_ID</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_CURRENCIES.ID</td> 
+   <td>CURRENCY_ID</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_CURRENCIES.ID</td> 
   </tr> 
  </tbody> 
 </table>
@@ -5240,60 +5240,60 @@ All form submissions that occurred which contain a VisitorId and is related to a
    <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>VISITOR_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The first cookie of the related visitor Id</p></td> 
-   <td colspan="1"><p>v_9bc63c34482f4de8c2e3b9d8d9f0df56</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</p></td> 
+   <td><p>VISITOR_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The first cookie of the related visitor Id</p></td> 
+   <td><p>v_9bc63c34482f4de8c2e3b9d8d9f0df56</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SESSION_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The recorded session Id at the time the form was submitted</p></td> 
-   <td colspan="1"><p>2018-08-06:01-35-24-1231230.9bc63c34482f</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_SESSIONS.ID</p></td> 
+   <td><p>SESSION_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The recorded session Id at the time the form was submitted</p></td> 
+   <td><p>2018-08-06:01-35-24-1231230.9bc63c34482f</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_SESSIONS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>EVENT_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date and time that form was submitted</p></td> 
-   <td colspan="1"><p>2018-08-06 01:35:21.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>EVENT_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date and time that form was submitted</p></td> 
+   <td><p>2018-08-06 01:35:21.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-08-07 23:09:52.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-08-07 23:09:52.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CURRENT_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The URL where the form was submitted without query parameters.</p></td> 
-   <td colspan="1"><p><span>https://info.bizible.com/webinar-marketo-bizible-impact</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CURRENT_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The URL where the form was submitted without query parameters.</p></td> 
+   <td><p><span>https://info.bizible.com/webinar-marketo-bizible-impact</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CURRENT_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The URL where the form was submitted. The current page may contain query parameters in the URL.</p></td> 
-   <td colspan="1"><p><span>https://info.bizible.com/webinar-marketo-bizible-impact?utm_source=partner&amp;mkt_tok=eyJpIjoiTnpBeE1EVml PV0UyWlRObSIsInQiOiI3MEFIek04ZVJiWm9renc1Z29RXC9kXC92YkxycFRYclE0MVhOaH</span><br>Nwdml3YTZBZDdPdXh4Q0RmcnBJWXhwZTF1Z0RrbXlDVmxJNzIwNkhWOExxNFZLRmphc</p><p>ThVXC9xc3FvR2pET2lXT1ZOMjlKZXEyd3lSMVU3YmljeWdZVWUyZU5iWiJ9</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CURRENT_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The URL where the form was submitted. The current page may contain query parameters in the URL.</p></td> 
+   <td><p><span>https://info.bizible.com/webinar-marketo-bizible-impact?utm_source=partner&amp;mkt_tok=eyJpIjoiTnpBeE1EVml PV0UyWlRObSIsInQiOiI3MEFIek04ZVJiWm9renc1Z29RXC9kXC92YkxycFRYclE0MVhOaH</span><br>Nwdml3YTZBZDdPdXh4Q0RmcnBJWXhwZTF1Z0RrbXlDVmxJNzIwNkhWOExxNFZLRmphc</p><p>ThVXC9xc3FvR2pET2lXT1ZOMjlKZXEyd3lSMVU3YmljeWdZVWUyZU5iWiJ9</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IP_ADDRESS</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The recorded IP address at the time the form was submitted</p></td> 
-   <td colspan="1"><p>174.127.184.158</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IP_ADDRESS</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The recorded IP address at the time the form was submitted</p></td> 
+   <td><p>174.127.184.158</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>TYPE</p></td> 
@@ -5571,340 +5571,340 @@ Requirements: Enable View Through: True, Doubleclick by Google: True
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>COUNTRY</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The resolved country from the IP address. For example, United States or Canada.</p></td> 
-   <td colspan="1"><p>United States</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>COUNTRY</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The resolved country from the IP address. For example, United States or Canada.</p></td> 
+   <td><p>United States</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ISP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the internet service provider, used by customers with advanced Geo IP tracking.</p></td> 
-   <td colspan="1"><p>AT&amp;T U-verse</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ISP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the internet service provider, used by customers with advanced Geo IP tracking.</p></td> 
+   <td><p>AT&amp;T U-verse</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_PROVIDER</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_PROVIDER</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ads account in which the ad was resolved from.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
-   <td colspan="1"><p>300181641</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
+   <td><p>300181641</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser from the ads account in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser from the ads account in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>1695651</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SITES.ID</td> 
+   <td><p>SITE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>1695651</p></td> 
+   <td><br></td> 
+   <td>BIZ_SITES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>Quora.com</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SITE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>Quora.com</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>120839827</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_PLACEMENTS.ID</td> 
+   <td><p>PLACEMENT_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>120839827</p></td> 
+   <td><br></td> 
+   <td>BIZ_PLACEMENTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>roadblock</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLACEMENT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>roadblock</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Group in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Group in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Ad Group in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Ad Group in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><p>68035923</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADS.ID</td> 
+   <td><p>AD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><p>68035923</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><p>centurylink_banner_98121</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><p>centurylink_banner_98121</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_CREATIVES.ID</td> 
+   <td><p>CREATIVE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_CREATIVES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_1</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_1</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_2 </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_2 </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESTINATION_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESTINATION_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DISPLAY_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DISPLAY_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_KEYWORDS.ID</td> 
+   <td><p>KEYWORD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_KEYWORDS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_MATCH_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_MATCH_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Creative in the Doubleclick hierarchy for impressions</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>Chrome</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>Chrome</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>58</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>58</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>Mac</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>Mac</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>10_12</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>10_12</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
-   <td colspan="1"><p>-2712935512233520000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_FACTS.IMPRESSION_KEY</p></td> 
+   <td><p>ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
+   <td><p>-2712935512233520000</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_FACTS.IMPRESSION_KEY</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CURRENT_PAGE_KEY</p></td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CURRENT_PAGE_KEY</p></td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">REFERRER_PAGE_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>REFERRER_PAGE_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ACCOUNT_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ACCOUNT_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">ADVERTISER_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>ADVERTISER_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">SITE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>SITE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">PLACEMENT_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>PLACEMENT_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CAMPAIGN_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CAMPAIGN_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_GROUP_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_GROUP_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CREATIVE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CREATIVE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">KEYWORD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>KEYWORD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -5932,124 +5932,124 @@ Table that stores all keywords downloaded from any connected ads accounts.
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the keyword</p></td> 
-   <td colspan="1"><p>ba.3284209.132630532.3646889365.39464932147</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the keyword</p></td> 
+   <td><p>ba.3284209.132630532.3646889365.39464932147</p></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>39464932147</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>39464932147</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the connected ads account for the keyword</p></td> 
-   <td colspan="1"><p>ba.3284209</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the connected ads account for the keyword</p></td> 
+   <td><p>ba.3284209</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the connected ads account for the keyword</p></td> 
-   <td colspan="1"><p>Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the connected ads account for the keyword</p></td> 
+   <td><p>Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Keyword in the Doubleclick ads hierarchy.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Keyword in the Doubleclick ads hierarchy.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Expected to be NULL since there is no Keyword in the Doubleclick ads hierarchy.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Expected to be NULL since there is no Keyword in the Doubleclick ads hierarchy.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the ad group for the keyword</p></td> 
-   <td colspan="1"><p>ba.3284209.132630532.3646889365</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the ad group for the keyword</p></td> 
+   <td><p>ba.3284209.132630532.3646889365</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ad group for the keyword</p></td> 
-   <td colspan="1"><p>Revenue Attribution - B2B</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ad group for the keyword</p></td> 
+   <td><p>Revenue Attribution - B2B</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the campaign for the keyword</p></td> 
-   <td colspan="1"><p>ba.3284209.132630532</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>AD_CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the campaign for the keyword</p></td> 
+   <td><p>ba.3284209.132630532</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the campaign for the keyword</p></td> 
-   <td colspan="1"><p>Revenue Attribution</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the campaign for the keyword</p></td> 
+   <td><p>Revenue Attribution</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_ACTIVE</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the keyword is still active in the ads account</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_ACTIVE</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the keyword is still active in the ads account</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the keyword has been deleted in the ads account</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the keyword has been deleted in the ads account</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-08-02 06:37:29.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-08-02 06:37:29.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FIRST_IMPORTED</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date that the keyword was first downloaded by Bizible</p></td> 
-   <td colspan="1"><p>2018-08-02 06:37:29.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FIRST_IMPORTED</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date that the keyword was first downloaded by Bizible</p></td> 
+   <td><p>2018-08-02 06:37:29.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the keyword</p></td> 
-   <td colspan="1"><p>[revenue attribution b2b]</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the keyword</p></td> 
+   <td><p>[revenue attribution b2b]</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>NEEDS_UPDATE</p></td> 
@@ -6197,28 +6197,28 @@ Table that stores all landing pages downloaded from any connected ads accounts.
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>ADVERTISER_UNIQUE_ID</p></td> 
@@ -6542,44 +6542,44 @@ All CRM Leads that are imported, along with custom Bizible fields.
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
-   <td colspan="1"><p>4609512587744160000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
+   <td><p>4609512587744160000</p></td> 
+   <td><br></td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CUSTOM_PROPERTIES</td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1">Custom CRM properties that Bizible has imported from the CRM in JSON format</td> 
-   <td colspan="1">{"Lead_Type__c":"Sales Created", "Foo":"Bar"}</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CUSTOM_PROPERTIES</td> 
+   <td>varchar</td> 
+   <td>Custom CRM properties that Bizible has imported from the CRM in JSON format</td> 
+   <td>{"Lead_Type__c":"Sales Created", "Foo":"Bar"}</td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DUPLICATE</p></td> 
-   <td colspan="1">boolean</td> 
-   <td colspan="1"><p>Default is 'FALSE'. This column exists to mark any persons (leads) that exists in both Marketo and CRM as duplicate true. If there are duplicates, the Marketo Source lead will be marked IS_DUPLICATE = true </p></td> 
-   <td colspan="1"><p>FALSE / TRUE </p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DUPLICATE</p></td> 
+   <td>boolean</td> 
+   <td><p>Default is 'FALSE'. This column exists to mark any persons (leads) that exists in both Marketo and CRM as duplicate true. If there are duplicates, the Marketo Source lead will be marked IS_DUPLICATE = true </p></td> 
+   <td><p>FALSE / TRUE </p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SOURCE_SYSTEM </p></td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1"><p>Default is 'Crm'. This column exists to capture the 'source' (Marketo or Crm) from where a contact was imported into our system. </p></td> 
-   <td colspan="1"><p>CRM / Marketo</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SOURCE_SYSTEM </p></td> 
+   <td>varchar</td> 
+   <td><p>Default is 'Crm'. This column exists to capture the 'source' (Marketo or Crm) from where a contact was imported into our system. </p></td> 
+   <td><p>CRM / Marketo</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OTHER_SYSTEM_ID </p></td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1"><p>Default is 'NULL'. This column exists to map a person from Marketo with a Contact from Crm. The value would be the corresponding ID (from Marketo or CRM) </p></td> 
-   <td colspan="1"><p>1234 / 00Q0Z00001OohgTUAR </p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>OTHER_SYSTEM_ID </p></td> 
+   <td>varchar</td> 
+   <td><p>Default is 'NULL'. This column exists to map a person from Marketo with a Contact from Crm. The value would be the corresponding ID (from Marketo or CRM) </p></td> 
+   <td><p>1234 / 00Q0Z00001OohgTUAR </p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -6607,44 +6607,44 @@ Stores all stage transitions that occur on the Lead or Contact, tying it to a to
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the transition</p></td> 
-   <td colspan="1"><p>ST_0030Z00003FhkRXQAZ__bizible_FT-1_TP2_Person_0030Z00003FhkRXQAZ_2018-08-27:17-05-45-9474800.0d5c18c29d7b</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the transition</p></td> 
+   <td><p>ST_0030Z00003FhkRXQAZ__bizible_FT-1_TP2_Person_0030Z00003FhkRXQAZ_2018-08-27:17-05-45-9474800.0d5c18c29d7b</p></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>EMAIL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The provided email address for the related Lead/Contact</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#e58297848d8488a5878c9f8c878980cb868a88" rel="nofollow"><span>[email protected]</span></a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>EMAIL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The provided email address for the related Lead/Contact</p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#e58297848d8488a5878c9f8c878980cb868a88"><span>[email protected]</span></a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LEAD_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Lead Id to get data such as created date.</p></td> 
-   <td colspan="1"><p>00Q3100001Fx6AlEAJ</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_LEADS.ID</p></td> 
+   <td><p>LEAD_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Lead Id to get data such as created date.</p></td> 
+   <td><p>00Q3100001Fx6AlEAJ</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_LEADS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CONTACT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Contact Id to get data such as created date.</p></td> 
-   <td colspan="1"><p>0033100003Aq9grAAB</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CONTACTS.ID</p></td> 
+   <td><p>CONTACT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Contact Id to get data such as created date.</p></td> 
+   <td><p>0033100003Aq9grAAB</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CONTACTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>TOUCHPOINT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Touchpoint Id to get data such as channel or count.</p></td> 
-   <td colspan="1"><p>TP2_Person_00Q3100001Fx6AlEAJ_2018-08-28:14-41-06-1674260.d00ceb09fbd3</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_TOUCHPOINTS.ID</p></td> 
+   <td><p>TOUCHPOINT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Touchpoint Id to get data such as channel or count.</p></td> 
+   <td><p>TP2_Person_00Q3100001Fx6AlEAJ_2018-08-28:14-41-06-1674260.d00ceb09fbd3</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_TOUCHPOINTS.ID</p></td> 
   </tr> 
   <tr> 
    <td><p>TRANSITION_DATE</p></td> 
@@ -6768,68 +6768,68 @@ All CRM Opportunities that are imported, along with custom Bizible fields.
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>CRM Opportunity Id</p></td> 
-   <td colspan="1"><p>0060Z00000o89I4QAI</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>CRM Opportunity Id</p></td> 
+   <td><p>0060Z00000o89I4QAI</p></td> 
+   <td>X</td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the Opportunity from the CRM</p></td> 
-   <td colspan="1"><p>2018-09-04 17:00:12.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the Opportunity from the CRM</p></td> 
+   <td><p>2018-09-04 17:00:12.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The created date of the Opportunity from the CRM</p></td> 
-   <td colspan="1"><p>2018-09-04 16:07:07.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The created date of the Opportunity from the CRM</p></td> 
+   <td><p>2018-09-04 16:07:07.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the related Account that this Opportunity is tied to</p></td> 
-   <td colspan="1"><p>001i000000qbyeoAAA</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_ACCOUNTS.ID</p></td> 
+   <td><p>ACCOUNT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the related Account that this Opportunity is tied to</p></td> 
+   <td><p>001i000000qbyeoAAA</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_ACCOUNTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the Opportunity</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the Opportunity</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_WON</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the Opportunity has been moved to a stage that is considered Won</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_WON</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the Opportunity has been moved to a stage that is considered Won</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_CLOSED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the Opportunity has been moved to a stage that is considered closed, which can either be Won or Lost</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_CLOSED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the Opportunity has been moved to a stage that is considered closed, which can either be Won or Lost</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CLOSE_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The anticipated or actual Close Date set on the Opportunity</p></td> 
-   <td colspan="1"><p>2019-08-28 07:00:00.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CLOSE_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The anticipated or actual Close Date set on the Opportunity</p></td> 
+   <td><p>2019-08-28 07:00:00.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>BIZIBLE_CUSTOM_MODEL_DATE</p></td> 
@@ -6859,7 +6859,7 @@ All CRM Opportunities that are imported, along with custom Bizible fields.
    <td><p>CONVERTED_FROM_LEAD_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email of the related Lead that had converted into this Opportunity</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#8becf9eae3eae6cbe9e2f1e2e9e7eea5e8e4e6" rel="nofollow"><span>[email protected]</span></a></p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#8becf9eae3eae6cbe9e2f1e2e9e7eea5e8e4e6"><span>[email protected]</span></a></p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -6875,7 +6875,7 @@ All CRM Opportunities that are imported, along with custom Bizible fields.
    <td><p>PRIMARY_CONTACT_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>If Primary Contact Role is used, the email d of the related Contact that is listed as the primary contact role</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f39481929b929eb3919a899a919f96dd909c9e" rel="nofollow"><span>[email protected]</span></a></p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f39481929b929eb3919a899a919f96dd909c9e"><span>[email protected]</span></a></p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -6969,44 +6969,44 @@ Stores all stage transitions that occur on the Opportunity, tying it to a touchp
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the transition</p></td> 
-   <td colspan="1"><p>ST_0060Z00000nEgjlQAC_0030Z00003IjojKQAR_Demo Scheduled-1_BAT2_0060Z00000nEgjlQAC_0030Z00003IjojKQAR_2018-06-01:19-51-38-1685390.beec556e7757</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the transition</p></td> 
+   <td><p>ST_0060Z00000nEgjlQAC_0030Z00003IjojKQAR_Demo Scheduled-1_BAT2_0060Z00000nEgjlQAC_0030Z00003IjojKQAR_2018-06-01:19-51-38-1685390.beec556e7757</p></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Account Id to get data such as created date or predictive engagement score (ABM)</p></td> 
-   <td colspan="1"><p>0013100001b44nTAAQ</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_ACCOUNTS.ID</p></td> 
+   <td><p>ACCOUNT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Account Id to get data such as created date or predictive engagement score (ABM)</p></td> 
+   <td><p>0013100001b44nTAAQ</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_ACCOUNTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>OPPORTUNITY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Opportunity Id to get data such as record type or (opportunity) stage.</p></td> 
-   <td colspan="1"><p>0060Z00000nEgjlQAC</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_OPPORTUNITIES.ID</p></td> 
+   <td><p>OPPORTUNITY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Opportunity Id to get data such as record type or (opportunity) stage.</p></td> 
+   <td><p>0060Z00000nEgjlQAC</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_OPPORTUNITIES.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CONTACT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Contact Id to get data such as created date.</p></td> 
-   <td colspan="1"><p>0030Z00003IjojKQAR</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CONTACTS.ID</p></td> 
+   <td><p>CONTACT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Contact Id to get data such as created date.</p></td> 
+   <td><p>0030Z00003IjojKQAR</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CONTACTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>TOUCHPOINT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Lead Id to get data such as channel or count.</p></td> 
-   <td colspan="1"><p>BAT2_0060Z00000nEgjlQAC_0030Z00003IjojKQAR_2018-06-01:19-51-38-1685390.beec556e7757</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_ATTRIBUTION_TOUCHPOINTS.ID</p></td> 
+   <td><p>TOUCHPOINT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Lead Id to get data such as channel or count.</p></td> 
+   <td><p>BAT2_0060Z00000nEgjlQAC_0030Z00003IjojKQAR_2018-06-01:19-51-38-1685390.beec556e7757</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_ATTRIBUTION_TOUCHPOINTS.ID</p></td> 
   </tr> 
   <tr> 
    <td><p>TRANSITION_DATE </p></td> 
@@ -7130,44 +7130,44 @@ Page views from web visits with a VisitorId and is related to Biz_Session. Multi
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique Id for the page view</p></td> 
-   <td colspan="1"><p>2018-08-19:16-49-58-24340.277d79d0167849</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique Id for the page view</p></td> 
+   <td><p>2018-08-19:16-49-58-24340.277d79d0167849</p></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>COOKIE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The recorded cookie Id at the time of the page view</p></td> 
-   <td colspan="1"><p>277d79d01678498fea067c9b631bf6df</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>COOKIE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The recorded cookie Id at the time of the page view</p></td> 
+   <td><p>277d79d01678498fea067c9b631bf6df</p></td> 
+   <td><br></td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>VISITOR_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The first cookie of the related visitor Id</p></td> 
-   <td colspan="1"><p>v_277d79d01678498fea067c9b631bf6df</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</p></td> 
+   <td><p>VISITOR_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The first cookie of the related visitor Id</p></td> 
+   <td><p>v_277d79d01678498fea067c9b631bf6df</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SESSION_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The recorded session Id at the time of the page view</p></td> 
-   <td colspan="1"><p>2018-08-19:16-49-58-24340.277d79d0167849</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_SESSIONS.ID</p></td> 
+   <td><p>SESSION_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The recorded session Id at the time of the page view</p></td> 
+   <td><p>2018-08-19:16-49-58-24340.277d79d0167849</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_SESSIONS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>EVENT_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date and time of the page view</p></td> 
-   <td colspan="1"><p>2018-08-19 16:49:58.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>EVENT_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date and time of the page view</p></td> 
+   <td><p>2018-08-19 16:49:58.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>MODIFIED_DATE</p></td> 
@@ -7331,12 +7331,12 @@ Table that stores all placements downloaded from any connected ads accounts, an 
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique Id for the placement</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique Id for the placement</p></td> 
+   <td><br></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>DISPLAY_ID</p></td> 
@@ -7565,332 +7565,332 @@ All recorded sessions associated with a VisitorId. Multiple sessions can be asso
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique Id for the session</p></td> 
-   <td colspan="1"><p>2016-08-01:14-24-21-9079480.33163948f0a3</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique Id for the session</p></td> 
+   <td><p>2016-08-01:14-24-21-9079480.33163948f0a3</p></td> 
+   <td>X</td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>VISITOR_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The first cookie of the related visitor Id</p></td> 
-   <td colspan="1"><p>v_33163948f0a34303f2f4759e5d31a620</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</p></td> 
+   <td><p>VISITOR_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The first cookie of the related visitor Id</p></td> 
+   <td><p>v_33163948f0a34303f2f4759e5d31a620</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>COOKIE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The recorded cookie Id from the session</p></td> 
-   <td colspan="1"><p>33163948f0a34303f2f4759e5d31a620</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>COOKIE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The recorded cookie Id from the session</p></td> 
+   <td><p>33163948f0a34303f2f4759e5d31a620</p></td> 
+   <td><br></td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>EVENT_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date and time of the session</p></td> 
-   <td colspan="1"><p>2016-08-01 14:24:21.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>EVENT_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date and time of the session</p></td> 
+   <td><p>2016-08-01 14:24:21.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-09-01 03:49:10.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-09-01 03:49:10.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CHANNEL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Paid Search.AdWords</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CHANNEL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
+   <td><p>Paid Search.AdWords</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PAGE_TITLE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the web page</p></td> 
-   <td colspan="1"><p>Salesforce Google Analytics | Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PAGE_TITLE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the web page</p></td> 
+   <td><p>Salesforce Google Analytics | Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page” This is the first landing page of the session that resulted in a touchpoint. </p></td> 
-   <td colspan="1"><p><span>http://www.bizible.com/salesforce-google-analytics</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page” This is the first landing page of the session that resulted in a touchpoint. </p></td> 
+   <td><p><span>http://www.bizible.com/salesforce-google-analytics</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
-   <td colspan="1"><p><span>http://www.bizible.com/salesforce-google-analytics?_bt=83558988035&amp;_bk=google%20analytics%20salesforce&amp;_bm=</span> p&amp;gclid=CMvd5YTLo84CFUI9gQodd-kLEQ</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
+   <td><p><span>http://www.bizible.com/salesforce-google-analytics?_bt=83558988035&amp;_bk=google%20analytics%20salesforce&amp;_bm=</span> p&amp;gclid=CMvd5YTLo84CFUI9gQodd-kLEQ</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page” This is the usually the external landing page immediately before the user comes onto the website. </p></td> 
-   <td colspan="1"><p>https://www.google.com/</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page” This is the usually the external landing page immediately before the user comes onto the website. </p></td> 
+   <td><p>https://www.google.com/</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
-   <td colspan="1"><p>https://www.google.com/</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
+   <td><p>https://www.google.com/</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the referrer web page</p></td> 
-   <td colspan="1"><p>Google</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the referrer web page</p></td> 
+   <td><p>Google</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SEARCH_PHRASE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</p></td> 
-   <td colspan="1"><p>bizible google salesforce</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SEARCH_PHRASE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</p></td> 
+   <td><p>bizible google salesforce</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>WEB_SOURCE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
-   <td colspan="1"><p>Google AdWords</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>WEB_SOURCE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
+   <td><p>Google AdWords</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>HAS_FORM</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the session contained a form fill</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>HAS_FORM</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the session contained a form fill</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>HAS_CHAT</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the session contained a web chat</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>HAS_CHAT</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the session contained a web chat</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>HAS_EMAIL</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the session had an email address</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>HAS_EMAIL</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the session had an email address</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>HAS_CRM_ACTIVITY</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the session came from a CRM activity record</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>HAS_CRM_ACTIVITY</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the session came from a CRM activity record</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DEVICE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The browser and operating system the user is using during the web session</p></td> 
-   <td colspan="1"><p>Chrome (65.0), Windows (6.1)</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DEVICE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The browser and operating system the user is using during the web session</p></td> 
+   <td><p>Chrome (65.0), Windows (6.1)</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_PROVIDER</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
-   <td colspan="1"><p>Google</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_PROVIDER</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
+   <td><p>Google</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><p>aw.6601259029</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ads account in which the ad was resolved from.</p></td> 
+   <td><p>aw.6601259029</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
-   <td colspan="1"><p>Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
+   <td><p>Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically from Doubleclick connection.</p></td> 
-   <td colspan="1"><p>300181641</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically from Doubleclick connection.</p></td> 
+   <td><p>300181641</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser from the ads account in which the ad was resolved from, such as Bizible Inc.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>1695651</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SITES.ID</td> 
+   <td><p>SITE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>1695651</p></td> 
+   <td><br></td> 
+   <td>BIZ_SITES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>Quora.com</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SITE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>Quora.com</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>120839827</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_PLACEMENTS.ID</td> 
+   <td><p>PLACEMENT_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>120839827</p></td> 
+   <td><br></td> 
+   <td>BIZ_PLACEMENTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>roadblock</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLACEMENT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>roadblock</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><p>aw.6601259029.321586235</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
+   <td><p>aw.6601259029.321586235</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
-   <td colspan="1"><p>Salesforce</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
+   <td><p>Salesforce</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</p></td> 
-   <td colspan="1"><p>aw.6601259029.321586235.23182235435</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</p></td> 
+   <td><p>aw.6601259029.321586235.23182235435</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</p></td> 
-   <td colspan="1"><p>Salesforce - Google Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</p></td> 
+   <td><p>Salesforce - Google Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADS.ID</td> 
+   <td><p>AD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_ADS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>aw.6601259029.321586235.23182235435.83558988035</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_CREATIVES.ID</td> 
+   <td><p>CREATIVE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>aw.6601259029.321586235.23182235435.83558988035</p></td> 
+   <td><br></td> 
+   <td>BIZ_CREATIVES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Integrate GA &amp; Salesforce</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Integrate GA &amp; Salesforce</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_1</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Integrate Salesforce &amp; Analytics To</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_1</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Integrate Salesforce &amp; Analytics To</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_2 </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Optimize for Revenue. Learn How.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_2 </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Optimize for Revenue. Learn How.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESTINATION_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p><span>http://www.bizible.com/salesforce-google-analytics</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESTINATION_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p><span>http://www.bizible.com/salesforce-google-analytics</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DISPLAY_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Bizible.com/Salesforce-for-GA</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DISPLAY_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Bizible.com/Salesforce-for-GA</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</p></td> 
-   <td colspan="1"><p>aw.6601259029.321586235.23182235435.35934468937</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_KEYWORDS.ID</td> 
+   <td><p>KEYWORD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</p></td> 
+   <td><p>aw.6601259029.321586235.23182235435.35934468937</p></td> 
+   <td><br></td> 
+   <td>BIZ_KEYWORDS.ID</td> 
   </tr> 
   <tr> 
    <td><p>KEYWORD_NAME</p></td> 
@@ -8045,52 +8045,52 @@ All recorded sessions associated with a VisitorId. Multiple sessions can be asso
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">PLACEMENT_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>PLACEMENT_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CAMPAIGN_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CAMPAIGN_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">AD_GROUP_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>AD_GROUP_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">CREATIVE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>CREATIVE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1">KEYWORD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>KEYWORD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
  </tbody> 
 </table>
@@ -8118,20 +8118,20 @@ Table that stores all sites downloaded from any connected ads accounts, an objec
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique identifier for the site</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique identifier for the site</p></td> 
+   <td><br></td> 
+   <td>X</td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
@@ -8311,44 +8311,44 @@ Table that stores all site links downloaded from any connected ads accounts.
    <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>DISPLAY_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>1654234342</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>DISPLAY_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><br></td> 
+   <td><p>1654234342</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ID of the connected ads account for the site link</p></td> 
-   <td colspan="1"><p>aw.6601259029</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>AD_ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ID of the connected ads account for the site link</p></td> 
+   <td><p>aw.6601259029</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the connected ads account for the site link</p></td> 
-   <td colspan="1"><p>Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the connected ads account for the site link</p></td> 
+   <td><p>Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser for the site link, specifically for Doubleclick.</p></td> 
-   <td colspan="1"><p>300181641</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser for the site link, specifically for Doubleclick.</p></td> 
+   <td><p>300181641</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser for the site link, specifically for Doubleclick.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser for the site link, specifically for Doubleclick.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td><p>AD_GROUP_UNIQUE_ID</p></td> 
@@ -8458,7 +8458,7 @@ Table that stores all site links downloaded from any connected ads accounts.
    <td><p>URL_CURRENT</p></td> 
    <td><p>varchar</p></td> 
    <td><br></td> 
-   <td><p><a href="http://bizible.com/b2b-marketing-attribution?_bt" rel="nofollow">http://bizible.com/b2b-marketing-attribution?_bt</a> =</p><p>{creative}&amp;_bk={keyword}&amp;_bm={matchType}</p></td> 
+   <td><p><a href="http://bizible.com/b2b-marketing-attribution?_bt">http://bizible.com/b2b-marketing-attribution?_bt</a> =</p><p>{creative}&amp;_bk={keyword}&amp;_bm={matchType}</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -8625,756 +8625,756 @@ All touchpoints that are associated with a Lead and/or Contact. This table will 
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique Id for the touchpoint record</p></td> 
-   <td colspan="1"><p>TP2_Person_00Q0Z000013e2PYUAY_2018-08-27:20-04-40-5655690.1ee8567c175a</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><p><br></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-08-29 22:29:30.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>EMAIL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The known email address that’s tied to this touchpoint via a Lead or Contact</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>CONTACT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_Contacts table to select columns such as Created Date</p></td> 
-   <td colspan="1"><p>0030Z00003Fhe7qQAB</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CONTACTS.ID</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>ACCOUNT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_Accounts table to select columns such as Website or Engagement Rating</p></td> 
-   <td colspan="1"><p>0013100001lSLScAAO</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_ACCOUNTS.ID</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>LEAD_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_Leads table to select columns such as Created Date</p></td> 
-   <td colspan="1"><p>00Q0Z000013e2PYUAY</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_LEADS.ID</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>UNIQUE_ID_PERSON</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The parent person record that relates to a Lead or Contact</p></td> 
-   <td colspan="1"><p>Person_00Q0Z000013e2PYUAY</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>USER_TOUCHPOINT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A lookup to the Biz_User_Touchpoints table to select columns such as session_id</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>_2018-08-29:18-14-53-8102030.10df92cbb414</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_USER_TOUCHPOINTS.ID</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">VISITOR_ID</td> 
-   <td colspan="1">varchar</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>TOUCHPOINT_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date of the recorded touchpoint, which is the date that the session occurred</p></td> 
-   <td colspan="1"><p>2018-08-27 20:04:40.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>MARKETING_TOUCH_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Touchpoint Type.” This records the type of activity, whether it was a Web Visit, Web Form, Web Chat, Phone Call, [CRM] Campaign, or [CRM] Activity</p></td> 
-   <td colspan="1"><p>Web Form</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>CHANNEL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Social.LinkedIn</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>CATEGORY1</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 1st Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>ABC, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique Id for the touchpoint record</p></td> 
+   <td><p>TP2_Person_00Q0Z000013e2PYUAY_2018-08-27:20-04-40-5655690.1ee8567c175a</p></td> 
+   <td>X</td> 
+   <td><p><br></p></td> 
+  </tr> 
+  <tr> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-08-29 22:29:30.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>EMAIL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The known email address that’s tied to this touchpoint via a Lead or Contact</p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>CONTACT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_Contacts table to select columns such as Created Date</p></td> 
+   <td><p>0030Z00003Fhe7qQAB</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CONTACTS.ID</p></td> 
+  </tr> 
+  <tr> 
+   <td><p>ACCOUNT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_Accounts table to select columns such as Website or Engagement Rating</p></td> 
+   <td><p>0013100001lSLScAAO</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_ACCOUNTS.ID</p></td> 
+  </tr> 
+  <tr> 
+   <td><p>LEAD_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_Leads table to select columns such as Created Date</p></td> 
+   <td><p>00Q0Z000013e2PYUAY</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_LEADS.ID</p></td> 
+  </tr> 
+  <tr> 
+   <td><p>UNIQUE_ID_PERSON</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The parent person record that relates to a Lead or Contact</p></td> 
+   <td><p>Person_00Q0Z000013e2PYUAY</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>USER_TOUCHPOINT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A lookup to the Biz_User_Touchpoints table to select columns such as session_id</p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>_2018-08-29:18-14-53-8102030.10df92cbb414</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_USER_TOUCHPOINTS.ID</p></td> 
+  </tr> 
+  <tr> 
+   <td>VISITOR_ID</td> 
+   <td>varchar</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_EMAIL_TO_VISITOR_IDS.VISITOR_ID</td> 
+  </tr> 
+  <tr> 
+   <td><p>TOUCHPOINT_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date of the recorded touchpoint, which is the date that the session occurred</p></td> 
+   <td><p>2018-08-27 20:04:40.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>MARKETING_TOUCH_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Touchpoint Type.” This records the type of activity, whether it was a Web Visit, Web Form, Web Chat, Phone Call, [CRM] Campaign, or [CRM] Activity</p></td> 
+   <td><p>Web Form</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>CHANNEL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
+   <td><p>Social.LinkedIn</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>CATEGORY1</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 1st Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>ABC, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY2</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 2nd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Yes, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY2</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 2nd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>Yes, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY3</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 3rd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Other, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY3</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 3rd Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>Other, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY4</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 4th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Partner, or NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY4</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 4th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>Partner, or NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY5</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 5th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY5</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 5th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY6</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 6th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY6</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 6th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY7</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 7th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY7</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 7th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY8</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 8th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY8</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 8th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY9</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 9th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY9</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 9th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY10</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 10th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY10</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 10th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY11</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 11th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY11</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 11th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY12</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 12th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY12</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 12th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY13</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 13th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY13</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 13th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY14</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 14th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY14</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 14th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CATEGORY15</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Segments.” This is the segment value for the 15th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>NULL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CATEGORY15</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Segments.” This is the segment value for the 15th Category that the touchpoint falls into, as defined in the segment definitions within the Bizible App.</p></td> 
+   <td><p>NULL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>Chrome</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>Chrome</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>68</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>68</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>Windows</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>Windows</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>6.1</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>6.1</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page.” This is the first landing page of the session that resulted in a touchpoint. </p></td> 
-   <td colspan="1"><p><span>https://info.bizible.com/definitive-guide-to-pipeline-marketing</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page.” This is the first landing page of the session that resulted in a touchpoint. </p></td> 
+   <td><p><span>https://info.bizible.com/definitive-guide-to-pipeline-marketing</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
-   <td colspan="1"><p><span>https://info.bizible.com/definitive-guide-to-pipeline-marketing?utm_source=linkedin&amp;utm_medium=Social&amp;utm_campaign=SU_COM_Demand_</span> Skills&amp;utm_content=DGPM&amp;utm_term=lisu03151846&amp;_bl=66452504</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
+   <td><p><span>https://info.bizible.com/definitive-guide-to-pipeline-marketing?utm_source=linkedin&amp;utm_medium=Social&amp;utm_campaign=SU_COM_Demand_</span> Skills&amp;utm_content=DGPM&amp;utm_term=lisu03151846&amp;_bl=66452504</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page.” This is the usually the external landing page immediately before the user comes onto the website.</p></td> 
-   <td colspan="1"><p><span>https://www.linkedin.com/feed</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page.” This is the usually the external landing page immediately before the user comes onto the website.</p></td> 
+   <td><p><span>https://www.linkedin.com/feed</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
-   <td colspan="1"><p><span>https://www.linkedin.com/feed</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
+   <td><p><span>https://www.linkedin.com/feed</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Form - URL.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table.</p></td> 
-   <td colspan="1"><p><span>https://info.bizible.com/demo</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Form - URL.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table.</p></td> 
+   <td><p><span>https://info.bizible.com/demo</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date that the form submission occurred.</p></td> 
-   <td colspan="1"><p><span>https://info.bizible.com/demo?hsCtaTracking=98adcc2f-afe2-40c4-9d79-40dcc41663ee%7C3cfaa909-39cb-4f5d-93eb-be05de6b0180</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date that the form submission occurred.</p></td> 
+   <td><p><span>https://info.bizible.com/demo?hsCtaTracking=98adcc2f-afe2-40c4-9d79-40dcc41663ee%7C3cfaa909-39cb-4f5d-93eb-be05de6b0180</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CITY </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</p></td> 
-   <td colspan="1"><p>New York</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CITY </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</p></td> 
+   <td><p>New York</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REGION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</p></td> 
-   <td colspan="1"><p>New York</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REGION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</p></td> 
+   <td><p>New York</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>COUNTRY</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</p></td> 
-   <td colspan="1"><p>United States</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>COUNTRY</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</p></td> 
+   <td><p>United States</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MEDIUM</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</p></td> 
-   <td colspan="1"><p>Social</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MEDIUM</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</p></td> 
+   <td><p>Social</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>WEB_SOURCE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
-   <td colspan="1"><p>LinkedIn</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>WEB_SOURCE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
+   <td><p>LinkedIn</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SEARCH_PHRASE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</p></td> 
-   <td colspan="1"><p>bizible attribution</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SEARCH_PHRASE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</p></td> 
+   <td><p>bizible attribution</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_PROVIDER</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
-   <td colspan="1"><p>LinkedIn</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_PROVIDER</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
+   <td><p>LinkedIn</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><p>li.502664737</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ads account in which the ad was resolved from.</p></td> 
+   <td><p>li.502664737</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
-   <td colspan="1"><p>Bizible SC 2016_14605342_3/7-3/31/16</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
+   <td><p>Bizible SC 2016_14605342_3/7-3/31/16</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
-   <td colspan="1"><p>300181641</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
+   <td><p>300181641</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser from the ads account in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser from the ads account in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>1695651</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SITES.ID</td> 
+   <td><p>SITE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>1695651</p></td> 
+   <td><br></td> 
+   <td>BIZ_SITES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>Quora.com</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SITE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>Quora.com</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>120839827</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_PLACEMENTS.ID</td> 
+   <td><p>PLACEMENT_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>120839827</p></td> 
+   <td><br></td> 
+   <td>BIZ_PLACEMENTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>roadblock</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLACEMENT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>roadblock</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><p>li.502664737.138949954</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
+   <td><p>li.502664737.138949954</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
-   <td colspan="1"><p>SU - COM Accounts - Demand Skills</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
+   <td><p>SU - COM Accounts - Demand Skills</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADS.ID</td> 
+   <td><p>AD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_ADS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>li.502664737.138949954.66452504</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_CREATIVES.ID</td> 
+   <td><p>CREATIVE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>li.502664737.138949954.66452504</p></td> 
+   <td><br></td> 
+   <td>BIZ_CREATIVES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>lisu03151846</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>lisu03151846</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_1</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Lead gen is dead </p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_1</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Lead gen is dead </p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_2 </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Download the definitive guide to pipeline marketing: <span>https://lnkd.in/e9xYj5M</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_2 </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Download the definitive guide to pipeline marketing: <span>https://lnkd.in/e9xYj5M</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESTINATION_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p><span>https://image-store.slidesharecdn.com/d29165c0-1e0b-4ffc-a494-d2c77e7cd4a6-large.jpeg</span></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESTINATION_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p><span>https://image-store.slidesharecdn.com/d29165c0-1e0b-4ffc-a494-d2c77e7cd4a6-large.jpeg</span></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DISPLAY_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>bizible.com/guide</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DISPLAY_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>bizible.com/guide</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</p></td> 
-   <td colspan="1"><p>__GAId__lisu03151846</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_KEYWORDS.ID</td> 
+   <td><p>KEYWORD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</p></td> 
+   <td><p>__GAId__lisu03151846</p></td> 
+   <td><br></td> 
+   <td>BIZ_KEYWORDS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</p></td> 
-   <td colspan="1"><p>lisu03151846</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from, such as Software Discount or Annual Budget. This applies to Google AdWords and Bing Ads (search)</p></td> 
+   <td><p>lisu03151846</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_MATCH_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</p></td> 
-   <td colspan="1"><p>Broad</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>KEYWORD_MATCH_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The type of match that was found between the search phrase and the purchased keyword, such as “broad” or “exact”</p></td> 
+   <td><p>Broad</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_FIRST_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the first touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_FIRST_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the first touch of the opportunity journey</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_LEAD_CREATION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_LEAD_CREATION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the lead creation touch of the opportunity journey</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_OPP_CREATION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the opportunity creation touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_OPP_CREATION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the opportunity creation touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_CLOSED_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the closed touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_CLOSED_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the closed touch of the opportunity journey. Because this is the lead model, this is expected to be 0.</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>STAGES_TOUCHED</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The stages that the touchpoint has gone through</p></td> 
-   <td colspan="1"><p>Open, MQL</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>STAGES_TOUCHED</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The stages that the touchpoint has gone through</p></td> 
+   <td><p>Open, MQL</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_FORM_SUBMISSION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint had a form fill during the session</p></td> 
-   <td colspan="1"><p>TRUE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_FORM_SUBMISSION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint had a form fill during the session</p></td> 
+   <td><p>TRUE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_IMPRESSION_TOUCH</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_IMPRESSION_TOUCH</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not this touchpoint is treated as the first impression touch of the opportunity journey</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FIRST_CLICK_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</p></td> 
-   <td colspan="1"><p>100</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FIRST_CLICK_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s a first touch (See Is_First_Touch)</p></td> 
+   <td><p>100</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LAST_ANON_CLICK_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</p></td> 
-   <td colspan="1"><p>100</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LAST_ANON_CLICK_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s a lead creation touch (See Is_Last_Anon_Click_Percentage)</p></td> 
+   <td><p>100</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>U_SHAPE_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</p></td> 
-   <td colspan="1"><p>100</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>U_SHAPE_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a u-shaped touch (See Is_First_Touch and Is_Lead_Creation_Touch)</p></td> 
+   <td><p>100</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>W_SHAPE_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch). Because this is the lead model, this is expected to be 0.</p></td> 
-   <td colspan="1"><p>0</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>W_SHAPE_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a w-shaped touch (See Is_First_Touch, Is_Lead_Creation_Touch, and Is_Opp_Creation_Touch). Because this is the lead model, this is expected to be 0.</p></td> 
+   <td><p>0</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FULL_PATH_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19) </p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch). Because this is the lead model, this is expected to be 0.</p></td> 
-   <td colspan="1"><p>0</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FULL_PATH_PERCENTAGE</p></td> 
+   <td><p>number(22,19) </p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a full path model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch). Because this is the lead model, this is expected to be 0.</p></td> 
+   <td><p>0</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CUSTOM_MODEL_PERCENTAGE</p></td> 
-   <td colspan="1"><p>number(22,19)</p></td> 
-   <td colspan="1"><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a custom model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages Touch). Because this is the lead model, this is expected to be 0.</p></td> 
-   <td colspan="1"><p>0</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CUSTOM_MODEL_PERCENTAGE</p></td> 
+   <td><p>number(22,19)</p></td> 
+   <td><p>The calculated percentage that gets allocated to this touchpoint because it’s part of a custom model (See Is_First_Touch, Is_Lead_Creation_Touch, Is_Opp_Creation_Touch, Is_Closed_Touch, Stages Touch). Because this is the lead model, this is expected to be 0.</p></td> 
+   <td><p>0</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IS_DELETED</p></td> 
-   <td colspan="1"><p>boolean</p></td> 
-   <td colspan="1"><p>Whether or not the record was deleted, used for diagnostics and auditing.</p></td> 
-   <td colspan="1"><p>FALSE</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>IS_DELETED</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Whether or not the record was deleted, used for diagnostics and auditing.</p></td> 
+   <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
-   <td colspan="1"><p>-9004910726709710000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_FACTS.TP_KEY</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>CONTACT_ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>8817975702393610000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>LEAD_ROW_KEY</p></td> 
-   <td colspan="1"><p>number(38,0)</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>-2198155202365030000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">LANDING_PAGE_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">REFERRER_PAGE_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">FORM_PAGE_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">ACCOUNT_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">ADVERISER_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">SITE_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">PLACEMENT_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">CAMPAIGN_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">AD_ROW_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">AD_GROUP_KEY</td> 
-   <td colspan="1">number(38,0)</td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><p>The key that relates this table to the BIZ_FACTS table to fetch all the metrics</p></td> 
+   <td><p>-9004910726709710000</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_FACTS.TP_KEY</p></td> 
+  </tr> 
+  <tr> 
+   <td><p>CONTACT_ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><br></td> 
+   <td><p>8817975702393610000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>LEAD_ROW_KEY</p></td> 
+   <td><p>number(38,0)</p></td> 
+   <td><br></td> 
+   <td><p>-2198155202365030000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>LANDING_PAGE_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>REFERRER_PAGE_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>FORM_PAGE_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>ACCOUNT_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>ADVERISER_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>SITE_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>PLACEMENT_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>CAMPAIGN_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>AD_ROW_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>AD_GROUP_KEY</td> 
+   <td>number(38,0)</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
    <td>CREATIVE_ROW_KEY</td> 
@@ -9491,404 +9491,404 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
    <th>Foreign Keys/Joins</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>A unique Id for the user touchpoint</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f995909595909897b99b9083909b959cd79a9694" rel="nofollow"><span>[email protected]</span></a>_2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
-   <td colspan="1">X</td> 
-   <td colspan="1"><p><br></p></td> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>A unique Id for the user touchpoint</p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f995909595909897b99b9083909b959cd79a9694"><span>[email protected]</span></a>_2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
+   <td>X</td> 
+   <td><p><br></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MODIFIED_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The last modified date of the row</p></td> 
-   <td colspan="1"><p>2018-09-05 23:30:53.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MODIFIED_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The last modified date of the row</p></td> 
+   <td><p>2018-09-05 23:30:53.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>EMAIL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The email address that this Touchpoint is created from</p></td> 
-   <td colspan="1"><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#9cf0f5f0f0f5fdf2dcfef5e6f5fef0f9b2fff3f1" rel="nofollow"><span>[email protected]</span></a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>EMAIL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The email address that this Touchpoint is created from</p></td> 
+   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#9cf0f5f0f0f5fdf2dcfef5e6f5fef0f9b2fff3f1"><span>[email protected]</span></a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SESSION_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the related Session that this Touchpoint is created from</p></td> 
-   <td colspan="1"><p>2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_SESSIONS.ID</p></td> 
+   <td><p>SESSION_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the related Session that this Touchpoint is created from</p></td> 
+   <td><p>2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_SESSIONS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_MEMBER_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the related Campaign Member that this Touchpoint is created from</p></td> 
-   <td colspan="1"><p>00v0Z00001VTgv1QAD</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CAMPAIGN_MEMBERS.ID</p></td> 
+   <td><p>CAMPAIGN_MEMBER_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the related Campaign Member that this Touchpoint is created from</p></td> 
+   <td><p>00v0Z00001VTgv1QAD</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CAMPAIGN_MEMBERS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CRM_EVENT_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the related Event that this Touchpoint is created from</p></td> 
-   <td colspan="1"><p>00U0Z00000pCZmyUAG</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CRM_EVENTS.ID</p></td> 
+   <td><p>CRM_EVENT_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the related Event that this Touchpoint is created from</p></td> 
+   <td><p>00U0Z00000pCZmyUAG</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CRM_EVENTS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CRM_TASK_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the related Task that this Touchpoint is created from</p></td> 
-   <td colspan="1"><p>00T0Z00004Qbd1jUAB</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_CRM_TASKS.ID</p></td> 
+   <td><p>CRM_TASK_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the related Task that this Touchpoint is created from</p></td> 
+   <td><p>00T0Z00004Qbd1jUAB</p></td> 
+   <td><br></td> 
+   <td><p>BIZ_CRM_TASKS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>IMPRESSION_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the related Impression that this Touchpoint is created from</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><p>BIZ_IMPRESSIONS.ID</p></td> 
+   <td><p>IMPRESSION_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the related Impression that this Touchpoint is created from</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><p>BIZ_IMPRESSIONS.ID</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>TOUCHPOINT_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date of the recorded touchpoint, which is the date that the session occurred</p></td> 
-   <td colspan="1"><p>2018-01-05 16:47:02.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>TOUCHPOINT_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date of the recorded touchpoint, which is the date that the session occurred</p></td> 
+   <td><p>2018-01-05 16:47:02.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MARKETING_TOUCH_TYPE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Touchpoint Type.” This records the type of activity, whether it was a Web Visit, Web Form, Web Chat, Phone Call, [CRM] Campaign, or [CRM] Activity</p></td> 
-   <td colspan="1"><p>Web Form</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MARKETING_TOUCH_TYPE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Touchpoint Type.” This records the type of activity, whether it was a Web Visit, Web Form, Web Chat, Phone Call, [CRM] Campaign, or [CRM] Activity</p></td> 
+   <td><p>Web Form</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CHANNEL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
-   <td colspan="1"><p>Social.LinkedIn</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CHANNEL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Marketing Channel - Path.” This is the channel that the touchpoint falls into, as defined in the custom channel definitions within the Bizible App.</p></td> 
+   <td><p>Social.LinkedIn</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>Firefox</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>Firefox</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>BROWSER_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
-   <td colspan="1"><p>33</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>BROWSER_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the browser that the user was on during the session. For example, Chrome or Internet Explorer.</p></td> 
+   <td><p>33</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>Mac</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>Mac</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLATFORM_VERSION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
-   <td colspan="1"><p>10_12</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLATFORM_VERSION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected version of the platform that the user was on during the session. For example, Mac or Windows.</p></td> 
+   <td><p>10_12</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page.” This is the first landing page of the session that resulted in a touchpoint. </p></td> 
-   <td colspan="1"><p><a href="https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing" rel="nofollow">https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page.” This is the first landing page of the session that resulted in a touchpoint. </p></td> 
+   <td><p><a href="https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing">https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>LANDING_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
-   <td colspan="1"><p><a href="https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+" rel="nofollow">https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+</a> bizible+%28Bizible%27s+Pipeline+Marketing+Blog%29</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>LANDING_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Landing Page - Raw.” This is the first landing page of the session that resulted in a touchpoint. A raw landing page will contain all query parameters in the URL.</p></td> 
+   <td><p><a href="https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+">https://www.bizible.com/blog/budget-and-planning-maturity-model-b2b-marketing?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+</a> bizible+%28Bizible%27s+Pipeline+Marketing+Blog%29</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page.” This is the usually the external landing page immediately before the user comes onto the website. </p></td> 
-   <td colspan="1"><p><a href="https://www.google.com/" rel="nofollow">https://www.google.com/</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page.” This is the usually the external landing page immediately before the user comes onto the website. </p></td> 
+   <td><p><a href="https://www.google.com/">https://www.google.com/</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REFERRER_PAGE_RAW</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
-   <td colspan="1"><p><a href="https://www.google.com/" rel="nofollow">https://www.google.com/</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REFERRER_PAGE_RAW</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Referrer Page - Raw.” This is the usually the external landing page immediately before the user comes onto the website. A raw referrer page may contain query parameters in the URL.</p></td> 
+   <td><p><a href="https://www.google.com/">https://www.google.com/</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_PAGE </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Form Page” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table.</p></td> 
-   <td colspan="1"><p><a href="http://info.bizible.com/adwords-for-lead-generation" rel="nofollow">http://info.bizible.com/adwords-for-lead-generation</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_PAGE </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Form Page” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table.</p></td> 
+   <td><p><a href="http://info.bizible.com/adwords-for-lead-generation">http://info.bizible.com/adwords-for-lead-generation</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_PAGE_RAW </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Form Page - Raw.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table. A raw form page may contain query parameters in the URL.</p></td> 
-   <td colspan="1"><p><a href="http://info.bizible.com/adwords-for-lead-generation?utm_source=linkedin&amp;utm_medium=paid&amp;utm_content=sfskill&amp;utm" rel="nofollow">http://info.bizible.com/adwords-for-lead-generation?utm_source=linkedin&amp;utm_medium=paid&amp;utm_content=sfskill&amp;utm</a> _campaign=Content%20-%20AdWords%20Guide</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_PAGE_RAW </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Form Page - Raw.” This is the first form that is recorded in a session that resulted in a touchpoint. Subsequent form submissions will not show up in the Biz_Attribution_Touchpoints table, but rather in the Biz_Form_Submits table. A raw form page may contain query parameters in the URL.</p></td> 
+   <td><p><a href="http://info.bizible.com/adwords-for-lead-generation?utm_source=linkedin&amp;utm_medium=paid&amp;utm_content=sfskill&amp;utm">http://info.bizible.com/adwords-for-lead-generation?utm_source=linkedin&amp;utm_medium=paid&amp;utm_content=sfskill&amp;utm</a> _campaign=Content%20-%20AdWords%20Guide</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>FORM_DATE</p></td> 
-   <td colspan="1"><p>timestamp_ntz</p></td> 
-   <td colspan="1"><p>The date that the form submission occurred.</p></td> 
-   <td colspan="1"><p>2015-06-03 17:49:10.000</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>FORM_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>The date that the form submission occurred.</p></td> 
+   <td><p>2015-06-03 17:49:10.000</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CITY </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</p></td> 
-   <td colspan="1"><p>Oakland</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CITY </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Seattle or Vancouver.</p></td> 
+   <td><p>Oakland</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>REGION</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</p></td> 
-   <td colspan="1"><p>California</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>REGION</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, Washington or British Columbia.</p></td> 
+   <td><p>California</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>COUNTRY</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</p></td> 
-   <td colspan="1"><p>United States</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>COUNTRY</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>From the javascript and IP address, the detected city that the user was in during the session. For example, United States or Canada.</p></td> 
+   <td><p>United States</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>MEDIUM</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</p></td> 
-   <td colspan="1"><p>paid</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>MEDIUM</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Used to define the medium that resulted in the touchpoint. This can either be parsed out from the URL from utm_medium or if Bizible is able to resolve an ad, it may be values such as “cpc” or “display.”</p></td> 
+   <td><p>paid</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>WEB_SOURCE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
-   <td colspan="1"><p>linkedin</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>WEB_SOURCE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Referred to in the CRM as “Touchpoint Source.” Used to define the source that resulted in the touchpoint. This can be parsed out from the URL from utm_source or generically set as “CRM Campaign” if it was synced from the CRM or if Bizible is able to resolve an ad, it may be values such as “Google AdWords” or “Facebook.”</p></td> 
+   <td><p>linkedin</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SEARCH_PHRASE</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</p></td> 
-   <td colspan="1"><p>bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SEARCH_PHRASE</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The value that the user entered in the browser to search for and end up on the website. Depending on the keyword buys, this may or may not match the keywords purchased from the Paid Search platform.</p></td> 
+   <td><p>bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_PROVIDER</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
-   <td colspan="1"><p>Google</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_PROVIDER</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad platform that Bizible was able to resolve from, typically one of our integration partners.</p></td> 
+   <td><p>Google</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><p>aw.6601259029</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_ACCOUNTS.ID</td> 
+   <td><p>ACCOUNT_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ads account in which the ad was resolved from.</p></td> 
+   <td><p>aw.6601259029</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_ACCOUNTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ACCOUNT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
-   <td colspan="1"><p>Bizible</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ACCOUNT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the ads account in which the ad was resolved from, such as Bizible-US.</p></td> 
+   <td><p>Bizible</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
-   <td colspan="1"><p>300181641</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_ADVERTISERS.ID</td> 
+   <td><p>ADVERTISER_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the advertiser from the ads accounts in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
+   <td><p>300181641</p></td> 
+   <td><br></td> 
+   <td>BIZ_ADVERTISERS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>ADVERTISER_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The name of the advertiser from the ads account in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
-   <td colspan="1"><p>Bizible Marketing Analytics</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>ADVERTISER_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The name of the advertiser from the ads account in which the ad was resolved from, specifically for Doubleclick connections.</p></td> 
+   <td><p>Bizible Marketing Analytics</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>1695651</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_SITES.ID</td> 
+   <td><p>SITE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the site from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>1695651</p></td> 
+   <td><br></td> 
+   <td>BIZ_SITES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>SITE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p><a href="http://Quora.com" rel="nofollow">Quora.com</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>SITE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The site name from the ads account in which the ad was resolved from, such as Quantcast or TechCrunch. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p><a href="http://Quora.com">Quora.com</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_UNIQUE_ID </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>120839827</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_PLACEMENTS.ID</td> 
+   <td><p>PLACEMENT_UNIQUE_ID </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id placement from the ads account in which the ad was resolved from. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>120839827</p></td> 
+   <td><br></td> 
+   <td>BIZ_PLACEMENTS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>PLACEMENT_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
-   <td colspan="1"><p>roadblock</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>PLACEMENT_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The placement name from the ads account in which the ad was resolved from, such as 300x250 or Home Page Takeover. This only applies to Doubleclick Campaign Manager.</p></td> 
+   <td><p>roadblock</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
-   <td colspan="1"><p>aw.6601259029.208548635</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_CAMPAIGNS.ID</td> 
+   <td><p>CAMPAIGN_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the campaign from the ads account in which the ad was resolved from.</p></td> 
+   <td><p>aw.6601259029.208548635</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_CAMPAIGNS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CAMPAIGN_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
-   <td colspan="1"><p>Brand</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CAMPAIGN_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The campaign name from the ads account in which the ad was resolved from, such as Winter Promotion 2018 or Planning Your Budget Webinar.</p></td> 
+   <td><p>Brand</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</p></td> 
-   <td colspan="1"><p>aw.6601259029.208548635.16750166675</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD_GROUPS.ID</td> 
+   <td><p>AD_GROUP_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the ad group from the ads account in which the ad was resolved from. This only applies to Google Adwords.</p></td> 
+   <td><p>aw.6601259029.208548635.16750166675</p></td> 
+   <td><br></td> 
+   <td>BIZ_AD_GROUPS.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_GROUP_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</p></td> 
-   <td colspan="1"><p>Brand - Core</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_GROUP_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad group name from the ads account in which the ad was resolved from. This only applies to Google AdWords.</p></td> 
+   <td><p>Brand - Core</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_AD.ID</td> 
+   <td><p>AD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The id of the ad from the ads account in which the ad was resolved from. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td>BIZ_AD.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>AD_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>AD_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The ad name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Doubleclick Campaign Manager and Facebook (display).</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>aw.6601259029.208548635.16750166675.195329631298</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_CREATIVES.ID</td> 
+   <td><p>CREATIVE_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The id of the creative from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>aw.6601259029.208548635.16750166675.195329631298</p></td> 
+   <td><br></td> 
+   <td>BIZ_CREATIVES.ID</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_NAME</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Bizible Official Site</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The creative name from the ads account in which the ad was resolved from, such as Winter Promo - Green button or Budget Webinar - sidebar. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Bizible Official Site</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_1</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Revenue Planning &amp; Attribution</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_1</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The first line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Revenue Planning &amp; Attribution</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESCRIPTION_2 </p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p>Learn why 250+ companies choose Bizible for marketing attribution. Get a demo!</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESCRIPTION_2 </p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The second line of the creative from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p>Learn why 250+ companies choose Bizible for marketing attribution. Get a demo!</p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DESTINATION_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p><a href="http://info.bizible.com/demo" rel="nofollow">http://info.bizible.com/demo</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DESTINATION_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The landing page that clicks through from the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p><a href="http://info.bizible.com/demo">http://info.bizible.com/demo</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>CREATIVE_DISPLAY_URL</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
-   <td colspan="1"><p><a href="http://bizible.com/demo" rel="nofollow">bizible.com/demo</a></p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td><p>CREATIVE_DISPLAY_URL</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The friendly URL name that’s shown on the search ad, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search).</p></td> 
+   <td><p><a href="http://bizible.com/demo">bizible.com/demo</a></p></td> 
+   <td><br></td> 
+   <td><br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>KEYWORD_UNIQUE_ID</p></td> 
-   <td colspan="1"><p>varchar</p></td> 
-   <td colspan="1"><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</p></td> 
-   <td colspan="1"><p>aw.6601259029.208548635.16750166675.46267805426</p></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1">BIZ_KEYWORDS.ID</td> 
+   <td><p>KEYWORD_UNIQUE_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>The Id of the keyword that was purchased from the Paid Search buy, which is pulled from the ads account in which the ad was resolved from. This applies to Google AdWords and Bing Ads (search</p></td> 
+   <td><p>aw.6601259029.208548635.16750166675.46267805426</p></td> 
+   <td><br></td> 
+   <td>BIZ_KEYWORDS.ID</td> 
   </tr> 
   <tr> 
    <td><p>KEYWORD_NAME</p></td> 
