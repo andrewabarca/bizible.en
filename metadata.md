@@ -7,6 +7,7 @@ getting-started-title: Getting Started
 getting-started-url: https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html
 tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/experience-cloud/tutorials/home.html
+solution: Marketo
 git-repo: https://git.corp.adobe.com/AdobeDocs/bizible.en
 ---
 
