@@ -16,7 +16,7 @@ user-guide-description: Bizible gives marketers insight into which marketing eff
     + [Bizible Framework](introduction-to-bizible/overview-resources/bizible-framework.md)
     + [Glossary of Bizible Fields](introduction-to-bizible/overview-resources/glossary-of-bizible-fields.md)
 + Bizible Tracking {#bizible-tracking}
-  + Setting Up Tracking {#bizible-tracking/setting-up-tracking}
+  + Setting Up Tracking {#setting-up-tracking}
     + [Adding Bizible Script](bizible-tracking/setting-up-tracking/adding-bizible-script.md)
     + [Adding Bizible Script via Google Tag Manager](bizible-tracking/setting-up-tracking/adding-bizible-script-via-google-tag-manager.md)
     + Adding Bizible Script to Different Form Providers {#adding-bizible-script-to-different-form-providers}
