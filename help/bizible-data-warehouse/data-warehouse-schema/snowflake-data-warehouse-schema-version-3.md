@@ -25,11 +25,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-crm-data.pdf"><img width="290" src="assets/crm-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="crm-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-crm-data.pdf"><img src="assets/crm-data-thumb.png"></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img width="290" src="assets/touchpoint-creation-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="touchpoint-creation-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img src="assets/touchpoint-creation-data-thumb.png" ></a></p> 
     </div></td> 
   </tr> 
   <tr> 
@@ -39,11 +39,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img width="290" src="assets/touchpoint-attribute-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="touchpoint-attribute-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img src="assets/touchpoint-attribute-data-thumb.png" ></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-spend-data.pdf"><img width="290" src="assets/spend-data-thumb.png" data-unresolved-comment-count="0" data-linked-resource-version="1" data-linked-resource-default-alias="spend-data-thumb.png" data-linked-resource-content-type="image/png" data-linked-resource-container-version="16"></a></p> 
+     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-spend-data.pdf"><img src="assets/spend-data-thumb.png" ></a></p> 
     </div></td> 
   </tr> 
  </tbody> 
