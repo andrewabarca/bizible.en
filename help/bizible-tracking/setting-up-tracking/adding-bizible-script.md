@@ -17,7 +17,7 @@ When getting started with Bizible, there are two ways you can add the Bizible Ja
 
 ## Hard-Coding {#hard-coding}
 
-As a best practice, we strongly recommend hardcoding Bizible JavaScript to your web properties. To hardcode the script, you'll need to place the script before the closing </head> on every page of your site.
+As a best practice, we strongly recommend hardcoding Bizible JavaScript to your web properties. To hardcode the script, you'll need to place the script before the closing `</head>` on every page of your site.
 
 `<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>`
 

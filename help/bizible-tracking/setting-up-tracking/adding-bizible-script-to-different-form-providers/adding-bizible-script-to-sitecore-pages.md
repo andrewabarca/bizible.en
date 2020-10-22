@@ -16,6 +16,5 @@ For sites with Sitecore pages:
 1. Select the Javascript item.
 1. In the Content tab, click the **Lock and Edit** link to unlock the item for editing.
 1. Find the ‘JavaScript’ section. If it is not already expanded, click the **+**.
-1. Enter our script: *<script type=“text/javascript” src=“//cdn.bizible.com/scripts/bizible.js”async=“”></script>*
+1. Enter our script: `<script type=“text/javascript” src=“//cdn.bizible.com/scripts/bizible.js”async=“”></script>`
 1. Click **Save** in the upper left corner.
-
