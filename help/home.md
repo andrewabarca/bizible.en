@@ -6,7 +6,7 @@ title: Bizible Overview
 
 # Bizible Help  Documentation
 
-![banner](/help/assets/bizible-banner.png)
+![banner](/help/assets/bizible-banner.jpg)
 
 Bizible unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions.
 
