@@ -8,10 +8,6 @@ title: Marketo Engage Activities Integration
 
 As part of the overall Bizible and Marketo Engage Integration, this effort to pull in Marketo Activities plays a huge role. Through Marketo Activities, the system tracks events such as Click Email, Change Score or Change Status in Progression - these activity types can be pared down and defined to select a subset that are eligible for touchpoints. Once touchpoints are created on these activities, they get tracked in the engagement journey and measured alongside your other marketing channels such as Paid Search or Partner Marketing.
 
-## Availability {#availability}
-
-Tier 2 +
-
 ## Requirements {#requirements}
 
 * Production Marketo instance

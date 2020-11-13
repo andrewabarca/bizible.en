@@ -36,7 +36,7 @@ Settings > Customizations > Solutions > Import (button) > Choose File
 
 ## Bizible User Permissions {#bizible-user-permissions}
 
-We recommend creating a dedicated Bizible User within Dynamics for us to export and import data through to avoid any issues with other users in your CRM. Take note the username and password as well as the endpoint URL as this will be used when creating the Bizible account.
+We recommend creating a dedicated Bizible User within Dynamics for us to export and import data through to avoid any issues with other users in your CRM. Take note of the username and password as well as the endpoint URL as this will be used when creating the Bizible account.
 
 ## Security Roles {#security-roles}
 
@@ -87,23 +87,125 @@ Bizible points to the standard Actual Revenue field by default. If you are not u
 
 Bizible points to the Actual Close Date field out of the box. If you are not using this or also use the Estimated Close Date field, please explain your process to your Solutions Engineer or Success Manager. A custom workflow may be need to account for both fields.
 
-## Create your Bizible Account {#create-your-bizible-account}
+## Set up Your Adobe Admin Console and Identity Provider {#set-up-your-adobe-admin-console-and-identity-provider}
 
-1. Navigate to [https://apps.bizible.com/SalesForce/Signup?accountType=Dynamics](http://apps.bizible.com/SalesForce/Signup?accountType=Dynamics) to create your Bizible account.
-1. Input your company information: company name, phone number, and site. Click **Save**.
-1. Use the newly created Username and Password when you save the connection and input the Endpoint URL.
+The first step to using Bizible is to create and sign-in to your provisioned Adobe Admin Console. If you haven't already received the email with log-in instructions, please contact your Bizible Account Representative.
 
-   >[!CAUTION]
+As a product within the Adobe Suite, Bizible leverages the full functionality of Adobe Admin Console for Identity Management.  More resources can be found here: https://helpx.adobe.com/enterprise/using/admin-console.html
+
+We recommend reviewing all of the resources, best practices, and options available to you for Identity Management: https://helpx.adobe.com/enterprise/using/set-up-identity.html
+
+For guidance and review of setting up your Identity Management within the Adobe Admin Console, please reach out to your Bizible Account Representative.
+
+In order to facilitate user authentication and authorization with your Bizible instance(s), the following steps are required within the Adobe Admin Console to setup the appropriate User Groups.
+
+**Setting up User Groups in the Adobe Admin Console**
+
+1. Navigate to https://adminconsole.adobe.com/overview.
+
+1. In the Admin Console, click **Users**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-9.png)
+
+1. Click **User Groups**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-10.png)
+
+1. Click **New User Group**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-11.png)
+
+1. Under User Group Name, enter "BizibleAdmins" and click **Save**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-12.png)
+
+1. Click **New User Group** again.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-13.png)
+
+1. Under User Group Name, enter "BizibleUsers" and click **Save**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-14.png)
+
+Now learn how to add people to these groups...
+
+## Adding Users to the Admin Console User Groups {#adding-users-to-the-admin-console-user-groups}
+
+After you've created User Groups, the next step is to grant access to the Bizible application by adding users.
+
+|User Group | Description |
+|--- | --- |
+|**BizibleAdmins** |these are administrators and power users of the Bizible Application with full ability to update and manage Bizible-specific configuration options |
+|**BizibleUsers** |these are standard users of the Bizible Application with read only permissions within the Bizible application |
+
+When adding a user to their respective group, you'll see their [Identity Type listed](http://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+After a user has been added to a group, they're able to access the Bizible instance by choosing the Sign in with Adobe ID option at https://apps.bizible.com.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-15.png)
+
+## Configuring your Connections and Data Providers {configuring-your-connections-and-data-providers}
+
+Once you've logged-in to the Bizible application as a user in the BizibleAdmins group within the Adobe Admin Console, it's time to set up your various data connections.
+
+**CRM as a Data Provider**
+
+1. In your Bizible account, click the **My Account** drop-down and select **Settings**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-16.png)
+
+1. Under Integrations in the left nav, click **Connections**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-17.png)
+
+1. Click the **Set Up New CRM Connection** button.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-18.png)
+
+1. Next to Microsoft Dynamics CRM, click the **Connect** button.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-19.png)
+
+1. Select Credentials or OAuth.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-20.png)
+
+   >[!NOTE]
    >
-   >Users will need to log into the Bizible application with their instance URL, username and password. OAuth support will be added soon. Accounts with Two-Factor Authentication enabled may experience some issues. Please contact [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#75060005051a070135171c0f1c1719105b161a18) if you do encounter these issues.
+   >For more information on OAuth, please visit [this article](/help/bizible-and-dynamics/getting-started-with-bizible-and-dynamics/oauth-with-azure-active-directory-for-dynamics-crm.md). If you have any questions about the process, please contact your Bizible Account representative.
 
-   ![](assets/9.png)  
+1. In this example, we've chosen Credentials. Enter your credentials and click **Next**.
 
-1. On the next screen you will be brought to our Bizible JavaScript. This needs to be applied to the entirety of your website including all landing pages. We recommend hardcoding the script within the head of your landing pages or adding through a Tag Management System such as Google Tag Manager.
+After connecting, you'll see the details of your Dynamics connection in the CRM/MAP Connections list.
 
-   ![](assets/10.png)
+**Ad Account Connections**
 
-1. Within the next page, you will connect the API integrated Ads accounts: AdWords, Bing Ads, and Facebook. Select **Set Up New Ads Connection** and log-in with your Ad account's credentials. A window will pop-up for you to select the account you’d like to connect. You may close out your session and exit the application once all ad accounts have been connected successfully.
+To connect your Ad Accounts with Bizible, start by visiting the Connections tab within the Bizible application.
 
-   ![](assets/11.png)
+1. Follow Steps 1 & 2 from the above _CRM as a Data Provider_ section.
 
+1. Click the **Set up New CRM Connection** button.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-21.png)
+
+1. Select your desired platform.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-22.png)
+
+**Bizible Javascript**
+
+In order for Bizible to track your web activities, there are multiple steps for setup.
+
+1. Click the **My Account** drop-down and select **Account Configuration**.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-23.png)
+
+1. Enter your phone number. For Website, enter your primary root domain that will be used for Bizible tracking on your website. Click **Save** when done.
+
+   ![](assets/microsoft-dynamics-crm-installation-guide-24.png)
+
+   >[!NOTE]
+   >
+   >To add multiple root domains, please contact your Bizible Account Representative.
+
+1. The [Bizible JavaScript](/help/bizible-tracking/setting-up-tracking/adding-bizible-script.md) then needs to be placed across the entire site and landing pages. We recommend hardcoding the script within the head of your landing pages or adding through a Tag Management System such as [Google Tag Manager](/help\bizible-tracking\setting-up-tracking\adding-bizible-script-via-google-tag-manager.md).
