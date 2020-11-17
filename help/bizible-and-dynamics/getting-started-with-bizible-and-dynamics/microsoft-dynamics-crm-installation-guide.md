@@ -144,7 +144,7 @@ After a user has been added to a group, they're able to access the Bizible insta
 
    ![](assets/microsoft-dynamics-crm-installation-guide-15.png)
 
-## Configuring your Connections and Data Providers {configuring-your-connections-and-data-providers}
+## Configuring your Connections and Data Providers {#configuring-your-connections-and-data-providers}
 
 Once you've logged-in to the Bizible application as a user in the BizibleAdmins group within the Adobe Admin Console, it's time to set up your various data connections.
 
