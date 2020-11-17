@@ -8,6 +8,10 @@ title: Single Sign On
 
 SAML (security assertion markup language) for SSO (single sign-on) makes it possible for users to authenticate through a company's identity provider when they log-in to the Bizible app. SSO allows a user to authenticate just once, without needing to authenticate separate apps. SAML is a necessity for enterprise customers because not all users will have a Salesforce or Google account within their organization. In order to scale, Bizible has developed an SAML solution that can support company identity providers.
 
+>[!CAUTION]
+>
+>This article outlines Single Sign On (SSO) and advanced CRM User Management. If your account was provisioned **after 9/10/2020**, please disregard this article, as SSO and Identity Management will be set up within the [Adobe Admin Console for your Bizible integration](/help/configuration-and-setup/getting-started-with-bizible-new/bizible-quick-start.md).
+
 >[!NOTE]
 >
 >It's likely that companies use different Identity Providers (e.g., Ping Identity, Okta). The terms used in the following set-up instructions and in the UI may not directly match those used by your Identity Provider.
@@ -27,13 +31,13 @@ To get started, navigate to Settings > Security > Authentication page in the Biz
 
 Bizible Single Sign On requires configuring your Authentication settings in a series of steps that is important to follow so that you don’t risk getting locked out of your Bizible account.
 
-1. Set up the Bizible Application in your Identity Provider. See external documentation listed below for walkthroughs.
+Set up the Bizible Application in your Identity Provider. See external documentation listed below for walkthroughs.
 
     a. When prompted for the Single Sign On URL or Recipient URL or Destination URL, SAML Assertion Customer Service (ACS) URL, use [https://apps.bizible.com/BizibleSAML2/ReceiveSSORequest](https://apps.bizible.com/BizibleSAML2/ReceiveSSORequest)
 
     b. When prompted for the Audience Restriction URL or application-defined unique identifier, use [https://BizibleLPM](https://biziblelpm/)
 
-1. Switch to Custom SSO in the Bizible Application
+Switch to Custom SSO in the Bizible Application
 
     a. Once the Billing Group has been enabled for your Account, you can now navigate to Settings >> Security >> Authentication
 
@@ -41,7 +45,7 @@ Bizible Single Sign On requires configuring your Authentication settings in a se
 
     c. Switch the Login Type to “Custom SSO” to begin the configuration process.
 
-1. Fill in the connection settings for your Identity Provider configuration
+Fill in the connection settings for your Identity Provider configuration
 
     a. Your Identity Provider might give an IdP metadata .xml document which will pull out the required configuration fields. Either load in the content of the .xml document or fill out the three fields below from the output obtained during the Identity Provider configuration process. **You do not need to complete both.**
 
@@ -49,11 +53,11 @@ Bizible Single Sign On requires configuring your Authentication settings in a se
             ii. IdP Issuer: A unique identifier of the Identity Provider. Sometimes referred to as the “External Key.”
             iii. IdP Certificate: A public key that allows Bizible to verify and validate the signature of all Identity Provider responses.
 
-1. Set the token expiration for your users in minutes.
+Set the token expiration for your users in minutes.
 
     a. Bizible allows a whole number from 1 to 1440 minutes. After a user’s session time has been exceeded, the user will get logged off once they navigate to a new page.
 
-1. Set up and map your User Attribute settings to the respective First Name, Last Name, and Email Address.
+Set up and map your User Attribute settings to the respective First Name, Last Name, and Email Address.
 
     a. By entering the SAML attributes, Bizible will be able to recognize your users by the information passed through.
 
@@ -65,7 +69,7 @@ Bizible Single Sign On requires configuring your Authentication settings in a se
 
    ![](assets/2.png)
 
-1. Set up and map your User Role settings to the respective roles or groups classified from your IdP.
+Set up and map your User Role settings to the respective roles or groups classified from your IdP.
 
     a. Customers have the option of assigning Bizible user roles based on groups defined in their Identity Provider. By entering your SAML attributes, Bizible will be able to map your user’s roles and groups to Bizible user permissions. We highly recommend that you set up these roles so that your Bizible administrator has sufficient rights to update your account.
 
@@ -79,7 +83,7 @@ Bizible Single Sign On requires configuring your Authentication settings in a se
 
    ![](assets/2a.png)
 
-1. Test the Single Sign On configuration
+Test the Single Sign On configuration
 
     a. Before you can hit Save, you will be required to click the Test SAML Authentication button to verify that your settings were configured properly.
 
@@ -87,13 +91,13 @@ Bizible Single Sign On requires configuring your Authentication settings in a se
 
    ![](assets/3.png)
 
-1. Save your settings and direct your colleagues to use Single Sign On with your new custom Sign In URL.
+Save your settings and direct your colleagues to use Single Sign On with your new custom Sign In URL.
 
     a. Important: Once you Save your new Authentication settings, it is possible your session will end once you navigate to a new page because you have disabled login by CRM Users and enabled Custom SSO.
 
    ![](assets/4.png)
 
-1. Try it out!
+Try it out!
 
     a. Use your new custom Sign In URL and attempt to log back in to the Bizible Application with your Identity Provider credentials.
     
