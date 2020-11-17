@@ -22,17 +22,16 @@ Whenever you receive a visitor to one of your Content pages on your site (whethe
 * Landing Page
 * Referring Website
 
-To customize which "bucket" your Leads will fall into based on their UTM parameters, you can use Channel Rules. For more on setting up and maintaining your Channel Rules, [click here](https://support.bizible.com/hc/en-us/articles/115009615408-Online-Custom-Channel-Setup).
+To customize which "bucket" your Leads will fall into based on their UTM parameters, you can use Channel Rules. For more on setting up and maintaining your Channel Rules, [click here](/help/channel-tracking-and-setup/online-channels/online-custom-channel-setup.md).
 
-Learn how to set up your [Online Channels](http://docs.marketo.com/x/5AAgAQ) and ` [Offline Channels](http://docs.marketo.com/x/5gAgAQ), as well as the difference between them.  
-`
+Learn how to set up your [Online Channels](/help/channel-tracking-and-setup/online-channels/online-custom-channel-setup.md) and [Offline Channels](/help/channel-tracking-and-setup/offline-channels/offline-custom-channel-setup.md), as well as the difference between them.
 
 **Marketing Channel**
 
-The Marketing Channel is the broadest level of classification, and can cover a wide variety of Sub-Channels. You can consider these the "type" of Sub-Channel that your leads are coming from. Examples of Marketing Channels include **Paid Search, Organic Search, Display, **and **Paid Social**. The Marketing Channel usually corresponds to the utm_medium parameter value found in your URL.   
+The Marketing Channel is the broadest level of classification, and can cover a wide variety of Sub-Channels. You can consider these the "type" of Sub-Channel that your leads are coming from. Examples of Marketing Channels include **Paid Search, Organic Search, Display,** and **Paid Social**. The Marketing Channel usually corresponds to the utm_medium parameter value found in your URL.
   
-**Sub-Channel** 
-Sub-Channels are the second piece of the puzzle when bucketing your incoming Leads. Sub-Channels tell the story of exactly *which* iteration of your Marketing Channel was used. For example, within the Paid Social Marketing Channel, you may have Sub-Channels for **AdWords, BingAds, Facebook**, etc. The Sub-Channel usually corresponds to the utm_source parameter value found in your URL.
+**Sub-Channel**
+Sub-Channels are the second piece of the puzzle when bucketing your incoming Leads. Sub-Channels tell the story of exactly *which* iteration of your Marketing Channel was used. For example, within the Paid Social Marketing Channel, you may have Sub-Channels for **AdWords**, **BingAds**, **Facebook**, etc. The Sub-Channel usually corresponds to the utm_source parameter value found in your URL.
 
 ## Use Case Example {#use-case-example}
 
@@ -81,4 +80,3 @@ Further examples...
 >* [Course 2 Lesson 1: Online Channel Setup](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/#/page/5c63007334d9f0367662b747)
 >* [Course 2 Lesson 5: Offline Channel Management](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/#/page/5c630eca34d9f0367662b77f)
 >
-

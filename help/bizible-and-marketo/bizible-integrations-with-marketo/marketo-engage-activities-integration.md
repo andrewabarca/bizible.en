@@ -107,7 +107,9 @@ Change Nurture Cadence (115)
 >
 >Of the Activity Types where we expect a Program Id, if an activity is detected without a program, Bizible will not accept that as an eligible touchpoint since we cannot have null Campaign values.
 
-**Activity Types without Program Id** Click Link (3)  
+**Activity Types without Program Id**
+
+Click Link (3)  
 New Lead (12)  
 Sync Lead to SFDC (19)  
 Convert Lead (21)  
@@ -155,15 +157,15 @@ If Channels for your Marketo Activities aren’t properly configured, it’s lik
 
 As a result of Bizible’s integration with Marketo, the Bizible Cookie Id is also now mapped and synced with the Marketo Munchkin Id. This helps close the gap to attribute the anonymous first touch to a web session rather than attributing both the FT and LC touches to a Marketo Activity. Imagine this scenario:
 
-Mark clicks on a Facebook ad and lands on wayneenterprises.com where he gets cookied with Bizible Id 123 and Marketo Munchkin Id 456. No form fill takes place.   
+Mark clicks on a Facebook ad and lands on wayneenterprises.com where he gets cookied with Bizible Id 123 and Marketo Munchkin Id 456. No form fill takes place.
   
-The Wayne Enterprises Marketing team sends out an email blast to specific targeted leads, one of them being [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)  
+The Wayne Enterprises Marketing team sends out an email blast to specific targeted leads, one of them being `mark@email.com`.  
   
-[[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) receives the email and clicks through and lands on wayneenterprises.com. This becomes [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)’s second visit to wayneenterprise.com with the same cookie Ids, but there was no form fill, so to Bizible, they are still an anonymous visitor.  
+`mark@email.com` receives the email and clicks through and lands on `wayneenterprises.com`. This becomes `mark@email.com's` second visit to `wayneenterprise.com` with the same cookie Ids, but there was no form fill, so to Bizible, they are still an anonymous visitor.  
   
 The Wayne Enterprises Marketing team creates a Marketo Activity rule to generate touchpoints for a "Click Email" activity type.  
   
-Today's implementation would create a single FT and LC touchpoint for [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) from the Marketo Activity from the "Click Email" activity type.  
+Today's implementation would create a single FT and LC touchpoint for `mark@email.com` from the Marketo Activity from the "Click Email" activity type.  
   
 With this cookie mapping enhancement, the FT would go back and get credited to the Facebook ad and the LC would get credited to the Email.
 

@@ -13,7 +13,7 @@ The Marketo people integration allows Bizible to start downloading people from M
 * Production Marketo instance
 * Production Salesforce or Microsoft Dynamics instance
 * Any paid Bizible subscription
-* SOLR enabled (Please reach out to the Bizible Support Team to have this enabled)
+* SOLR enabled (please reach out to the [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to have this enabled)
 
 ## How It Works {#how-it-works}
 
