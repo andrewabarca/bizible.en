@@ -208,4 +208,4 @@ In order for Bizible to track your web activities, there are multiple steps for 
    >
    >To add multiple root domains, please contact your Bizible Account Representative.
 
-1. The [Bizible JavaScript](/help/bizible-tracking/setting-up-tracking/adding-bizible-script.md) then needs to be placed across the entire site and landing pages. We recommend hardcoding the script within the head of your landing pages or adding through a Tag Management System such as [Google Tag Manager](/help\bizible-tracking\setting-up-tracking\adding-bizible-script-via-google-tag-manager.md).
+1. The [Bizible JavaScript](/help/bizible-tracking/setting-up-tracking/adding-bizible-script.md) then needs to be placed across the entire site and landing pages. We recommend hardcoding the script within the head of your landing pages or adding through a Tag Management System such as [Google Tag Manager](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-via-google-tag-manager.md).

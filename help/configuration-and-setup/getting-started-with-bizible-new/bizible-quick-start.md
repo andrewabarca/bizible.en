@@ -18,35 +18,35 @@ Although having a package presents Bizible data in its full capacity inside the 
 
 * Robust JavaScript & Integrations
 
-    * High quality data straight from the source
-    * Bizible.js for on-site behavior, reading UTM parameters, referral sources, and more
-    * Integrations with prominent ad networks and martech providers for for streamlined, granular data
+  * High quality data straight from the source
+  * Bizible.js for on-site behavior, reading UTM parameters, referral sources, and more
+  * Integrations with prominent ad networks and martech providers for for streamlined, granular data
 
 * CRM Authorization
 
-    * Still need authorization to read data from the CRM for lead, contact, and opp data
+  * Still need authorization to read data from the CRM for lead, contact, and opp data
 
 * Customization in apps.bizible.com
 
-    * Customize configuration in apps.bizible.com instead of in the CRM
+  * Customize configuration in apps.bizible.com instead of in the CRM
 
-        * Channels and subchannels
-        * Segments
-        * Stages
-        * Attribution model weighting
+    * Channels and subchannels
+    * Segments
+    * Stages
+    * Attribution model weighting
 
 * CRM Campaign Sync
 
-    * One of those customizations enables customers to connect CRM campaign data to the right fields through the Campaign Sync feature
-    * Write rules in apps.bizible.com to determine which campaigns and conditions receive touchpoints
-    * Far less effort required compared to CRM package installation
+  * One of those customizations enables customers to connect CRM campaign data to the right fields through the Campaign Sync feature
+  * Write rules in apps.bizible.com to determine which campaigns and conditions receive touchpoints
+  * Far less effort required compared to CRM package installation
 
 * Reporting in Discover & Data Warehouse
 
-    * Report where you want:
+  * Report where you want:
 
-        * Bizible Discover — couples unparalleled performance data with impactful visualizations
-        * Data Warehouse — connect your attribution data with other datasets and report in your BI tool
+    * Bizible Discover — couples unparalleled performance data with impactful visualizations
+    * Data Warehouse — connect your attribution data with other datasets and report in your BI tool
 
 ## Permissions {#permissions}
 
@@ -54,31 +54,16 @@ Bizible requires access to standard Salesforce objects such as Leads and Contact
 
 In order to ensure that all data is properly pulling from Salesforce, we require the following security and accessibility settings: View All Data for the Profile of the dedicated user. This permission set gives Bizible the access needed to download data from standard objects. This permission set is at profile level.
 
-## Setup {#setup}
+## Setup up your Identity Provider and Data Connections {#setup-your-identity-provider-and-data-connections}
 
-We begin by creating the Bizible Account to set up the CRM connection, which will be followed up with connecting all the ad connections.
+The guides below outline the steps to set up your Adobe Admin Console, configure your Identity Provider, and connect your CRM and Ad Accounts.
 
-1. Go to `https://sf.bizible.com/signup`, or `https://sf.bizible.com/salesforce/sandboxsignup` if installing in Sandbox.
-1. Add account details: Company Name, Phone Number, and Website. After the fields are populated, select **I agree to the Terms of Service** and click **Save**.
+Salesforce customers, click [here](/help/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.md).
 
-   ![](assets/one.png)
+Microsoft Dynamics customers, click [here](/help/bizible-and-dynamics/getting-started-with-bizible-and-dynamics/microsoft-dynamics-crm-installation-guide.md).
 
-1. This will generate a pop-up window for you to authenticate the connection to your Salesforce org. Click **Allow**.
-
-   ![](assets/two.png)
-
-1. Once the connection is established, you will be brought to the next page which contains our JavaScript. The JavaScript needs to be placed across the entire site and landing pages. We recommend hardcoding the script within the head of your landing pages or adding through a Tag Management System such as Google Tag Manager.
-
-   ![](assets/three.png)
-
-1. Within the next page, you will connect the API integrated Ads accounts: AdWords, Bing Ads, and Facebook.
-1. Select **Set Up New Ads Connection** and log-in with your Ad account's credentials. A window will pop-up for you to select the account you’d like to connect. After connecting all accounts, click **Finish**.
-
-   ![](assets/four.png)
-
-   Once you complete all of the above steps, you're good to go. If you run into any issues along the way, please don’t hesitate to reach out to your Bizible representative or [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bac9cfcacad5c8cefad8d3c0d3d8d6df94d9d5d7).
+Once you complete all of the above steps, you're good to go. If you run into any issues along the way, please don’t hesitate to reach out to your Bizible representative or support@bizible.com.
 
 >[!NOTE]
 >
 >If you go through Bizible Quick Start then later decide to install the package into your CRM, that won't be an issue.
-
