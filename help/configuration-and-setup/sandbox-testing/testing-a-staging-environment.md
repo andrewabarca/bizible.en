@@ -26,4 +26,4 @@ Here are the two sources referenced for both phases of the testing. [Steps 1-4](
 
 Once this is done, it will kick-off a sync between Bizible and Salesforce and apply touchpoints to the Lead records. It’s recommended to check back the next day through a report called: “Bizible Touchpoint on Leads” found in the Bizible Touchpoints Reports folder within the Reports tab. If the report is populating a touchpoint for each Lead, this is a sign of success.
 
-If at any point you have questions, we can walk through the process over a call or you can reach out to [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#097a7c7979667b7d496b6073606b656c276a6664) for help.
+If at any point you have questions, we can walk through the process over a call or you can reach out to support@bizible.com for help.
