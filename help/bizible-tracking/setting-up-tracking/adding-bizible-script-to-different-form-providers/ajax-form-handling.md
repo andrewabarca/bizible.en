@@ -40,7 +40,7 @@ window['Bizible'] = window['Bizible'] || { _queue: [], Push: function (o, p) {th
 
 If information from a converted lead is collected using Javascript or simple text fields with no html form, this solution will work for you. Shared below is the API to use in this scenario:
 
-```  
+```jquery
 ///////////////////////////////////////////////////////////////////////  
 // Preamble for all API usage.  
 window['Bizible'] = window['Bizible'] || { _queue: [], Push: function (o, p) {this._queue.push({ type: o, data: p }); } };  
@@ -65,4 +65,3 @@ data-email="user@gmail.com">
 ```
 
 It doesn't matter whether the hidden element is a div, script, or any other tag type. Bizible looks for the id="bizible.reportUser" to read the information.
-

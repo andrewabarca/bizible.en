@@ -33,15 +33,11 @@ The touchpoint mapping process answers the question, “Once this touchpoint’s
 | Offline; Online, not on your site(s) |CRM Campaign membership sync |Through the Offline Channels page in Bizible, by referencing Campaign Type |
 | Sales activity |CRM Activity sync |Through the Online Channels page in Bizible, by referencing the Campaign Name assigned on the Activities page |
 
->[!NOTE]
+>[!Related Articles]
 >
->**Related Articles**
->
->* [Mapping Online Touchpoints to Bizible Channels/Subchannels](http://docs.marketo.com/x/5AAgAQ)
->* [Syncing CRM Campaigns from within SFDC](http://docs.marketo.com/x/6AAgAQ)
->* [Syncing CRM Campaigns from within Bizible](http://docs.marketo.com/x/3AAgAQ)
->* [Mapping CRM Campaigns to Bizible Channels/Subchannels](http://docs.marketo.com/x/5gAgAQ)
->* [Creating Touchpoints from Sales Activities](http://docs.marketo.com/x/VAEgAQ)
->* [Activities FAQ and Mapping Activities Touchpoints to Channels/Subchannels](http://docs.marketo.com/x/UAEgAQ)
->
-
+>* [Mapping Online Touchpoints to Bizible Channels/Subchannels](/help/channel-tracking-and-setup/online-channels/online-custom-channel-setup.md)
+>* [Syncing CRM Campaigns from within SFDC](/help/channel-tracking-and-setup/offline-channels/syncing-offline-campaigns.md)
+>* [Syncing CRM Campaigns from within Bizible](/help/channel-tracking-and-setup/offline-channels/custom-campaign-sync.md)
+>* [Mapping CRM Campaigns to Bizible Channels/Subchannels](/help/channel-tracking-and-setup/offline-channels/offline-custom-channel-setup.md)
+>* [Creating Touchpoints from Sales Activities](/help/advanced-bizible-features/activities-attribution/salesforce-activities-attribution.md)
+>* [Activities FAQ and Mapping Activities Touchpoints to Channels/Subchannels](/help/advanced-bizible-features/activities-attribution/activities-attribution-faq.md)

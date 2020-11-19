@@ -17,11 +17,11 @@ Learn more about the four main components that make up the Bizible framework. Bi
 
 The Bizible JavaScript tracks all the online marketing interactions, also called touchpoints, that prospects/leads have with your organization. It is a custom script that is added before the closing `</head>` tag on every page of your website.
 
-`<script type="text/javascript" src="// [cdn.bizible.com/scripts/bizible.js](http://cdn.bizible.com/scripts/bizible.js)" async=""></script>`
+`<script type="text/javascript" src="//[cdn.bizible.com/scripts/bizible.js](http://cdn.bizible.com/scripts/bizible.js)" async=""></script>`
 
 >[!NOTE]
 >
->For instructions on how to add the Bizible JS, please [click here](http://docs.marketo.com/x/qwEgAQ).
+>For instructions on how to add the Bizible JS, please [click here](/help/bizible-tracking/setting-up-tracking/adding-bizible-script.md).
 
 Bizible’s JS captures data from web visits (including anonymous web visits), general traffic/page navigation, content downloads, and form submissions. This data is pushed into your CRM and each marketing interaction is displayed as a touchpoint.
 

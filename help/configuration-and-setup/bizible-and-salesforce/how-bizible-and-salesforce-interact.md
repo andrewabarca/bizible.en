@@ -18,7 +18,7 @@ Once the Bizible account is created and Salesforce is connected, Bizible will be
 
 This lists the Salesforce Standard Objects that Bizible interacts with, as well as the custom fields that we add to these objects once the connection is established and the Bizible package is installed. Out of the box, Bizible will NOT write into any standard Salesforce Object fields.
 
-Lead
+**Lead**
 
 <table> 
  <tbody> 
@@ -169,7 +169,7 @@ Lead
  </tbody> 
 </table>
 
-Contact
+**Contact**
 
 <table> 
  <tbody> 
@@ -278,7 +278,7 @@ Contact
  </tbody> 
 </table>
 
-Case
+**Case**
 
 <table> 
  <tbody> 
@@ -381,7 +381,7 @@ Case
  </tbody> 
 </table>
 
-Account
+**Account**
 
 <table> 
  <tbody> 
@@ -424,7 +424,7 @@ Account
  </tbody> 
 </table>
 
-Opportunity
+**Opportunity**
 
 <table> 
  <tbody> 
@@ -503,7 +503,7 @@ Opportunity
  </tbody> 
 </table>
 
-Campaign
+**Campaign**
 
 <table> 
  <colgroup> 
@@ -600,7 +600,7 @@ Campaign
  </tbody> 
 </table>
 
-Campaign Member
+**Campaign Member**
 
 <table> 
  <tbody> 
@@ -707,7 +707,7 @@ Campaign Member
 
 Apart from creating custom fields on SFDC's Standard Objects, once the Bizible package is installed, it will create a couple of Custom Objects. Below is a list of these Custom Objects along with a table denoting the fields that Bizible will write to.
 
-Bizible Touchpoint
+**Bizible Touchpoint**
 
 The Bizible Touchpoint is a Bizible Custom Object to encapsulate the marketing interactions for Contacts, Leads, and Cases. 
 
@@ -974,7 +974,7 @@ The Bizible Touchpoint is a Bizible Custom Object to encapsulate the marketing i
  </tbody> 
 </table>
 
-Bizible Person
+**Bizible Person**
 
 The Bizible Person is a Bizible Custom Object that is related to both the Lead, Contact, and Case Objects.
 
@@ -1017,7 +1017,7 @@ The Bizible Person is a Bizible Custom Object that is related to both the Lead, 
 
 The Bizible Attribution Touchpoint is a Bizible Custom Object to encapsulate marketing's influence on Opportunities. 
 
-Bizible Attribution Touchpoint
+**Bizible Attribution Touchpoint**
 
 <table> 
  <tbody> 

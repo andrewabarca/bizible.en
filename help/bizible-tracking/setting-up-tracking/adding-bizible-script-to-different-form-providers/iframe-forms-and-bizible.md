@@ -16,4 +16,4 @@ We recommend placing the JavaScript within the head of the IFrame and from there
   
 ![](assets/1-1.png)
 
-If you have any questions around adding our JavaScript to IFrame forms, please reach out to your success manager, or [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#80f3f5f0f0eff2f4c0e2e9fae9e2ece5aee3efed).
+If you have any questions around adding our JavaScript to IFrame forms, please reach out to your success manager, or support@bizible.com.

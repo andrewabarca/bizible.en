@@ -17,4 +17,3 @@ Learn about the various Bizible Cookies that are loaded onto your site when you 
 | _biz_nA |First party |Sequence number that bizible includes for all requests, for internal diagnostics purpose |
 | _biz_dfsA |First party |Temporarily stores form submission data that happens before bizible.js receives a configuration JS to determine whether or not tracking form on HTTPS is enabled. |
 | _biz_pendingA |First party |Temporarily stores analytics data that has not been successfully sent to bizible server yet. |
-

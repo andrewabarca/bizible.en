@@ -36,7 +36,7 @@ The Bizible Attribution Touchpoint Object tells the story of many marketing inte
 
 Bizible Attribution Touchpoints (BATs) are only created once an Opportunity is created which relates to contacts that have Bizible Touchpoint (BT) data. BATs will not be created without an Opportunity. Once the Opportunity has been created, the BAT Object will use the Salesforce *Amount* field on the Opportunity to understand how much revenue to attribute to the touchpoints.
 
-A **workflow** must be created if you use a [custom Amount field](http://docs.marketo.com/x/qQEgAQ) to show revenue on the Opportunity Object. Bizible is not able to read the information surfaced in custom Amount fields and consequently is unable to populate revenue attribution data on the touchpoints. This workflow will use the **Bizible Opportunity Amount **Field, one of Bizible's custom fields, to map the revenue value from the custom Amount field to the Opportunity Amount field.
+A **workflow** must be created if you use a [custom Amount field](/help/advanced-bizible-features/custom-revenue-amount/using-a-custom-revenue-amount-field.md) to show revenue on the Opportunity Object. Bizible is not able to read the information surfaced in custom Amount fields and consequently is unable to populate revenue attribution data on the touchpoints. This workflow will use the **Bizible Opportunity Amount** Field, one of Bizible's custom fields, to map the revenue value from the custom Amount field to the Opportunity Amount field.
 
 ![](assets/3-1.png)
 
@@ -58,11 +58,11 @@ The Bizible A/B Test Object is displayed as a Related List on Leads, Contacts an
 
 ## Bizible Events {#bizible-events}
 
-The Bizible Events Object allows you to track specific events that occur on your website. To [track specific events](http://docs.marketo.com/x/aAEgAQ) that happen on your website, custom code must be added to your pages in addition to the Bizible Javascript. The captured information will be displayed within the Bizible Object Related List, which can be found on the Leads, Contacts and Opportunity pages. The Bizible Events Object *does not* tie to attribution data. The purpose of this Object is to see if people are taking specific actions on your website.
+The Bizible Events Object allows you to track specific events that occur on your website. To track specific events that happen on your website, custom code must be added to your pages in addition to the Bizible Javascript. The captured information will be displayed within the Bizible Object Related List, which can be found on the Leads, Contacts and Opportunity pages. The Bizible Events Object *does not* tie to attribution data. The purpose of this Object is to see if people are taking specific actions on your website.
 
 ## Bizible Fields {#bizible-fields}
 
-Data captured by Bizible’s Javascript will be pushed into the custom Bizible Fields within our Bizible Objects. Certain fields will only be present on certain objects. For a glossary of all the Bizible fields, please [click here](http://docs.marketo.com/x/2gAgAQ). For a visualization of which Bizible Object each Bizible Field relates to, please [click here](http://docs.marketo.com/x/2AAgAQ).
+Data captured by Bizible’s Javascript will be pushed into the custom Bizible Fields within our Bizible Objects. Certain fields will only be present on certain objects. For a glossary of all the Bizible fields, please [click here](/help/introduction-to-bizible/overview-resources/glossary-of-bizible-fields.md). For a visualization of which Bizible Object each Bizible Field relates to, please [click here](/help/configuration-and-setup/bizible-and-salesforce/bizible-object-and-field-taxonomy.md).
 
 ## Bizible Reports and Dashboards {#bizible-reports-and-dashboards}
 

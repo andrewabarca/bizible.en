@@ -55,11 +55,8 @@ If a visitor comes to your website by typing your website’s URL into the addre
 
 If Haley’s first web session begins as the result of a visit from a referral site, social channel, or paid/organic search channel and then she visits the site via web direct, this would not cause a new session to begin.
 
-*However*, if Haley’s first web session originated from Web Direct, and then she visits the website via *an external/referral site*, the first session will end and a new session is opened related to the external/referral site.
+_However_, if Haley’s first web session originated from Web Direct, and then she visits the website via _an external/referral site_, the first session will end and a new session is opened related to the external/referral site.
 
 ## Google Analytics Sessions {#google-analytics-sessions}
 
-There are some similarities to how Bizible and Google Analytics defines sessions. For more information on how Google Analytics defines sessions, please visit:
-
-[https://support.google.com/analytics/answer/2731565?hl=en](http://support.google.com/analytics/answer/2731565?hl=en)
-
+There are some similarities to how Bizible and Google Analytics defines sessions. For more information on how Google Analytics defines sessions, please visit: [https://support.google.com/analytics/answer/2731565?hl=en](http://support.google.com/analytics/answer/2731565?hl=en)
