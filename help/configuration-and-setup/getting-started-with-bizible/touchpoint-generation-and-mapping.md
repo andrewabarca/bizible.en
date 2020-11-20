@@ -33,7 +33,7 @@ The touchpoint mapping process answers the question, “Once this touchpoint’s
 | Offline; Online, not on your site(s) |CRM Campaign membership sync |Through the Offline Channels page in Bizible, by referencing Campaign Type |
 | Sales activity |CRM Activity sync |Through the Online Channels page in Bizible, by referencing the Campaign Name assigned on the Activities page |
 
->[!Related Articles]
+>[!MORELIKETHIS]
 >
 >* [Mapping Online Touchpoints to Bizible Channels/Subchannels](/help/channel-tracking-and-setup/online-channels/online-custom-channel-setup.md)
 >* [Syncing CRM Campaigns from within SFDC](/help/channel-tracking-and-setup/offline-channels/syncing-offline-campaigns.md)
