@@ -24,7 +24,7 @@ Bizible unifies behavioral and ad data with sales outcomes and machine learning 
 
 * [Adding Bizible Script](/help/bizible-tracking/setting-up-tracking/adding-bizible-script.md)
 
-* [Difference Between Bizible Touchpoints and Bizible Attribution Touchpoints](/help/configuration-and-setup/getting-started-with-bizible-new/difference-between-bizible-touchpoints-and-bizible-attribution-touchpoints.md)
+* [Difference Between Bizible Touchpoints and Bizible Attribution Touchpoints](/help/configuration-and-setup/getting-started-with-bizible/difference-between-bizible-touchpoints-and-bizible-attribution-touchpoints.md)
 
 * [Online Custom Channel Setup](/help/channel-tracking-and-setup/online-channels/online-custom-channel-setup.md)
 
