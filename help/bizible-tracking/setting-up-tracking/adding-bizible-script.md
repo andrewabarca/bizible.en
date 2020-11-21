@@ -96,7 +96,7 @@ Be sure to have a conversation with your web team so they know Bizible JavaScrip
 
 **Chat**
 
-* Issue: If you use a chat provider, special handling may be required. 
+* Issue: If you use a chat provider, special handling may be required.
 * Solution: Bizible integrates with Drift, Olark, Livechat, LivePerson, and SnapEngage. All other platforms need to be tracked through CRM campaign membership.
 
 **Second Domain**
