@@ -91,7 +91,7 @@ Be sure to have a conversation with your web team so they know Bizible JavaScrip
 
 **Forms organized in `<div>` format**
 
-* Issue: Bizible JS has a hard time recognizing forms organized in <div> format so custom code can be needed.
+* Issue: Bizible JS has a hard time recognizing forms organized in `<div>` format so custom code can be needed.
 * Solution: These [report user templates](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-to-different-form-providers) can be used by your web dev team to add the needed code.
 
 **Chat**
