@@ -58,7 +58,7 @@ Be sure to have a conversation with your web team so they know Bizible JavaScrip
 **Multi-form submission**
 
 * Issue: If you have multiple linked forms as part of a single form submission, it’s possible that the first form will generate a touchpoint even if the complete form is not submitted.
-* Solution: You'll need to force one of the forms to report the user to Bizible based on cached data and discuss abandonment practices. Generally, [report user code](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-to-different-form-providers) can solve for this.
+* Solution: You'll need to force one of the forms to report the user to Bizible based on cached data and discuss abandonment practices. Generally, [report user code](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-to-different-form-providers.md) can solve for this.
 
 **Account login (not creation)**
 
@@ -92,7 +92,7 @@ Be sure to have a conversation with your web team so they know Bizible JavaScrip
 **Forms organized in `<div>` format**
 
 * Issue: Bizible JS has a hard time recognizing forms organized in `<div>` format so custom code can be needed.
-* Solution: These [report user templates](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-to-different-form-providers) can be used by your web dev team to add the needed code.
+* Solution: These [report user templates](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-to-different-form-providers.md) can be used by your web dev team to add the needed code.
 
 **Chat**
 
