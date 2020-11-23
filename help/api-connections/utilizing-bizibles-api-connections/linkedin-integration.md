@@ -34,13 +34,13 @@ Bizible will support:
 
 >[!TIP]
 >
->For any of your Campaigns/Spend that originate from a non-Sponsored Content source (such as Campaign Type of "Text Ad" or "Sponsored InMail"), Bizible does **not** inherently support the tracking of these Campaign Types. If you want to track Spend for Campaigns such as these alongside your "Sponsored Contect" Spend, be sure to make use of our Marketing Spend CSV to manually log said Spend.
+>For any of your Campaigns/Spend that originate from a non-Sponsored Content source (such as Campaign Type of "Text Ad" or "Sponsored InMail"), Bizible does _not_ inherently support the tracking of these Campaign Types. If you want to track Spend for Campaigns such as these alongside your "Sponsored Contect" Spend, be sure to make use of our Marketing Spend CSV to manually log said Spend.
 
 ## LinkedIn’s Unique Auto-Tagging Requirements {#linkedin-s-unique-auto-tagging-requirements}
 
 Bizible can help track your LinkedIn campaign performance by auto-tagging your landing pages.
 
-Bizible will search for creatives with a unique LinkedIn Share and add a **?_bl={creativeId}** parameter to the end of it.
+Bizible will search for creatives with a unique LinkedIn Share and add a `?_bl={creativeId}` parameter to the end of it.
 
 ## Copying Shares {#copying-shares}
 
@@ -198,47 +198,46 @@ As with other ad integrations, Bizible has defined a marketing channel rule to p
 
 A dark share is a post where it is never posted on the company page and immediately gets created and directly added as a Creative. So that Bizible-created Creatives don’t appear at the top of a company’s page and get promoted again, dark shares are used so that it can launch behind the scenes.
 
-What Statuses does Bizible actually tag?
+**What Statuses does Bizible actually tag?**
 
 There are four different statuses on a LinkedIn Campaign and Creative: Active, Paused, Archived, and Cancelled. We only tag Campaigns and Creatives that are Active. Tagging other statuses set them to Active again. Bizible will not tag Paused, Archived or Cancelled Campaigns or Creatives, but will resume tagging if the status changes to Active.
 
-What is the value that Bizible is using to tag?
+**What is the value that Bizible is using to tag?**
 
-At the end of the destination URL, Bizible is adding the parameter &_bl={creativeId}, where the {creativeId} is the Creative Id from LinkedIn. With the Creative Id, Bizible can also determine the Campaign Id since LinkedIn has a pretty basic ads structure since each Creative can only belong to one Campaign.
+At the end of the destination URL, Bizible is adding the parameter `&_bl={creativeId}`, where the `{creativeId}` is the Creative Id from LinkedIn. With the Creative Id, Bizible can also determine the Campaign Id since LinkedIn has a pretty basic ads structure since each Creative can only belong to one Campaign.
 
-What happens with my old creative once Bizible creates a new version of it?
+**What happens with my old creative once Bizible creates a new version of it?**
 
 When Bizible recreates a Share and places it in a new Creative, the old Creative get archived. This is also why Bizible will not tag archived Campaigns or Creatives - it would otherwise loop with Bizible trying to tag it indefinitely.
 
-The destination URL of the ad you created doesn’t match with my original ad.
+**Why doesn't the destination URL of the ad created match my original ad?**
 
 Bizible needs to add the tracking parameters to a resolved URL, but the URL that is presented in the API can potentially be a shortened URL without all parameters present. In order to get around that issue, Bizible looks for shortened URLs prior to re-creating an add, resolves it, then creates the new ad with the resolved URL and all of its parameters, allowing Bizible to add tags.
 
-Are you tagging all of my ads? I don’t see the bl parameter on all of my landing pages?
+**Are you tagging all of my ads? I don’t see the bl parameter on all of my landing pages?**
 
 We have observed that some marketers will put an image link into the destination URL, which Bizible cannot tag, so we search for the URL within the ad content. If Bizible has permissions to tag shortened URLs, we will expand the URL and tag that, but due to LinkedIn’s copy structure, it automatically gets shortened within the text. The tag will live within the LinkedIn shortened URL, which will appear in the touchpoint’s Ad Content field rather than in the Landing Page - Raw field.
 
-Oh no, someone on my team accidentally cloned a share. Can I pause it?
+**Oh no, someone on my team accidentally cloned a share. Can I pause it?**
 
 No worries. Bizible will programmatically check for shares that are no longer unique, meaning that it had since been copied into a different Creative. Once that copy has been detected, Bizible will follow the usual flow to tag and create new ads.
 
-My ad was pending review earlier. Why is it pending review again after Bizible tagged it?
+**My ad was pending review earlier. Why is it pending review again after Bizible tagged it?**
 
 LinkedIn requires that all ads that are created or modified go through the normal security process before it is posted. Bizible tries to intercept the ad as quickly as possible, as it scans for new ads every 6 hours but with LinkedIn’s additional step, it can delay the launch by a few hours.
 
-There are 2 URLs on my ad. Which one gets tagged?
+**There are 2 URLs on my ad. Which one gets tagged?**
 
 Both. Bizible’s integration allows us to tag the destination URL from the click through image in the ad, but also automatically updates the shortened URL in the ad description.  
   
 ![](assets/five.png)
 
-I’ve connected my LinkedIn ads account. Why isn’t Bizible tagging my links?
+**I’ve connected my LinkedIn ads account. Why isn’t Bizible tagging my links?**
 
 The connected LinkedIn user needs to have proper editing access, which means the user needs to be an Account Manager, Campaign Manager, or Creative Manager.
 
-How do I know if my creative will be copied? Can I see if my creatives are using the same share?
+**How do I know if my creative will be copied? Can I see if my creatives are using the same share?**
 
 The share Id isn't provided in a LinkedIn report, so there isn't a clear and obvious way to check for creative-to-share mappings. If you suspect a creative might be a copy, you can manually check by opening the ad from within your LinkedIn Campaign manager--this will open the ad in a new tab and you'll find the share Id in the URL.
 
 ![](assets/six.png)
-

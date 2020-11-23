@@ -14,35 +14,30 @@ Kenshoo and Marin are great tools that allow marketers to track, manage and opti
 
 Setup a tracking template as follows:
 
-* Click the Campaigns tab.
-* Click the Shared library link in the side navigation bar.
-* Click URL options.
-* Next to "Tracking template," click Edit.
+* Click the **Campaigns** tab.
+* Click the **Shared library** link in the side navigation bar.
+* Click **URL options**.
+* Next to "Tracking template," click **Edit**.
 * Fill in the URL:
 
     * If ALL of your ad URLs have a “?” in them, use this URL:
-
-        * {lpurl}&_bk={keyword}&_bt={creative}&_bm={matchtype}&_bn={network}&_bg={adgroupid}
+        * `{lpurl}&_bk={keyword}&_bt={creative}&_bm={matchtype}&_bn={network}&_bg={adgroupid}`
 
     * If NONE of your ad URLs have a “?” in them, use this URL:
-
-        * {lpurl}?_bk={keyword}&_bt={creative}&_bm={matchtype}&_bn={network}&_bg={adgroupid}
+        * `{lpurl}?_bk={keyword}&_bt={creative}&_bm={matchtype}&_bn={network}&_bg={adgroupid}`
 
 ## For Bing Ads Accounts {#for-bing-ads-accounts}
 
 Setup a tracking template as follows:
 
-* Click the Campaigns tab.
-* Click the Shared library link in the side navigation bar.
-* Click URL options.
-* Next to "Tracking template," click Edit.
+* Click the **Campaigns** tab.
+* Click the **Shared library** link in the side navigation bar.
+* Click **URL options**.
+* Next to "Tracking template," click **Edit**.
 * Fill in the URL:
 
     * If ALL of your ad URLs have a “?” in them, use this URL:
-
-        * {lpurl}&_bt={adid}&utm_term={keyword}&utm_source=Bing_Yahoo&utm_medium=CPC
+        * `{lpurl}&_bt={adid}&utm_term={keyword}&utm_source=Bing_Yahoo&utm_medium=CPC`
 
     * If NONE of your ad URLs have a “?” in them, use this URL:
-
-        * {lpurl}?_bt={adid}&utm_term={keyword}&utm_source=Bing_Yahoo&utm_medium=CPC
-
+        * `{lpurl}?_bt={adid}&utm_term={keyword}&utm_source=Bing_Yahoo&utm_medium=CPC`
