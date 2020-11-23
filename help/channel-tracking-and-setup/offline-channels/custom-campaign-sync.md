@@ -42,13 +42,13 @@ Today, with the installed Bizible package, you are able to indicate which Campai
 
    >[!NOTE]
    >
-   >Now that rules are defined alongside the CRM Sync, the rules that are stated will naturally begin to conflict. If choosing to continue to use both the custom Campaign Sync **and** the CRM Sync Type, it is critical to create rules so your CRM Sync Types do not get ignored.
+   >Now that rules are defined alongside the CRM Sync, the rules that are stated will naturally begin to conflict. If choosing to continue to use both the custom Campaign Sync _and_ the CRM Sync Type, it is critical to create rules so your CRM Sync Types do not get ignored.
 
    ![](assets/5-1.png)
 
    >[!NOTE]
    >
-   >If you are considering eventually stopping the user of the CRM Sync Type, it's ideal to create rules that do not reference the "Sync Type" but *still* maintain the current CRM Touchpoints. That way the rules still work if/when that switch is made.
+   >If you are considering eventually stopping the user of the CRM Sync Type, it's ideal to create rules that do not reference the "Sync Type" but _still_ maintain the current CRM Touchpoints. That way the rules still work if/when that switch is made.
 
 Here's an example of what that would look like, so that no existing CRM touchpoints are lost:
 

@@ -27,4 +27,3 @@ If your SFDC org uses multiple campaign record types, the picklist values for th
    ![](assets/4.jpg)
 
 1. Set the default value to “None” and click **Save**. Repeat for any additional Campaign Record Types.
-

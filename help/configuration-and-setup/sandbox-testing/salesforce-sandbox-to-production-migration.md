@@ -14,10 +14,10 @@ Please don't hesitate to reach out to your Bizible point of contact with any que
 
 * Install Bizible's two packages into Production with the "All Users" setting
 
-    * Main package: [bizible.com/sf](http://bizible.com/sf)
-    * Dashboard package: [bizible.com/dashboard-mt](http://bizible.com/dashboard-mt)
+    * Main package: [bizible.com/sf](https://bizible.com/sf)
+    * Dashboard package: [bizible.com/dashboard-mt](https://bizible.com/dashboard-mt)
 
-* For more information about Bizible's relationship with Salesforce, take a look at [this article](http://docs.marketo.com/x/MAEgAQ)
+* For more information about Bizible's relationship with Salesforce, take a look at [this article](/help/configuration-and-setup/bizible-and-salesforce/how-bizible-and-salesforce-interact.md)
 * Your license will say trial initially but it will be updated to not expire once it comes through Bizible's system
 * A bit of Salesforce configuration is necessary. The specific action items are outlined below in step 3
 
@@ -35,9 +35,8 @@ Please don't hesitate to reach out to your Bizible point of contact with any que
 
 ## Step 3: Salesforce Configuration {#step-salesforce-configuration}
 
-[Page Layouts](http://docs.marketo.com/x/rwEgAQ)   
-[Permission Sets](http://docs.marketo.com/x/pQEgAQ)  
-[Sharing reports](http://help.salesforce.com/articleView?id=analytics_share_folder.htm&type=0)   
-[Hiding unnecessary report types](http://docs.marketo.com/x/oQEgAQ)   
-[Custom workflow if applicable](http://docs.marketo.com/x/qQEgAQ)
-
+[Page Layouts](/help/configuration-and-setup/bizible-and-salesforce/page-layout-instructions.md)
+[Permission Sets](/help/configuration-and-setup/bizible-and-salesforce/bizible-permission-sets.md)  
+[Sharing reports](https://help.salesforce.com/articleView?id=analytics_share_folder.htm&type=0)
+[Hiding unnecessary report types](/help/configuration-and-setup/bizible-and-salesforce/hiding-unnecessary-report-types.md)
+[Custom workflow if applicable](/help/advanced-bizible-features/custom-revenue-amount/using-a-custom-revenue-amount-field.md)

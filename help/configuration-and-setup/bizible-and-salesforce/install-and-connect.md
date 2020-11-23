@@ -27,17 +27,19 @@ Bizible's **Dashboard Extension Package** contains three pre-built Dashboards.
 
 Bizible is able to read standard SF Objects, Fields and Records, however Bizible will never update or push data to them. All the data collected by Bizible's Javascript will be surfaced in the Bizible Custom Objects and Fields.
 
-For the complete installation guide, [click here](http://docs.marketo.com/x/owEgAQ).
+For the complete installation guide, [click here](/help/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.md).
 
 ## Connecting Accounts {#connecting-accounts}
 
-1. Go to the Bizible App and login.
-1. In the menu bar at the top of the screen, navigate to My Account and then click the Settings option.
+1. Go to the Bizible App and log-in.
+
+1. In the menu bar at the top of the screen, navigate to **My Account** and  click the Settings option.
+
 1. In the column of setting options on the left, click Connections located under the Integrations section.
 
    ![](assets/1.png)
 
-1. Under the CRM section in Connections, click Set Up New CRM Connection.
+1. Under the CRM section in Connections, click **Set Up New CRM Connection**.
 
    ![](assets/2.png)
 
@@ -45,5 +47,4 @@ For the complete installation guide, [click here](http://docs.marketo.com/x/owEg
 
    ![](assets/3.png)
 
-1. A final pop-up window will appear, asking you for your Salesforce credentials. Enter your information and click Authorize to connect the account to Bizible.
-
+1. A final pop-up window will appear, asking you for your Salesforce credentials. Enter your information and click **Authorize** to connect the account to Bizible.

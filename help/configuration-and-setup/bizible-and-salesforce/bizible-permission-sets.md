@@ -46,4 +46,3 @@ Inbound sales development teams and account executives may benefit from Bizibleâ
 >[!NOTE]
 >
 >In addition, the user we are connected through needs to have the "Marketing User" Salesforce Profile enabled at a user level in order for us to access the Campaign object. To check for this, click into **Setup** > **Manage Users** > **Profiles** > **Marketing User** > **Assigned Users**.
-
