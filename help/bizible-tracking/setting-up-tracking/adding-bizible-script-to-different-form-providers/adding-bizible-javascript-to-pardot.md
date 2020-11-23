@@ -13,7 +13,9 @@ Pardot forms require additional handling within the form template beyond putting
 Once you've logged into your Pardot account, follow these steps.
 
 1. Navigate to **Marketing**.
+
 1. Click on **Landing Pages**.
+
 1. Select **Layout Template**.
 
    ![](assets/1-3.png)
@@ -27,10 +29,11 @@ Once you've logged into your Pardot account, follow these steps.
    `<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>`
 
 1. Follow these steps for all applicable Landing Page Layout Templates.
+
 1. Make sure the Bizible JavaScript is on the general site page as well.
 
    Within the Pardot Layout Template, the code will look something like this:
-   
+
    ![](assets/3.png)
 
 ## Additional Notes {#additional-notes}
@@ -43,6 +46,6 @@ If the Pardot IFrame has the following HTML tag:
 
 `<script type="text/javascript" src=" `https://cdn.bizible.com/scripts/bizible.js`" async=""></script>`
 
-As well, there may already be other tracking code snippets in this area, such as a Google Analytics code. Be sure to separate them by a semicolon (;) and a single space, like shown in this example:
+As well, there may already be other tracking code snippets in this area, such as a Google Analytics code. Be sure to separate them by a semicolon `;` and a single space, like shown in this example:
 
 `<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>;<script async="true" type="othercode_example" src="otherfile_example.js" ></script>`

@@ -10,7 +10,7 @@ SAML (security assertion markup language) for SSO (single sign-on) makes it poss
 
 >[!CAUTION]
 >
->This article outlines Single Sign On (SSO) and advanced CRM User Management. If your account was provisioned **after 9/10/2020**, please disregard this article, as SSO and Identity Management will be set up within the [Adobe Admin Console for your Bizible integration](/help/configuration-and-setup/getting-started-with-bizible-new/bizible-quick-start.md).
+>This article outlines Single Sign On (SSO) and advanced CRM User Management. If your account was provisioned **after 9/10/2020**, please disregard this article, as SSO and Identity Management will be set up within the [Adobe Admin Console for your Bizible integration](/help/configuration-and-setup/getting-started-with-bizible/bizible-quick-start.md).
 
 >[!NOTE]
 >

@@ -17,6 +17,6 @@ title: Adding Bizible to Act-On Forms
 
 >[!NOTE]
 >
->There may already be other tracking code snippets in this area, such as a Google Analytics code. Be sure to separate them using a semicolon (;) and a single space, like so:
-  
+>There may already be other tracking code snippets in this area, such as a Google Analytics code. Be sure to separate them using a semicolon `;` and a single space, like so:
+>
 >`<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>**; **<script async="true" type="someothercode" src="someotherfile.js" ></script>`

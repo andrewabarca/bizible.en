@@ -12,4 +12,4 @@ By default, Bizible attaches to all forms on your site. However, not all form su
 
 To prevent Bizible from tracking specific forms, simply add "Bizible-Exclude" as a 'class' on your form. The code is as follows:
 
-* `<form id="myForm" action="/Home/TestPage" method="POST" class="Bizible-Exclude">`*
+`<form id="myForm" action="/Home/TestPage" method="POST" class="Bizible-Exclude">`

@@ -19,17 +19,21 @@ Hubspot is a bit different from other marketing automation systems in that it ca
 Once you have logged into your Hubspot account, follow these steps.
 
 1. Navigate to Content.
+
 1. Click **Content Settings**.
+
 1. Within Content Settings, click on the Site Header HTML (see image below).
+
 1. Add the following script within your `<header>`:
 
    `<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>`
 
-   It should look like this:  
+   It should look like this:
+
    ![](assets/1-4.png)
 
 >[!TIP]
 >
->There may already be other tracking code snippets in this area, such as a Google Analytics code. Be sure to separate them by a semicolon (;) and a single space, like so:  
-  
+>There may already be other tracking code snippets in this area, such as a Google Analytics code. Be sure to separate them by a semicolon `;` and a single space, like so:  
+>
 >`<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>**; **<script async="true" type="someothercode" src="someotherfile.js" ></script>`

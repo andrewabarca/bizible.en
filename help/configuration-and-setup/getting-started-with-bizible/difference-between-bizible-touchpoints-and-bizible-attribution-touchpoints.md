@@ -47,23 +47,22 @@ Difference between BT and BAT:
 
 A BT becomes a BAT once this BT is associated to a Contact that has an associated Opportunity. One very important thing to understand is that one specific marketing interaction can be a BT and BAT.
 
-Can a Bizible Touchpoint have a Touchpoint Position of Opportunity Creation (OC)?
+**Can a Bizible Touchpoint have a Touchpoint Position of Opportunity Creation (OC)?**
 
 A Bizible Touchpoint will only have a Touchpoint Position of either First Touch (FT), Lead Creation (LC), or Form submission (intermediary touchpoints). Since BTs aren't related to Opportunities it's not possible for a BT to have a Touchpoint Position of Opportunity Creation or Closed.
 
-How is Bizible Touchpoint data leveraged?
+**How is Bizible Touchpoint data leveraged?**
 
 Typically customers leverage Bizible Touchpoint data to understand Top of the Funnel & Middle of the Funnel engagement. Meaning Bizible users know who's submitting forms, who's viewing their site, what blog post is performing well, what AdWords ad is driving leads to convert, etc. Bizible Touchpoint data is great for understanding the engagement of your Leads & Contacts.
 
-What does a Bizible Touchpoint look like in Salesforce?
+**What does a Bizible Touchpoint look like in Salesforce?**
 
 Here's a screenshot of a BT in Salesforce:
 
 ![](assets/1.png)
 
-What does a Bizible Attribution Touchpoint look like in Salesforce?
+**What does a Bizible Attribution Touchpoint look like in Salesforce?**
 
 Here's a screenshot of a BAT in Salesforce:
 
 ![](assets/2.png)
-

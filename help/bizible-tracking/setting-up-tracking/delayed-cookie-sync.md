@@ -30,4 +30,3 @@ Alternatively, customers can set the data-consent-button-id to be something non-
 Because bizible.js temporarily saves unsent web activities in customers' first party cookies, and the size of first party cookies are limited, only three unsent requests can be saved at any given time.  
   
 If there are already three pending requests, any subsequent activities will be ignored; this is to preserve the first pageview, which contains valuable referrer information.
-

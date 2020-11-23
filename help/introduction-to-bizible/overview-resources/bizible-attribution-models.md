@@ -24,8 +24,8 @@ These models vary in complexity. First Touch and Lead Creation are our simple, s
 
 ![](assets/1-1.png)  
   
-In the **single-touch models**, attribution credit is only attributed to one milestone touchpoint-- hence the name ‘single-touch’.   
-In the **multi-touch models**, most of the attribution credit is assigned to two or more milestone touchpoints. The remaining credit is attributed to touchpoints that occur in-between the milestone touchpoints.   
+In the **single-touch models**, attribution credit is only attributed to one milestone touchpoint-- hence the name ‘single-touch’.
+In the **multi-touch models**, most of the attribution credit is assigned to two or more milestone touchpoints. The remaining credit is attributed to touchpoints that occur in-between the milestone touchpoints.
   
 The next few sections covers each attribution model and how attribution credit is assigned.
 
@@ -41,7 +41,7 @@ Say Kate visits www.bizible.com for the first time via an Adwords Ad and views a
 
 **Lead Creation Model** 
   
-The Lead Creation model attributes 100% of the attribution credit to the LC touchpoint, when a prospect provides their contact information and becomes a lead.   
+The Lead Creation model attributes 100% of the attribution credit to the LC touchpoint, when a prospect provides their contact information and becomes a lead.
   
 Continuing from the previous example, after Kate’s first visit to www.bizible.com via Adwords, Austin visits the website via a Linkedin post. Austin fills out a form and becomes a Lead. In this model, Linkedin would receive 100% of the attribution credit.
 
@@ -55,7 +55,7 @@ Multi-touch models are used for longer, more complicated sales cycles. These mod
   
 The U-Shaped model focuses on both the FT and LC touchpoints. In this model, the FT and LC touchpoint each receive 50% of the revenue credit.  
   
-Kate’s first visit to [www.bizible.com](http://www.bizible.com) via an Adwords ad would receive 50% of the attribution credit. The remaining 50% would be attributed to the Linkedin post that drove Austin to fill out a form and become a lead.
+Kate’s first visit to www.bizible.com via an Adwords ad would receive 50% of the attribution credit. The remaining 50% would be attributed to the Linkedin post that drove Austin to fill out a form and become a lead.
 
 ![](assets/4.png)  
   
@@ -63,7 +63,7 @@ Kate’s first visit to [www.bizible.com](http://www.bizible.com) via an Adwords
   
 Three of the milestone touchpoints are included in the W-Shaped model. In this model, the FT, LC, and OC touchpoints are each attributed 30% of the attribution credit. The remaining 10% is attributed proportionally to any intermediary touchpoints that occur between the three milestone touchpoints.  
   
-Kate and Austin mention Bizible to their coworker, Hillary. She finds a piece of content through a google search, and fills out a form. Later, Austin receives an email for a webinar registration, and fills out the registration form on the website. Kate has a conversation with a Sales rep about the Bizible product.   
+Kate and Austin mention Bizible to their coworker, Hillary. She finds a piece of content through a google search, and fills out a form. Later, Austin receives an email for a webinar registration, and fills out the registration form on the website. Kate has a conversation with a Sales rep about the Bizible product.
   
 Hillary receives an email with a link to the pricing page and visits the page. Then an Opportunity is created for their account. Hillary's web visit to the pricing page receives credit for the Opportunity Creation because it was the closest marketing interaction to the Opportunity Creation date. Each of the milestone touchpoints are assigned 30% of the attribution credit, and the intermediary touchpoints are attributed the remaining 10%.
 

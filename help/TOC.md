@@ -37,10 +37,10 @@ user-guide-description: Bizible gives marketers insight into which marketing eff
     + [Delayed Cookie Sync](bizible-tracking/setting-up-tracking/delayed-cookie-sync.md)
 + Configuration and Setup {#configuration-and-setup}
   + Getting Started with Bizible{#getting-started-with-bizible}
-    + [Touchpoint Generation and Mapping](configuration-and-setup/getting-started-with-bizible-new/touchpoint-generation-and-mapping.md)
-    + [Attribution Object Mapping](configuration-and-setup/getting-started-with-bizible-new/attribution-object-mapping.md)
-    + [Difference Between Bizible Touchpoints and Bizible Attribution Touchpoints](configuration-and-setup/getting-started-with-bizible-new/difference-between-bizible-touchpoints-and-bizible-attribution-touchpoints.md)
-    + [Bizible Quick Start](configuration-and-setup/getting-started-with-bizible-new/bizible-quick-start.md)
+    + [Touchpoint Generation and Mapping](configuration-and-setup/getting-started-with-bizible/touchpoint-generation-and-mapping.md)
+    + [Attribution Object Mapping](configuration-and-setup/getting-started-with-bizible/attribution-object-mapping.md)
+    + [Difference Between Bizible Touchpoints and Bizible Attribution Touchpoints](configuration-and-setup/getting-started-with-bizible/difference-between-bizible-touchpoints-and-bizible-attribution-touchpoints.md)
+    + [Bizible Quick Start](configuration-and-setup/getting-started-with-bizible/bizible-quick-start.md)
   + Bizible and Salesforce {#bizible-and-salesforce}
     + [Bizible Installation Guide](configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.md)
     + [Bizible Salesforce Objects](configuration-and-setup/bizible-and-salesforce/bizible-salesforce-objects.md)

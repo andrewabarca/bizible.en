@@ -26,4 +26,3 @@ Finally, when the JavaScript is added, we encourage you to validate form submiss
 1. Open an Incognito browser and paste the URL.
 1. Submit the form using a unique email address.
 1. Confirm the test was tracked by checking your CRM for the unique email address used, ensure Touchpoint data is populating.
-

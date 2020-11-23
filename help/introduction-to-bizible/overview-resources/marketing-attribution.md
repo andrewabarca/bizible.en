@@ -29,7 +29,7 @@ These milestone touches are the foundation of Bizible's **attribution models**. 
 
 >[!NOTE]
 >
->[Learn more about each attribution model](http://docs.marketo.com/x/yAAgAQ).** **
+>[Learn more about each attribution model](/help/introduction-to-bizible/overview-resources/bizible-attribution-models.md).
 
 ## Why Attribution is Important {#why-attribution-is-important}
 
