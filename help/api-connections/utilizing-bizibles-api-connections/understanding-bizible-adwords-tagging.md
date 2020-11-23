@@ -21,7 +21,7 @@ However, the same URL will provide granular data because of the Bizible paramete
 **If Bizible finds a Tracking Template:**
 
 * Bizible will add its parameters to the Tracking Template.
-* If a third-party redirect is found in a Tracking Template such as Kenshoo or Marin, Bizible will take no action. Instead, you must [add Bizible parameters to the third-party tool in your account](http://docs.marketo.com/x/YAEgAQ).
+* If a third-party redirect is found in a Tracking Template such as Kenshoo or Marin, Bizible will take no action. Instead, you must [add Bizible parameters to the third-party tool in your account](/help/api-connections/utilizing-bizibles-api-connections/how-bid-management-tools-affect-bizible.md).
 
 However, if no Tracking Template is found, Bizible will:
 
@@ -34,7 +34,7 @@ Bizible recommends using an Account-Level, Campaign-Level, or Ad Group-Level Tra
 
 ## Tracking Templates {#tracking-templates}
 
-As explained by Google AdWords, a tracking template is the URL that is used to reach a landing page. The tracking information collected is used to understand your ad traffic. [Click here](http://support.google.com/adwords/answer/7197008?hl=en) for more information from Google.
+As explained by Google AdWords, a tracking template is the URL that is used to reach a landing page. The tracking information collected is used to understand your ad traffic. [Click here](https://support.google.com/adwords/answer/7197008?hl=en) for more information from Google.
 
 Bizible recommends using an Account Level, Campaign Level, or Ad Group Level Tracking template, as it allows for the addition and subtraction of parameters for all ads without the risk of Ad History interruptions or deletion.
 
@@ -42,15 +42,16 @@ There are two tracking templates Bizible recommends using. Please use the follow
 
 * If all of your ad URLs have a “?” in them, use this URL:
 
-*{lpurl}&_bt={creative}&_bk={keyword}&_bm={matchtype}&_bn={network}&_bg={adgroupid}*
+`{lpurl}&_bt={creative}&_bk={keyword}&_bm={matchtype}&_bn={network}&_bg={adgroupid}`
 
 * If none of your ad URLs have a “?” in them, use this URL:
 
-*{lpurl}?_bt={creative}&_bk={keyword}&_bm={matchtype}&_bn={network}&_bg={adgroupid}*
+`{lpurl}?_bt={creative}&_bk={keyword}&_bm={matchtype}&_bn={network}&_bg={adgroupid}`
 
 ## Setting up a Tracking Template at the Account Level {#setting-up-a-tracking-template-at-the-account-level}
 
 1. Log-in to your Google AdWords Account.
+
 1. Click **All campaigns** and then **Settings** in the expanding window.
 
    ![](assets/1.png)
@@ -80,26 +81,27 @@ There are two tracking templates Bizible recommends using. Please use the follow
    ![](assets/5-1.png)
 
 1. Select all applicable Ad Groups or Select All, click **Edit** and then click **Change Tracking Templates**.
+
 1. Enter the Bizible Tracking Template and click **Apply**.
 
    ![](assets/6-1.png)
 
 ## FAQ {#faq}
 
-**What permissions does the connected user need?**
+**Q: What permissions does the connected user need?**
 
 A: userinfo.email
 
-Q: How long can it take to import spend data?
+**Q: How long can it take to import spend data?**
 
 A: 6 hours
 
-Q: How long can it take to import ad data?
+**Q: How long can it take to import ad data?**
 
 A: 4 hours
 
 >[!NOTE]
 >
->Once the changes are made, you are done. Feel free to reach out to [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#cebdbbbebea1bcba8eaca7b4a7aca2abe0ada1a3) if there are any questions during setup.
+>Once the changes are made, you are done. Feel free to reach out to support@bizible.com if there are any questions during setup.
 
-[Click here](http://support.google.com/adwords/answer/6076199?hl=en#tracking) for instructions from Google on creating Account-Level Tracking Templates. 
+[Click here](https://support.google.com/adwords/answer/6076199?hl=en#tracking) for instructions from Google on creating Account-Level Tracking Templates.

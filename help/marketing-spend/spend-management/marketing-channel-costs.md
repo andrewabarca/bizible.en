@@ -8,13 +8,13 @@ title: Marketing Channel Costs
 
 One of the most fundamental benefits of using Bizible is the ability to connect marketing efforts directly to the impact on revenue--with as much granularity as desired. It is possible to see return on investment at the touchpoint level. To take advantage of this benefit, channel costs simply need to be uploaded to the Bizible app. ROI reports are automatically created and available in the **Marketing ROI Dashboard** in apps.bizible.com.
 
-[Click here to navigate directly to instructions.](#marketingcosts)
+[Click here to navigate directly to instructions.](/help/marketing-spend/spend-management/marketing-channel-costs.md#uploading-marketing-costs)
 
 Bizible’s Marketing Spend feature allows customers to upload their spend across all Channels, Subchannels, and Campaigns. The more data that is added by customers, the more ROI reporting we can surface in the Revenue Attribution Dashboard.
 
 Costs that are reported and imported from direct ad connections are automatically pulled in at the most granular level and do not need to be uploaded. This includes our current integrations with Google AdWords, Bing Ads, Doubleclick, and Facebook.
 
-[Click here to navigate directly to the FAQ.](#faq)
+[Click here to navigate directly to the FAQ.](/help/marketing-spend/spend-management/marketing-channel-costs.md#faq)
 
 ## Definitions {#definitions}
 
@@ -54,7 +54,7 @@ The downloaded CSV will pull the results from your current screen, meaning that 
 
 Regardless of which view is sitting in the browser, if it’s a filtered view or the default view with all dates and channels, you can upload any CSV.
 
-The most common error we face is the format of the date columns, which happens if the date format is changed and could happen intentionally if moving between Excel and/or Google Sheets. Please keep in mind that the date should be Mmm-YY, so Sep-12 and not Sept-12, or May-12 and not 05-12.
+The most common error we face is the format of the date columns, which happens if the date format is changed and could happen intentionally if moving between Excel and/or Google Sheets. Please keep in mind that the date should be MM-YY, so Sep-12 and not Sept-12, or May-12 and not 05-12.
 
 ## Before You Begin {#before-you-begin}
 
@@ -68,13 +68,13 @@ Once marketing channels and rules have been set up or updated, the associated co
 
 **Step 1: Navigate to the Marketing Spend page in the Bizible App.**
 
-Go to the **My Account** menu, click on **Settings** and then navigate to the **Marketing Spend** option on the left sidebar under the **Reporting **section.
+Go to the **My Account** menu, click on **Settings** and then navigate to the **Marketing Spend** option on the left sidebar under the **Reporting** section.
 
 ![](assets/1.png)
 
 **Step 2: Download the Current Costs CSV**
 
-Navigate to the right of the screen and click on **Download Current Costs.** This option allows you to download a spreadsheet in CSV format.
+Navigate to the right of the screen and click **Download Current Costs.** This option allows you to download a spreadsheet in CSV format.
 
 ![](assets/2.png)
 
@@ -88,10 +88,9 @@ Check the logic rules in your sheet. Each row should contain a channel and one o
 
 For example, to indicate Facebook as the subchannel and social as the channel, the rule should be written as follows: “Social.Facebook.” Similarly, to track an offline event, the channel syntax should be: “Events.Big Conference.” Examples are shown in the image below:
 
-* ![](assets/3.png)  
-*
+![](assets/3.png)  
 
-*Additional Notes:*
+_Additional Notes_:
 
 Do not modify the dates in the spreadsheet because this can cause problems when the document is uploaded.
 
@@ -113,15 +112,14 @@ Go to the **Cost** section of the Bizible app and click **Upload.CSV**. The syst
 
 If no value is entered at a higher level like Channel or Subchannel, Bizible will automatically sum of the child levels for you, which will be presented once your file is uploaded. Also, if the sum of the children is less than a value entered for the parent, Bizible will add an “Other” row to show the difference in the total.
 
-How are the Campaigns determined in the list that I’m seeing?
+**How are the Campaigns determined in the list that I’m seeing?**
 
 At the moment, our results list out Campaigns that we’ve seen get credited with a Touchpoint. If there was activity from a Campaign, we’ll show that Campaign based on the Touchpoint Date that it occurred.
 
-There are too many rows and columns to sift through - can you consolidate the view?
+**There are too many rows and columns to sift through - can I consolidate the view?**
 
 With the ability to change the date range, or filter the channel, or search for values, you can consolidate the results of the table to better fit your needs.
 
-Why can’t I upload a file?
+**Why can’t I upload a file?**
 
 We have different permission sets within the Bizible App. In order to upload a file, you need to be an “AccountAdmin.” To get around this, please request access from your AccountAdmin or have your AccountAdmin upload the file on your behalf. A list of users and their roles can be found under My Account > Settings > View/Add Account Users.
-

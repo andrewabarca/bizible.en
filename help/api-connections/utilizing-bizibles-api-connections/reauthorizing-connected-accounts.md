@@ -18,7 +18,6 @@ If your CRM platform becomes disconnected, Bizible will not be able to update Bi
 
 1. Go to [apps.bizible.com](http://apps.bizible.com) and log-in.
 1. Select **Settings** under the My Account tab in the top left corner.
-1. Find the Integrations section on the left, and select **Connections**.
+1. Find the Integrations section on the left and click **Connections**.
 1. Select the Red Key symbol next to the account that needs to be reconnected.
-1. A pop-up window will appear, prompting you to provide the login in details for the account.
-
+1. A pop-up window will appear, prompting you to provide the login details for the account.
