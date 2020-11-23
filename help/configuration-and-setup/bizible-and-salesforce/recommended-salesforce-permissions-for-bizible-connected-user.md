@@ -8,7 +8,7 @@ title: Recommended Salesforce Permissions for Bizible Connected User
 
 Bizible sends and receives data through a connected Salesforce user within the Bizible app.  
   
-In order to push touchpoint data to your Salesforce instance, the connected user must have access to Bizible custom objects (i.e. Bizible Touchpoint and Bizible Attribution Touchpoint) as well as standard Salesforce objects such as Leads and Contacts (see [Bizible in Salesforce](http://docs.marketo.com/x/MAEgAQ)).  
+In order to push touchpoint data to your Salesforce instance, the connected user must have access to Bizible custom objects (i.e. Bizible Touchpoint and Bizible Attribution Touchpoint) as well as standard Salesforce objects such as Leads and Contacts (see [Bizible in Salesforce](/help/configuration-and-setup/bizible-and-salesforce/how-bizible-and-salesforce-interact.md).  
   
 Salesforce Administrator user licenses can serve as the connected user as they often have the necessary data privileges by default. However, your team may prefer to use an integrations user or a dedicated Salesforce user license to track the impact of Bizible on your instance.  
   
@@ -20,7 +20,7 @@ The managed permission set gives an SFDC admin the ability to create, read, writ
 
 * View and Edit Converted Leads Permission Set
 
-This allows Bizible to decorate leads after they have been converted to contacts. If this permission set is not enabled there can be significant data tracking gaps. You can find more information in [Salesforce Trailblazer community](http://help.salesforce.com/articleView?id=leads_view_edit_converted.htm&type=5).
+This allows Bizible to decorate leads after they have been converted to contacts. If this permission set is not enabled there can be significant data tracking gaps. You can find more information in [Salesforce Trailblazer community](https://help.salesforce.com/articleView?id=leads_view_edit_converted.htm&type=5).
 
 * Salesforce Marketing User Checkbox
 
@@ -38,5 +38,4 @@ If the dedicated user does not have access to leads in queues then it is unable 
 
 Field level security and field accessibility are related but have some key differences. Field Level Security defines field visibility for a given profile while Field Accessibility determines whether a field is editable based on the field level security and page layout configuration. Using the Bizible package’s permission sets you will receive the necessary field object security settings. In some cases, in order to have the correct field accessibility, the connected user will need to have the Bizible fields on the page layouts. Bizible fields on the layout allow for the Bizible data to map into Salesforce. This will depend on your particular Salesforce environment.  
   
-Every organization’s Salesforce has individual needs but we provide you with our requirements to balance Bizible’s access needs with your security protocols. Don’t hesitate to reach out to [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#087b7d7878677a7c486a6172616a646d266b6765) with your questions or concerns.
-
+Every organization’s Salesforce has individual needs but we provide you with our requirements to balance Bizible’s access needs with your security protocols. Don’t hesitate to reach out to support@bizible.com.

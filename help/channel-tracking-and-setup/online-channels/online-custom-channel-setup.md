@@ -16,14 +16,14 @@ Things to keep in mind:
 
 * Your organization can create a maximum of 40 custom marketing channels. This includes both offline and online channels.
 * Your organization can create up to 200 subchannels.
-* Each collection, or bucket, of data needs its own rule (row in the spreadsheet) to specify how the data will be organized. Be as specific as possible. 
+* Each collection, or bucket, of data needs its own rule (row in the spreadsheet) to specify how the data will be organized. Be as specific as possible.
 * Bizible’s logic prioritizes data in descending order starting with the top row of the spreadsheet and making its way down. It reads each bucket, or cell, in row by row looking for the first fit. The data is then sorted according to the values in these buckets. More on this below.
 * Do not sort your sheet in alphabetical order as this will interfere with the logic rules.
 * Once the file is uploaded, you cannot change any of the rules for seven days. Bizible utilizes this time to process and update the Touchpoints.
 
 ## Bizible Logic and Priorities {#bizible-logic-and-priorities}
 
-The first step is to download the custom channel spreadsheet from the Bizible app. Navigate to **Settings **under the **My Account **tab and select **Online**. You can select either **Download Original Template **or **Download Current Rules.**
+The first step is to download the custom channel spreadsheet from the Bizible app. Navigate to **Settings** under the **My Account** tab and select **Online**. You can select either **Download Original Template** or **Download Current Rules**.
 
 ![](assets/1.png)
 
@@ -79,21 +79,18 @@ Once you have decided how you want to organize and prioritize your data, you're 
 
 * Keep your rules as simple as possible from the start. You can always build on the rules as you go along.
 * Do not add any special characters in the channel names (e.g., $%#&&#42;@)
-* Do not edit the rules associated with BingAds and AdWords. These rules are crucial for bucketing the data that automatically comes from Bizible’s API integration with these platforms. Changing the subchannel and channel name to fit your needs is not a problem though. 
-* Do not remove the rules that contain a "Do Not Remove” note. 
+* Do not edit the rules associated with BingAds and AdWords. These rules are crucial for bucketing the data that automatically comes from Bizible’s API integration with these platforms. Changing the subchannel and channel name to fit your needs is not a problem though.
+* Do not remove the rules that contain a "Do Not Remove” note.
 * Organic Search rules are always placed after the Paid Search rules
 * You cannot create rules based on different sub-domains.
-* If you have more than one value to add in a cell in the spreadsheet, be sure to separate the values with a semicolon (;) only. No commas or spaces.
-* You do not have to add dot com (.com) to the end of the referring URL. 
+* If you have more than one value to add in a cell in the spreadsheet, be sure to separate the values with a semicolon `;` only. No commas or spaces.
+* You do not have to add dot com (.com) to the end of the referring URL.
 * When adding a referring URL, don't put it in brackets like the other API-related rules.
 
 ## Uploading Your Custom Channels Rules {#uploading-your-custom-channels-rules}
 
 Once you have edited and updated the spreadsheet with your custom rules, you can send it to your Customer Success Manager for his or her review. If you are familiar with rules logic, you are welcome to upload it yourself using the Upload CSV button in the Online Channels page. Bizible will upload the changes and reprocess the data.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Creating Channels & Subchannels](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/#/page/5c63007334d9f0367662b747)
-

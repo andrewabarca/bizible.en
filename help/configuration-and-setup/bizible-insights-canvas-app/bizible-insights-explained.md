@@ -35,4 +35,3 @@ On the right hand side of each session, you can see more of the granular marketi
 Finally, once someone has a myriad of sessions, you can use some filters within Insights to look for specific parts of their engagement on your site. You can filter by Touchpoint Position for example.
 
 You can also search by Page Views, AB Tests, or Forms.
-

@@ -52,9 +52,9 @@ If enabled, Bizible will push a status value onto the Campaign Member across 4 d
 
 ## Bizible Touchpoint Date {#bizible-touchpoint-date}
 
-With the installation of the package, Bizible also includes a field on the Campaign Member labeled “Bizible Touchpoint Date.” This allows the user to override the date that Bizible would use for the Touchpoint Date on the Touchpoint record. 
+With the installation of the package, Bizible also includes a field on the Campaign Member labeled “Bizible Touchpoint Date.” This allows the user to override the date that Bizible would use for the Touchpoint Date on the Touchpoint record.
 
-This could be necessary if a list was uploaded days/weeks/months after an event actually occurred. There are ways to update all records at once, which is explained [below](#below).
+This could be necessary if a list was uploaded days/weeks/months after an event actually occurred. There are ways to update all records at once, which is explained below.
 
 ![](assets/5.png)
 
@@ -69,7 +69,6 @@ If the Sync Type is set to “Include only ‘Responded’ Campaign Members,” 
 
 * Bizible Touchpoint Date
 * First Responded Date
-
     * The First Responded Date is automatically set as soon as the Status is changed to “Responded” and is a standard Salesforce field that cannot be changed
 
 * Campaign Member Created Date
@@ -82,7 +81,7 @@ The Bulk Update Touchpoint Date is included in the installed Bizible Salesforce 
 
 If a large number of Campaign Member records needs to be updated, you can use the Bulk Update Touchpoint Date button to mass edit.
 
-If there are unique use cases that this interface doesn’t cover, you can also use the [Data Loader](http://dataloader.io/) to export the records, make the change, and upload the records back in.
+If there are unique use cases that this interface doesn’t cover, you can also use the [Data Loader](https://dataloader.io/) to export the records, make the change, and upload the records back in.
 
 Start by searching for the records and filtering the ones that you want to set a Bizible Touchpoint Date for.
 
@@ -90,7 +89,8 @@ Start by searching for the records and filtering the ones that you want to set a
 >
 >There is one search that does not work, which is displayed in the example below. The UI does not support searching for null Bizible Touchpoint Dates (the below search would not work):
 
-![](assets/7.png)   
+![](assets/7.png)
+
 If you don’t need to use the search and just apply the dates to every Campaign Member record, use the “Include All Records” checkbox (see screenshot below), which will check all records on all pages.
 
 Select the date and time from the calendar picker. If you want to select the current date and time, click the date/time that is shown next to the calendar picker.
@@ -101,23 +101,20 @@ Once your date and time is set, click the **Update Selected Records** button to 
 
 ## Campaign Costs {#campaign-costs}
 
-Learn all about Campaign Costs [in this article](http://docs.marketo.com/x/QAEgAQ).
+Learn all about Campaign Costs [in this article](/help/marketing-spend/spend-management/crm-campaign-costs.md).
 
 ## Campaign Member Removal {#campaign-member-removal}
 
 The way that Bizible keeps up with any deleted records in Salesforce, whether they’re deleted Leads or Accounts or Opportunities is to see those records in the API and track that an entry is marked as “IsDeleted.” Unfortunately with Campaign Members, Salesforce introduced a different way of deleting these Campaign Members from a Campaign and they’re actually just marked as “removed” as opposed to “deleted” so the issue is that touchpoints were still living in Salesforce that were related to deleted Campaign Members.
 
-To get around this issue, Bizible created a Bizible History object and a trigger to track whenever Campaign Members are removed and then delete the corresponding touchpoint. **You will need Bizible Marketing Analytics package V6.15 or higher **to use this feature.
+To get around this issue, Bizible created a Bizible History object and a trigger to track whenever Campaign Members are removed and then delete the corresponding touchpoint. **You will need Bizible Marketing Analytics package V6.15 or higher** to use this feature.
 
 >[!CAUTION]
 >
->Keep in mind that this trigger does not track any campaign members that were removed in the past, so this only works moving forward. If you need to remove a large number of past campaign members' touchpoints, contact [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#62111712120d101622000b180b000e074c010d0f).
+>Keep in mind that this trigger does not track any campaign members that were removed in the past, so this only works moving forward. If you need to remove a large number of past campaign members' touchpoints, contact support@bizible.com.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Campaign Object Fields](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/#/page/5c63007334d9f0367662b758)
 >
 >[Bizible University: Mapping Offline Channels](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/#/page/5c630eca34d9f0367662b77f)
-

@@ -32,5 +32,4 @@ Learn how to create a Bizible profile. Creating a Bizible profile ensures we won
 
    Done!  
   
-   If you have any questions around creating a dedicated Bizible profile, please reach out to your success manager or [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#e89b9d9898879a9ca88a8192818a848dc68b8785).
-
+   If you have any questions around creating a dedicated Bizible profile, please reach out to your success manager or support@bizible.com.

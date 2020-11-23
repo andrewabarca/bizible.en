@@ -20,7 +20,7 @@ The spreadsheet has three columns:
 
 **Channel** - add your various marketing channels here
 
-**Subchannel **- add any corresponding subchannels here
+**Subchannel** - add any corresponding subchannels here
 
 ## Offline Channel Logic {#offline-channel-logic}
 
@@ -52,7 +52,7 @@ Any existing campaign types must be included in your channel map and “NULL” 
 
 Take time to go into Salesforce to determine the number and nature of your existing record types, which you want to include, and whether you need to create additional campaigns based on the information above. Once you have filled out all the necessary information, you are ready to upload
 
-Learn more about [syncing offline Salesforce Campaigns with Bizible](http://docs.marketo.com/x/6AAgAQ).
+Learn more about [syncing offline Salesforce Campaigns with Bizible](/help/channel-tracking-and-setup/offline-channels/syncing-offline-campaigns.md).
 
 ## Handling SFDC Campaigns for Online Marketing Efforts {#handling-sfdc-campaigns-for-online-marketing-efforts}
 
@@ -64,21 +64,18 @@ Another tip for handling campaigns for online activities is to map the Salesforc
 
 ## Entering Your Offline Channel Rules to the App {#entering-your-offline-channel-rules-to-the-app}
 
-Once you have edited and updated the spreadsheet with your custom rules, the next step is to recreate this channel mapping in the Bizible app--you won't actually upload a spreadsheet for offline channels. Rather, you will enter the information in the picklist boxes as displayed in the image below. This is found by clicking **Offline Channels** under the **Channels **section.
+Once you have edited and updated the spreadsheet with your custom rules, the next step is to recreate this channel mapping in the Bizible app--you won't actually upload a spreadsheet for offline channels. Rather, you will enter the information in the picklist boxes as displayed in the image below. This is found by clicking **Offline Channels** under the **Channels** section.
 
 ![](assets/7-2.png)
 
 >[!TIP]
 >
->Want to determine *when *a Salesforce Campaign Type gets pulled down into Bizible channel mapping? Simply go to **Setup** > **Campaigns** > **Fields** > **Type**. You can then see which values are in the picklist, and which are inactive. Inactive ones won't show up as a selectable type in our "Offline Channels" section. Please note, this process can take anywhere from a few minutes up to 48 hours.
+>Want to determine _when_ a Salesforce Campaign Type gets pulled down into Bizible channel mapping? Simply go to **Setup** > **Campaigns** > **Fields** > **Type**. You can then see which values are in the picklist, and which are inactive. Inactive ones won't show up as a selectable type in our "Offline Channels" section. Please note, this process can take anywhere from a few minutes up to 48 hours.
 
-Click **Save **when you're finished and Bizible will upload the changes and reprocess the data.
+Click **Save** when you're finished and Bizible will upload the changes and reprocess the data.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Mapping Offline Channels](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/#/page/5c630eca34d9f0367662b77f)
 >
 >[Bizible University: Syncing Offline Campaigns](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/#/page/5c63286e34d9f0367662b78b)
-

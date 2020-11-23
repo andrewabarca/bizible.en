@@ -31,5 +31,6 @@ The Campaign list view that can be created allows you to have a 'go-to' location
     * Also need enable enhanced lists checked (right under the box for inline editing):
     * Make sure to have permissions to the fields.
 
-   [https://help.salesforce.com/articleView?id=000003911&language=en_US&type=1](http://help.salesforce.com/articleView?id=000003911&language=en_US&type=1)
-
+>[!MORELIKETHIS]
+>
+>[Troubleshooting common issues with List View Inline Editing](http://help.salesforce.com/articleView?id=000003911&language=en_US&type=1)
