@@ -6,7 +6,7 @@ title: Salesforce Activities Attribution
 
 # Salesforce Activities Attribution {#salesforce-activities-attribution}
 
-Bizible's Salesforce Activities integration will bring in specific Task and Event records into your attribution model. Begin to track things like sales emails or sales phone calls that weren't receiving due credit. To configure your activities rule, you'll need to go to [apps.bizible.com](https://slack-redir.net/link?url=http%3A%2F%2Fapps.bizible.com&v=3). From there, go to the Settings tab and click on the Activities tab.
+Bizible's Salesforce Activities integration will bring in specific Task and Event records into your attribution model. Begin to track things like sales emails or sales phone calls that weren't receiving due credit. To configure your activities rule, you'll need to go to apps.bizible.com. From there, go to the **Settings** tab and click the **Activities** tab.
 
 You're about to make your Sales team very happy! Let us take you through a quick tutorial.
 
@@ -19,19 +19,15 @@ You're going to use this Bizible Campaign Name to tell us which Channel it shoul
 Get familiar with this hierarchy:
 
 * Channel
-
     * Subchannel
-
         * Campaign
         * Campaign
-
     * Subchannel
-
         * Campaign
 
 >[!TIP]
 >
->If you want to set a unique Campaign for each Sales rep for example, utilize our dynamic replacement parameters to fill in the Bizible Campaign Name. In our same example, you can enter "Outbound Sales - {AssignedTo}" and we'll morph it into something like "Outbound Sales - Jill" or "Outbound Sales - Jack." You have no idea how much time we just saved you!
+>If you want to set a unique Campaign for each Sales rep for example, utilize our dynamic replacement parameters to fill in the Bizible Campaign Name. In our same example, you can enter `"Outbound Sales - {AssignedTo}"` and we'll morph it into something like `"Outbound Sales - Jill"` or `"Outbound Sales - Jack."` You have no idea how much time we just saved you!
 
 ![](assets/2.png)
 
@@ -45,7 +41,7 @@ The rules act as a filter to tell us which records are eligible for attribution.
 >
 >Formula fields cannot be used within your rules and will not appear in the picklist. Because formulas calculate in the background and do not modify a record, Bizible cannot detect whether a record fits a rule or not.
 
-Lastly, let's choose one of your date or date/time fields to utilize as the Bizible Touchpoint Date. Either standard and custom fields are selectable. 
+Lastly, let's choose one of your date or date/time fields to utilize as the Bizible Touchpoint Date. Either standard and custom fields are selectable.
 
 >[!TIP]
 >
@@ -57,7 +53,7 @@ Don't forget to set different rules for Tasks or Events. You'll need to know whi
 
 ![](assets/5.png)
 
-You'll probably want to place these new touchpoints into their appropriate [Marketing Channel](http://apps.bizible.com/MyAccount/Business?busView=false&id=10#!/MyAccount/Business/Account.Settings.SettingsHome?tab=Channels.Online%20Channels). You can do that by defining the Channel with its new Campaign mapping that you just created. Perhaps you'll create a new row for the BDR channel where the Campaign starts with Outbound.
+You'll probably want to place these new touchpoints into their appropriate [Marketing Channel](https://apps.bizible.com/MyAccount/Business?busView=false&id=10#!/MyAccount/Business/Account.Settings.SettingsHome?tab=Channels.Online%20Channels). You can do that by defining the Channel with its new Campaign mapping that you just created. Perhaps you'll create a new row for the BDR channel where the Campaign starts with Outbound.
 
 >[!TIP]
 >
@@ -80,15 +76,12 @@ You'll probably want to place these new touchpoints into their appropriate [Mark
 
 ![](assets/6.png)
 
-And last but not least, you have the option of entering costs for your new channels. Our [Marketing Spend upload](http://apps.bizible.com/MyAccount/Business?busView=false&id=10#!/MyAccount/Business/Account.Settings.SettingsHome?tab=Reporting.Marketing%20Spend) allows you to enter your spend at the Channel level, Subchannel level, or Campaign level. With your new Bizible Campaigns, you can add those related costs by month, then see the ROI for each Campaign!
+And last but not least, you have the option of entering costs for your new channels. Our [Marketing Spend upload](https://apps.bizible.com/MyAccount/Business?busView=false&id=10#!/MyAccount/Business/Account.Settings.SettingsHome?tab=Reporting.Marketing%20Spend) allows you to enter your spend at the Channel level, Subchannel level, or Campaign level. With your new Bizible Campaigns, you can add those related costs by month, then see the ROI for each Campaign!
 
 ![](assets/7.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Activity Attribution FAQ](http://docs.marketo.com/x/UAEgAQ)
 >
 >[Bizible University: Activities Attribution](https://universityonline.marketo.com/courses/additional-features-1/#/page/5be3747e5b62f440323a468a)
-

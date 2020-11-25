@@ -112,7 +112,7 @@ user-guide-description: Bizible gives marketers insight into which marketing eff
     + [Bizible View Through Attribution FAQ](advanced-bizible-features/view-through-attribution/bizible-view-through-attribution-faq.md)
     + [Configuring Doubleclick Campaign Manager View Through Attribution](advanced-bizible-features/view-through-attribution/configuring-doubleclick-campaign-manager-view-through-attribution.md)
   + Touchpoint Fields {#touchpoint-fields}
-    + [Touchpoint Fields](advanced-bizible-features/touchpoint-fields-new/touchpoint-fields.md)
+    + [Touchpoint Fields](advanced-bizible-features/touchpoint-fields/touchpoint-fields.md)
   + Account Based Marketing {#account-based-marketing}
     + [Account Based Attribution](advanced-bizible-features/account-based-marketing/account-based-attribution.md)
     + [Account Based Marketing Overview](advanced-bizible-features/account-based-marketing/account-based-marketing-overview.md)

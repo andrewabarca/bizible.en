@@ -30,4 +30,3 @@ Because our marketing spend has historically only been in a single (USD) currenc
 1. The currency column will display “USD” as the assumed currency. You can either manually replace all the occurrences of “USD” or use Find+Replace to change all the “USD” instances to your own corporate currency, such as “EUR” or “GBP” for example.
 1. Save the file then upload it back into Bizible.
 1. All of your reported costs will now display as the new currency.
-

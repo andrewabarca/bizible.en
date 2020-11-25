@@ -14,4 +14,4 @@ When a touchpoint is deleted, it creates a hole in the attribution data. Typical
 
 ![](assets/1.png)
 
-If touchpoints have been deleted from your SFDC, please reach out to [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d1a2a4a1a1bea3a591b3b8abb8b3bdb4ffb2bebc)to request a reimport of your data.
+If touchpoints have been deleted from your SFDC, please reach out to support@bizible.com to request a reimport of your data.

@@ -6,9 +6,9 @@ title: Account Based Marketing Overview
 
 # Account Based Marketing Overview {#account-based-marketing-overview}
 
-Below is a brief overview of ABM, the components of Bizible's ABM feature, and how to add it to your Salesforce page layout. To read more about ABM, check out this [Bizible blog post](http://www.bizible.com/blog/what-is-account-based-marketing-everything-you-need-to-know).
+Below is a brief overview of ABM, the components of Bizible's ABM feature, and how to add it to your Salesforce page layout. To read more about ABM, check out this [Bizible blog post](https://www.bizible.com/blog/what-is-account-based-marketing-everything-you-need-to-know).
 
-To navigate directly to the instructions for setting up ABM within your Salesforce instance, please [click here](#setup).
+To navigate directly to the instructions for setting up ABM within your Salesforce instance, please [click here](/help/advanced-bizible-features/account-based-marketing/account-based-marketing-overview.md#setting-up-abm-page-layout-in-salesforce).
 
 ## What is ABM {#what-is-abm}
 
@@ -53,7 +53,8 @@ There are many components that go into the algorithm that calculates the PES. Re
 >
 >You may notice a grade of "N/A" or "-" (the dash symbol) in your Predictive Engagement Score for some Accounts.
 
-*A grade of "N/A" simply means that we do not have sufficient data yet on that account for our model to generate a true grade - with more data, a grade will be given eventually.* *A grade of "-" (the dash symbol) means that this account has yet to be processed by our ABM process, due to time constraints, occasionally missed processes, etc. If you believe an Account should have a grade, based on other similar accounts or timeframes, please reach out and let Bizible know.*
+_A grade of "N/A" simply means that we do not have sufficient data yet on that account for our model to generate a true grade - with more data, a grade will be given eventually._
+_A grade of "-" (the dash symbol) means that this account has yet to be processed by our ABM process, due to time constraints, occasionally missed processes, etc. If you believe an Account should have a grade, based on other similar accounts or timeframes, please reach out and let Bizible know._
 
 ## Setting up ABM Page Layout in Salesforce {#setting-up-abm-page-layout-in-salesforce}
 
@@ -73,15 +74,8 @@ To begin using the PES, you simply need to add the PES field and Related List to
 
    ![](assets/3.png)
 
-   You're all set!
+You're all set!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Bizible University: Account Based Marketing - Predictive Engagement Score](https://universityonline.marketo.com/courses/additional-features-1/#/page/5be3747e5b62f440323a4680)
->* [Edit_Page_Layout__Account_Layout___Salesforce_-_Unlimited_Edition.png](http://docs.marketo.com/display/biz/assets/edit-page-layout-account-layout-salesforce-unlimited-edition.png)
->* [Edit_Page_Layout__Account_Layout___Leads(account).png](http://docs.marketo.com/display/biz/assets/edit-page-layout-account-layout-leads-28account-29.png)
->* [LeadsABM.png](http://docs.marketo.com/display/biz/assets/leadsabm.png)
->
-

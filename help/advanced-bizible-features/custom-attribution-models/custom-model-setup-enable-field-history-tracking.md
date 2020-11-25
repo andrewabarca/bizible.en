@@ -30,9 +30,6 @@ To enable field history tracking, please follow the instructions below.
 
    Bizible can only re-import a record if it sees that the record has recently been modified. Formula fields technically do not modify a record when it changes since it does the calculation in the background. We have seen issues where a rule is skipped because Bizible did not see the record change, so it is advised to **not use formula fields in rule definitions**. The solution is to create a text field and use a workflow to populate that field with the proper value or calculation any time the record is edited or fits the criteria. This requires that all records get edited so the workflow can work retroactively on old records.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Custom Modeling & Custom Stages](https://universityonline.marketo.com/courses/additional-features-1/#/page/5c64c6ebac158965be68467c)
-

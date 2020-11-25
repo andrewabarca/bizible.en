@@ -20,11 +20,11 @@ In Dynamics, the customer can set static exchange rates in their Settings for mu
 
 ## Terms {#terms}
 
-| **Advanced Currency** |The customer has Advanced Currency Management and Multiple Currencies enabled, which means they can have different conversion rates for different time periods. |
+| **Term** |Description |
 |---|---|
+| **Advanced Currency** |The customer has Advanced Currency Management and Multiple Currencies enabled, which means they can have different conversion rates for different time periods. |
 | **Corporate Currency** |These are the various currencies that are listed and declared by an organization in the CRM, all with conversion rates. Bizible will import these values and make these currencies available to users within our product. |
 | **Currency Locale** |The single currency that is used for an organization, set on the Company Information page. |
 | **Local Currency (or User Currency)** |The currency set for a single user on the User Profile, so that they can view any amount in their own local currency. The organization will have had to declare and set up the currency before a user can select their local currency. |
 | **Single Currency** |Used for customers that do not use Multiple Currencies in the CRM, but their organization runs in a different currency, so they have a “Currency Locale.” This is still a single currency for the organization but without any conversion. |
 | **Simple Currency** |The customer has Multiple Currencies enabled, but they have a static conversion rate per currency. |
-

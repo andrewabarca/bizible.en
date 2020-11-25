@@ -118,7 +118,7 @@ The SAL-01 (Last) touchpoint from Lead 1 will be the next touchpoint to be inclu
 
 Lead 3's FT and LC, and the MQL, SQL and SAL touchpoint, will appear as a form touches on the Opportunity.
 
-Lead 2's SQL-01 (Last) touchpoint will not be included as a touchpoint on the Opp because it occurred after the OC touchpoint. Additionally, Lead 2's SQL stage transition occurred *after the final SAL stage transition*, and doesn't help drive the opportunity journey forward.
+Lead 2's SQL-01 (Last) touchpoint will not be included as a touchpoint on the Opp because it occurred after the OC touchpoint. Additionally, Lead 2's SQL stage transition occurred _after the final SAL stage transition_, and doesn't help drive the opportunity journey forward.
 
 ## Opportunity Scenarios {#opportunity-scenarios}
 
@@ -131,4 +131,3 @@ In this scenario, a customer has chosen to track the **Demo and Negotiation stag
 In this example, Contact 1's Demo and Negotiation Stage transitions are included as Demo-01 and Negotiation-01 touchpoints on the Opportunity. Contact 2's Demo stage transition occurs *after* Contact 1's, and appears as the Demo-02 (Last) touchpoint on the Opportunity.
 
 Notice that there isn't a second transition to the Negotiation stage; the Opportunity immediately jumps from Demo-02 (Last) moves to Close Won. In this case, Bizible will include the Negotiation transition with the Closed Won touchpoint.
-

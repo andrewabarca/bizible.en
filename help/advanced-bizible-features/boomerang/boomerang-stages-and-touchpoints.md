@@ -17,7 +17,7 @@ Bizible has released our Boomerang Stage feature! The Boomerang Stage feature wa
 
 >[!NOTE]
 >
->[Instructions on how to set up Boomerang Stages](http://docs.marketo.com/x/jwEgAQ).
+>[Instructions on how to set up Boomerang Stages](/help/advanced-bizible-features/boomerang/setting-up-boomerang-stages.md).
 
 ## What Boomerang Stages and Touchpoints Look like in Your CRM {#what-boomerang-stages-and-touchpoints-look-like-in-your-crm}
 
@@ -57,19 +57,19 @@ Boomerang Stages will impact:
 
 You can select up to 15 stages.
 
-Q: How many “boomerang” touchpoints can I have per stage?
+**Q: How many “boomerang” touchpoints can I have per stage?**
 
 You can select up to 10 boomerang touchpoints per stage.
 
-Q: Why are we only limited to 10 boomerangs per stage?
+**Q: Why are we only limited to 10 boomerangs per stage?**
 
 Bizible has to place a limit on the number of stages in order to keep processing times under control. If you choose to include all 15 Boomerang Stages in your attribution model, and 10 boomerang touchpoints per stage, you could potentially have over 150 touchpoints per Lead/Contact record.
 
-Q: I have Data Warehouse. Do I get all of the data or does the Boomerang Stages cap apply to me as well?
+**Q: I have Data Warehouse. Do I get all of the data or does the Boomerang Stages cap apply to me as well?**
 
 The cap will apply to Data Warehouse and CRMs because of the processing limits that Bizible has in place. Data Warehouse will also see the limit of 10 touchpoints per stage.
 
-Q: What is the benefit of using Boomerang Stages with Custom Modeling?
+**Q: What is the benefit of using Boomerang Stages with Custom Modeling?**
 
 Using Boomerang Stages with Custom Modelling will allow you to assign attribution weighting to Boomerang touchpoints, which will allocate revenue credit to these stages.
 
