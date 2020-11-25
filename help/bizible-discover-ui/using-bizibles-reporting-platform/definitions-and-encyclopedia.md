@@ -892,22 +892,28 @@ Click the aggregated numbers to drill down for base data details.
 
 **Marketing Ops FAQ**
 
-Q: Why is there both an ‘Account ID’ and ‘Account Name’ filter?  
+**Q: Why is there both an ‘Account ID’ and ‘Account Name’ filter?**
+
 A: While account IDs are unique, account names don’t have to be. For example, you could have created multiple different accounts for each business unit within an enterprise company. While using the account name may be more intuitive, to ensure you’re filtering for a specific account, you may want to use the account ID.
 
-Q: If I filter by Account ID, will all the tables by filtered?  
+**Q: If I filter by Account ID, will all the tables by filtered?**
+
 A: Yes, it will apply the filter to every tile in the board. For example, if your were to apply an account filter for ‘Microsoft,’ in the ‘Opportunities’ tile you will only see opportunities related to Microsoft.
 
-Q: What is the ‘Engagement Rating’ column?  
+**Q: What is the ‘Engagement Rating’ column?**
+
 A: The engagement rating pulls from Bizible’s Predictive Account Engagement Score, which is available in Bizible Tier 2. If you do not have this, this field will show up as null.
 
-Q: Can I change how the table is sorted?  
+**Q: Can I change how the table is sorted?**
+
 A: Yes, if you click any of the column headers, it will sort the table. If you click the same header again, it will reverse how the table is sorted.
 
-Q: Can I export the data?  
+**Q: Can I export the data?**
+
 A: Yes, when hovering over the tile title (e.g., ‘Accounts’), click on the three vertical dots in the upper right-hand corner. This will enable you to download the data for that tile in the following formats: TXT, CSV, XLS, JSON, HTML, and Markdown.
 
-Q: Can I see beyond 500 rows of data?  
+**Q: Can I see beyond 500 rows of data?**
+
 A: The tile is limited to displaying 500 rows at a time, but you can export the data and choose ‘All Results’ to see more than the 500 rows displayed.
 
 ## Journey {#journey}
@@ -1076,24 +1082,30 @@ Click Event Type to drill down to view event details.
 
 **Engagement Path FAQ**
 
-Q: How can I view a single person’s journey?  
+**Q: How can I view a single person’s journey?**
+
 A: Using either the ‘Lead ID/Email’ or ‘Contact ID/email’ filter, set the filter to ‘contains [email address]’ and then click ‘Run.’
 
-Q: What does the ‘Attribution Model’ filter affect?  
+**Q: What does the ‘Attribution Model’ filter affect?**
+
 A: The attribution model filter will affect the ‘Attributed Revenue’ column
 
-Q: What is the ‘Marketing Touch Type’ filter?  
+**Q: What is the ‘Marketing Touch Type’ filter?**
+
 A: The ‘Marketing Touch Type’ is the type of engagement, which can include Web Visit, Web Form, Web Chat, Email, Call, Left Message, or CRM (i.e., campaign membership for offline channels)
 
-Q: How do I filter out all the web sessions from the journey?  
+**Q: How do I filter out all the web sessions from the journey?**
+
 A: Using the ‘Marketing Touch Type’ filter, set the filter to ‘doesn’t contain Web Visit’ OR ‘contains [all touch types except Web Visit], and then click ‘Run’
 
-Q: Can I export the data?  
+**Q: Can I export the data?**
+
 A: Yes, when hovering over the ‘Journey of Events’ table, click on the three vertical dots in the upper right-hand corner. This will enable you to download the data in the following formats: TXT, CSV, XLS, JSON, HTML, and Markdown.
 
-Q: Can I change how the table is sorted?  
+**Q: Can I change how the table is sorted?**
+
 A: Yes, if you click any of the column headers, it will sort the table. If you click the same header again, it will reverse how the table is sorted. By default, the tables are sorted by Touchpoint Date starting with the oldest.
 
-Q: Can I see beyond 500 rows of data?  
-A: The tile is limited to displaying 500 rows at a time, but you can export the data and choose ‘All Results’ to see more than the 500 rows displayed.
+**Q: Can I see beyond 500 rows of data?**
 
+A: The tile is limited to displaying 500 rows at a time, but you can export the data and choose ‘All Results’ to see more than the 500 rows displayed.

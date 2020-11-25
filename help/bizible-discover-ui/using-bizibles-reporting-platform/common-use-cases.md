@@ -12,7 +12,9 @@ Below are some common ways to use Bizible Discover to gain valuable insights int
 
 To look at the revenue impact of your marketing efforts by channel, navigate to the Overview dashboard of Bizible Discover. By default, the chart and tiles will show closed-won revenue in the past 12 months broken down by marketing channel. This data can also be viewed in the CMO dashboard of the Role-Based Views.
 
-Tip: adjust the Metric filter above the board to view the chart and tables summarized by ROI, Spend, Pipeline Revenue, Deals, Opportunities, Contacts or Leads
+>[!TIP]
+>
+>Adjust the Metric filter above the board to view the chart and tables summarized by ROI, Spend, Pipeline Revenue, Deals, Opportunities, Contacts or Leads
 
 ## Closed Revenue {#closed-revenue}
 
@@ -70,9 +72,6 @@ You can also head to the Marketing Spend dashboard, where the main tile displays
 
 Change the Dimension filter to change the grouping to: Subchannel, Campaign, Advertiser, Ad Group, Keyword, Placement, or Site.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Introduction to Bizible Discover](https://universityonline.marketo.com/courses/bizible-discover/#/page/5c645586a7863a73ad3b23e6)
-

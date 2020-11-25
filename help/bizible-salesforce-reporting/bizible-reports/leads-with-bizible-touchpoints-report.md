@@ -25,4 +25,3 @@ Out of the box you have many reporting capabilities at your fingertips when it c
    ![](assets/4.jpg)
 
 1. Save and start building some reports!
-

@@ -22,7 +22,7 @@ Definition: Total revenue by month via bar chart and table. From there, it is po
 
 Definition: Total revenue by month via bar chart and table. Because the parent tile is already a bar chart, drill into Show Details will show a single month only.
 
-*Drill Into: Total revenue by month broken down by week or date.*
+_Drill Into: Total revenue by month broken down by week or date._
 
 **Spend**
 
@@ -74,7 +74,7 @@ Definition: Total revenue by month via bar chart and table. From there, it is po
 
 Definition: Total revenue by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total revenue by month broken down by week or date.*
+_Total revenue by month broken down by week or date._
 
 **Total Deals**
 
@@ -84,7 +84,7 @@ Definition: Total number of deals by month via bar chart and table. From there, 
 
 Definition: Total number of deals by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total number of deals by month broken down by week or date.*
+_Total number of deals by month broken down by week or date._
 
 **Total Pipeline Revenue**
 
@@ -94,7 +94,7 @@ Definition: Total pipeline revenue by month via bar chart and table. From there,
 
 Definition: Total pipeline revenue by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total pipeline revenue by month broken down by week or date.*
+_Total pipeline revenue by month broken down by week or date._
 
 ![](assets/4-1.png)
 
@@ -106,7 +106,7 @@ Definition: Total leads by month via bar chart and table. From there, it is poss
 
 Definition: Total leads by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total leads by month broken down by week or date.*
+_Total leads by month broken down by week or date._
 
 **Total Contacts**
 
@@ -116,7 +116,7 @@ Definition: Total contacts by month via bar chart and table. From there, it is p
 
 Definition: Total contacts by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total contacts by month broken down by week or date.*
+_Total contacts by month broken down by week or date._
 
 **Total Opportunities**
 
@@ -126,7 +126,7 @@ Definition: Total opportunities by month via bar chart and table. From there, it
 
 Definition: Total opportunities by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total opportunities by month broken down by week or date.*
+_Total opportunities by month broken down by week or date._
 
 ![](assets/5-1.png)
 
@@ -166,7 +166,7 @@ Definition: Total spend by month via bar chart and table. From there, it is poss
 
 Definition: Total spend by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total spend by month broken down by week, date, or time. Time is possible for spend since Bizible downloads actual spend by the minute from our ads connections.*
+_Total spend by month broken down by week, date, or time. Time is possible for spend since Bizible downloads actual spend by the minute from our ads connections._
 
 **Spend by Channel**
 
@@ -258,13 +258,13 @@ Definition: A list of Contact Ids with their corresponding Account Id
 
 Definition: A list of touchpoints from the selected month.
 
-*The number of touchpoints touched broken down by week, date, or time.*
+_The number of touchpoints touched broken down by week, date, or time._
 
 **Accounts Touched Over Time (chart)**
 
 Definition: A list of Account Ids from the selected month.
 
-*The number of accounts touched broken down by week, date, or time.*
+_The number of accounts touched broken down by week, date, or time._
 
 ## Web Analytics {#web-analytics}
 
@@ -330,7 +330,7 @@ Definition: A list of page URLs based on the number of page views from each URL.
 
 Definition: Total page views by month via bar chart and table. Because the parent tile is already a chart, drill into Show Details will show a single month only.
 
-*Total page views by month broken down by week, date, or time.*
+_Total page views by month broken down by week, date, or time._
 
 **Forms Over Time**
 
@@ -370,7 +370,7 @@ Definition: Total revenue by month via bar chart and table. From there, it is po
 
 Definition: Total revenue by month via bar chart and table. Because the parent tile is already a bar chart, drill into Show Details will show a single month only.
 
-*Total revenue by month broken down by week or date.*
+_Total revenue by month broken down by week or date._
 
 **Spend**
 
@@ -547,4 +547,3 @@ Definition: A list of ads based on calculated ROI for each ad, sorted by the Hig
 **Keywords by ROI**
 
 Definition: A list of keyword based on calculated ROI for each keyword, sorted by the Highest ROI. Drill in to see the revenue or spend by month for the selected keyword.
-

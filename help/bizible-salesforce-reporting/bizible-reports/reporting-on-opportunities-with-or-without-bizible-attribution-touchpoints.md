@@ -28,9 +28,6 @@ Create a new Report Type to include all Opportunities with or without Bizible At
 
    ![](assets/4-1.jpg)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Additional SFDC Reports](https://universityonline.marketo.com/courses/bizible-fundamentals-bizible-102/#/page/5c5cb68dfb384d0c9fb96cd0)
-
