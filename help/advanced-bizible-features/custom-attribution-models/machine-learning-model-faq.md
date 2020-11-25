@@ -22,7 +22,7 @@ Bizible calculates the importance of each custom stage by using the touchpoint d
 
 The final weight for a custom stage is calculated as such:
 
-***Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness Weight***
+**_Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness Weight_**
 
 At the end, all the custom stage weights are normalized and converted to % as shown below.
 

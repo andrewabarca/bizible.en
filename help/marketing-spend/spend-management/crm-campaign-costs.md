@@ -66,31 +66,30 @@ Any changes to the cost or distribution must be done in the CRM so that we can p
 
 3-4 hours
 
-I have the start date, end date, and cost filled out but why are my costs are still not showing up in Bizible?
+**I have the start date, end date, and cost filled out but why are my costs are still not showing up in Bizible?**
 
 Please check that you either have the Enable Bizible Touchpoint value set to “Include All Campaign Members” or at least “Include ‘Responded’ Campaign Members, or that you have created a custom Campaign Sync rule that includes this Campaign. If you’ve confirmed this and still do not see the Campaign, please reach out to Bizible Support so we can check that your Campaigns are importing properly.
 
-I need to change the distribution of my Campaign so that I can weight it heavier in certain months. How do I do that?
+**I need to change the distribution of my Campaign so that I can weight it heavier in certain months. How do I do that?**
 
 The distribution of the costs is purely based on an even distribution from the start date to the end date. Unfortunately, we can’t change it so that your costs have a different weighting aside from the dates set. You can control this by adjusting the start and end date of your campaign since each day in the month matters.
 
-I have costs set up on my Parent Campaign - how do the Children Campaigns get allocated the cost from the Parent Campaign?
+**I have costs set up on my Parent Campaign - how do the Children Campaigns get allocated the cost from the Parent Campaign?**
 
 Actually, the way that costs will be pulled in will be directly from a single campaign, regardless of any Parent or Child relationship. We advise that the cost go on the Children Campaigns, along with the dates of the campaign, then use the Parent as the umbrella campaign where the Parent Campaign would not get enabled for touchpoints.
 
-How do I change the cost for a month in Bizible?
+**How do I change the cost for a month in Bizible?**
 
 Because we rely on the CRM as the single source of truth, all changes need to be made in the CRM. Once the Campaign has been imported by Bizible, the Campaign values are not editable in Bizible or in the CSV file.
 
-In what scenario would a Campaign appear in the Marketing Spend table, then no longer appear?
+**In what scenario would a Campaign appear in the Marketing Spend table, then no longer appear?**
 
 We will continue to require that all three key fields have a value: Start Date, End Date, and Cost. Our default behavior is that we only import Campaigns with a value greater than $0. Ideally, we would import Campaigns where there is an explicit $0 and not import those that are left blank, but the Salesforce API imports them both as $0 regardless of the value. In addition, if the Enable Bizible Touchpoint value changes from “Include All” or “Include ‘Responded’” to “Exclude All,” we will remove the Campaign and the Cost from the Marketing Spend table.
 
-What cost would take priority if a row was already downloaded from the CRM and I entered another row in the CSV with the same campaign Id?
+**What cost would take priority if a row was already downloaded from the CRM and I entered another row in the CSV with the same campaign Id?**
 
 Although you may be able to successfully upload the file, Bizible will not use that row because we already have a campaign Id with the same value that was automatically pulled from the integration.
 
-How would you suggest we bring it costs from our Digital Campaigns that we set up in the CRM?
+**How would you suggest we bring it costs from our Digital Campaigns that we set up in the CRM?**
 
 Because our Bizible javascript is already tracking web activity from your site, we would advise against syncing any campaigns that track Campaign Members from web forms or other site activities since it will double count the touches. Because of that, you may want to continue using the CSV Upload option in Marketing Spend to track those online/digital costs if we aren’t already integrated with that platform (i.e. Twitter, Adroll).
-

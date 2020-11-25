@@ -18,10 +18,9 @@ Bizible recommends using Data Loader as a convenient option to update opportunit
 
 1. Copy and paste the values from your preferred revenue field into the Bizible Opportunity Amount field. Then, update these Opps using the .csv file.
 
-***Alternatively, you can go into Salesforce and use a custom list view to mass edit all the opportunities...***
+**_Alternatively, you can go into Salesforce and use a custom list view to mass edit all the opportunities..._**
 
 1. Create a Custom List view for all Opportunities.
-1. Add a filter for preferred revenue field is not blank *and* Bizible Opportunity Amount field is blank.
+1. Add a filter for preferred revenue field is not blank _and_ Bizible Opportunity Amount field is blank.
 1. Click **Mass Edit**, but don’t actually change anything.
 1. Click **Save**. This will trigger the workflow to populate the Bizible Opportunity Amount fields with the Software Revenue field.
-

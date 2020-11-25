@@ -6,13 +6,13 @@ title: A/B Testing Set Up and Reporting
 
 # A/B Testing Set Up and Reporting {#a-b-testing-set-up-and-reporting}
 
-The Bizible A/B Test integration allows you to track the revenue impact of your [Optimizely](http://optimizely.com/) and VWO site experiments. This article guides provides instructions on how to add Bizible A/B Test sections to the Lead, Contact, Case, and Opportunity page layouts. We will also cover general reporting practices and recommendations for running Bizible A/B report types.
+The Bizible A/B Test integration allows you to track the revenue impact of your [Optimizely](https://optimizely.com/) and VWO site experiments. This article guides provides instructions on how to add Bizible A/B Test sections to the Lead, Contact, Case, and Opportunity page layouts. We will also cover general reporting practices and recommendations for running Bizible A/B report types.
 
 ## Set Up {#set-up}
 
-Add the Bizible A/B Test sections on Lead, Contact, Case, and Opportunity. Bizible A/B Test integration allows you to track the revenue impact of your [Optimizely](http://optimizely.com/) and [VWO](http://vwo.com/) site experiments.
+Add the Bizible A/B Test sections on Lead, Contact, Case, and Opportunity. Bizible A/B Test integration allows you to track the revenue impact of your [Optimizely](https://optimizely.com/) and [VWO](https://vwo.com/) site experiments.
 
-1. Verify you are using package [Bizible v3.9 or later](http://bizible.com/sf). You can do this by going to Salesforce > Set Up > Installed packages.
+1. Verify you are using package [Bizible v3.9 or later](https://bizible.com/sf). You can do this by going to Salesforce > Set Up > Installed packages.
 1. Edit the Lead page layout and add the **Bizible A/B Tests** Related List to the page.
 
    ![](assets/1.png)
@@ -25,7 +25,7 @@ Add the Bizible A/B Test sections on Lead, Contact, Case, and Opportunity. Bizib
 
    ![](assets/3.png)
 
-1. Contact your Bizible rep or email [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#94e7e1e4e4fbe6e0d4f6fdeefdf6f8f1baf7fbf9) to enable the feature.
+1. Contact your Bizible rep or email support@bizible.com to enable the feature.
 
 ## Reporting {#reporting}
 
@@ -60,4 +60,3 @@ Here are some common fields we recommend using when reporting on A/B test to hel
 **Bizible A/B Test with Opportunity**
 
 ![](assets/6.png)
-

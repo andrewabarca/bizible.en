@@ -49,4 +49,3 @@ To enable Boomerang Stages for your account, you must be an Account Admin. Or, i
    >[!NOTE]
    >
    >Please allow 24-48 hours for your data to be reprocessed according to these changes.
-

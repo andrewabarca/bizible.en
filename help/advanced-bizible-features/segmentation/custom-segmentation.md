@@ -32,9 +32,9 @@ Step 3 - Understand the components.
 
 * Use this legend to understand the various icons found on this page
 
-![](assets/1.png)   
+![](assets/1.png)
   
-Step 4 - Add Filter Rules
+Step 4 - Add Filter Rules.
 
 * First, enter the category name. Business Type is an example. Click the check mark when you are finished. You need to enter a category name before you can add segments
 * Click the plus sign to add a segment
@@ -60,7 +60,7 @@ Step 4 - Add Filter Rules
     * You added all the segments you want to track within a category
     * The Save and Process button triggers Bizible to sync all your Touchpoints and apply the new information you added. This process takes 7 days and rules cannot be changed during this period
 
-***Additional Notes:***
+**_Additional Notes:_**
 
 If rules aren’t set up for both Leads/Contacts and Opportunities, you will see only a portion of your data. To elaborate, if you do not set up the Opportunities rules, you will only see Lead/Contact data without the Opportunities associated with it. The same is true if you do not set up rules for Leads/Contacts--you will only see Opportunities without the associated Leads/Contacts.
 
@@ -69,4 +69,3 @@ When you are done, click Save first, double check everything, and then click Sav
 **How do I save the generated reports?**
 
 You cannot save the generated reports directly in the user interface. However, Bizible saves the segment names in the URL so you can keep a record of each report by bookmarking the page.
-

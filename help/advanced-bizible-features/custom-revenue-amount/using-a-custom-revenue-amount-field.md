@@ -8,14 +8,14 @@ title: Using a Custom Revenue Amount Field
 
 By default, Bizible Attribution Touchpoints will pull the Opportunity Amount from one of two fields:
 
-* `Amount (SFDC Default)`
-* `Bizible Opportunity Amount (Custom)`
+* Amount (SFDC Default)
+* Bizible Opportunity Amount (Custom)
 
 If you are using a custom Amount field on your Opportunities, we will need to configure a workflow in order to calculate the Bizible Touchpoint Revenue. This takes some more advanced knowledge of Salesforce, so it may require assistance from your SFDC Admin.
 
 Starting off, we will need the following information:
 
-* `API Name of your Amount field`
+* API Name of your Amount field
 
 From here, we will start creating the workflow.
 
@@ -23,7 +23,7 @@ From here, we will start creating the workflow.
 
    ![](assets/1.jpg)
 
-1. Select **New Rule** and set the object as “Opportunity” and click **Next**.
+1. Select **New Rule**, set the object as “Opportunity” and click **Next**.
 
    ![](assets/2.jpg)
 
@@ -41,11 +41,10 @@ From here, we will start creating the workflow.
 
    ![](assets/6.png)
 
-1. You will be brought back to a roll-up page for your workflow, be sure to “Activate” and you’ll be good to go. To activate, click **Edit** next to your new workflow and then click **Activate**. 
+1. You will be brought back to a roll-up page for your workflow, be sure to “Activate” and you’ll be good to go. To activate, click **Edit** next to your new workflow and then click **Activate**.
 
    Once you’ve completed these steps, the opportunities will need to be updated in order to trigger the workflow to have the new value from the custom opportunity field.
 
-   This can be accomplished by running your opportunities through Data Loader within SFDC. Please find details on using Data Loader in [this article](http://docs.marketo.com/x/kwEgAQ).
+   This can be accomplished by running your opportunities through Data Loader within SFDC. Please find details on using Data Loader in [this article](/help/advanced-bizible-features/custom-revenue-amount/using-data-loader-to-update-bizible-custom-amount-field.md).
 
-If there are any questions along the way, please don’t hesitate to reach out to your Bizible Success Manager or [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d7a4a2a7a7b8a5a397b5beadbeb5bbb2f9b4b8ba).
-
+If there are any questions along the way, please don’t hesitate to reach out to your Bizible Success Manager or support@bizible.com.

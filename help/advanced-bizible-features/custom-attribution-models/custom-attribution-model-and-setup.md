@@ -18,7 +18,7 @@ Bizible's Custom Attribution model allows users to choose which touchpoints or c
 
    To start building your custom attribution model, you will need to select which stages are important to your Marketing team. In addition to Bizible's milestone stages (FT, LC, OC, Closed) you can add up to six additional Lead/Contact Statuses or Opportunity stages in your custom model. For example, it's common for the MQL stage to be included in the custom model. Marketing teams often want to know what efforts or channels are driving transitions to the MQL stage.
 
-   Sign into [apps.bizible.com](http://apps.bizible.com). Go to My Account > Settings > and under the CRM section, select **Stage Mapping**. 
+   Sign into [apps.bizible.com](http://apps.bizible.com). Go to My Account > Settings > and under the CRM section, select **Stage Mapping**.
 
    Once here, you will need to select which Leads/Contacts, and Opportunity stages to include by selecting the **Include in Model** box.
 
@@ -26,7 +26,7 @@ Bizible's Custom Attribution model allows users to choose which touchpoints or c
 
    >[!NOTE]
    >
-   >*All* Leads/Contacts and Opportunity stages will appear here, even if the stage is inactive or no longer used in Salesforce. If you want these stages removed, you'll need to hard delete them in Salesforce.
+   >_All_ Leads/Contacts and Opportunity stages will appear here, even if the stage is inactive or no longer used in Salesforce. If you want these stages removed, you'll need to hard delete them in Salesforce.
 
    When you've selected your stages, be sure to click the **Save & Process** button at the bottom of the page. The stages will now appear in the **Attribution Settings** tab and you'll be able to assign attribution percentages to each stage. Custom stages will also be displayed in the Marketing Performance Suite as a Lead or Opportunity stage within the Demand Waterfall.
 
@@ -40,7 +40,7 @@ Bizible's Custom Attribution model allows users to choose which touchpoints or c
    >
    >Don't forget to enable history tracking for custom fields.
 
-   [please click here.](http://docs.marketo.com/x/mQEgAQ)
+If a custom field is being used in your custom model, Field History tracking MUST be enabled in the CRM. For instructions on how to enable field history tracking, [please click here.](/help/advanced-bizible-features/custom-attribution-models/custom-model-setup-enable-field-history-tracking.md)
 
 1. Determine the attribution percentages for the custom model.
 
@@ -48,11 +48,9 @@ Bizible's Custom Attribution model allows users to choose which touchpoints or c
 
    In the far right column labeled "**Custom**," you can set the percentage weighting for each stage in your custom attribution model. Simply input the values for each stage under the Custom column. Then **Save and Reprocess** once complete.
 
-   To the left of the "Custom" column is **Bizible's Machine Learning model**. The Machine Learning model calculates attribution weighting based on the relative importance to winning a deal depending on what happened at each custom stage. For more information about the Machine Learning model, [please click here.](http://docs.marketo.com/x/lwEgAQ)
+   To the left of the "Custom" column is **Bizible's Machine Learning model**. The Machine Learning model calculates attribution weighting based on the relative importance to winning a deal depending on what happened at each custom stage. For more information about the Machine Learning model, [please click here](/help/advanced-bizible-features/custom-attribution-models/machine-learning-model-faq.md).
 
    ![](assets/3.png)
-
-When you've selected your stages, be sure to click the  button at the bottom of the page. The stages will now appear in the  tab and you'll be able to assign attribution percentages to each stage. Custom stages will also be displayed in the Marketing Performance Suite as a Lead or Opportunity stage within the Demand Waterfall.      If a custom field is being used in your custom model, Field History tracking MUST be enabled in the CRM. For instructions on how to enable field history tracking, 
 
 ## Touchpoint Positions {#touchpoint-positions}
 
@@ -74,9 +72,6 @@ As you can see below, we've included the Diligence stage as apart of our Funnel 
 >
 >The behavior for BAT custom models is to divide custom model middle touch percent evenly across other stages, provided there are no middle touches.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Custom Modeling and Custom Stages](https://universityonline.marketo.com/courses/additional-features-1/#/page/5c64c6ebac158965be68467c)
-
