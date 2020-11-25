@@ -191,4 +191,3 @@ Bizible’s Managed Solution comes with a number of stock Dashboards and Reports
   </tr> 
  </tbody> 
 </table>
-

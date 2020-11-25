@@ -59,14 +59,9 @@ To update the closed opportunities...
 1. Import file. Dynamics will recognize this as a file with existing records to update.
 1. Check for failures on import file.
 
-   >[!NOTE]
-   >
-   >The workflows outlined in this document are just one way to go about updating the fields so Bizible can show the correct data in Discover. If you have another way of accomplishing the same task, you can go for it. Basically what we need from them is some sort of workflow(s) that accomplish the following:
-   >
-   >    
-   >    
-   >    * If Opp = Open, update custom close date field, custom opp amount field, and bizible opp amount field to equal Estimated Close Date and Estimated Revenue, respectively.
-   >    * If Opp = Closed Won, update custom close date field, custom opp amount field, and Bizible opp amount field to equal Actual Close Date and Actual Revenue, respectively.
-   >    
-   >
-
+>[!NOTE]
+>
+>The workflows outlined in this document are just one way to go about updating the fields so Bizible can show the correct data in Discover. If you have another way of accomplishing the same task, you can go for it. Basically what we need from them is some sort of workflow(s) that accomplish the following:
+>
+> * If Opp = Open, update custom close date field, custom opp amount field, and bizible opp amount field to equal Estimated Close Date and Estimated Revenue, respectively.
+> * If Opp = Closed Won, update custom close date field, custom opp amount field, and Bizible opp amount field to equal Actual Close Date and Actual Revenue, respectively.

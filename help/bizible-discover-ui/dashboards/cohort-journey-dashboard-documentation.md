@@ -48,4 +48,3 @@ You can drill down from each bar to view the records for each stage.
 * For Known, it shows known visitor details.
 * For LC and Open Lead/Contact stages, it shows Lead/Contact details.
 * For OC, Open Opportunity stages, and Deals, it shows Opportunity details.
-

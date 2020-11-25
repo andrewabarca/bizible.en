@@ -86,4 +86,3 @@ Learn how to create custom Bizible Salesforce report types. There are three diff
 1. Ensure that the custom fields you wish to add to the report appear in the Field Layout Properties section. If there are any other fields you’d like to add, use the “Add fields related via lookup” option.
 
    ![](assets/11.png)
-

@@ -25,4 +25,3 @@ In order to report on Contacts with Bizible Touchpoints that are not associated 
    ![](assets/4.jpg)
 
 1. Click **Save** and you’re done!
-

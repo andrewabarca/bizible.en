@@ -38,9 +38,6 @@ Although this report might depend on your Opportunity Stages, this report will u
 
    This is an Opportunities report summarized by Marketing Channel measuring Closed Lost Opportunities across your channels. This report allows you to understand what Channels may be underperforming. Feel free to add in any filters or fields that you’d like to report on.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Additional SFDC Reports](https://universityonline.marketo.com/courses/bizible-fundamentals-bizible-102/#/page/5c5cb68dfb384d0c9fb96cd0)
-

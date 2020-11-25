@@ -88,6 +88,6 @@ This is not available for Dynamics customers
 
 You can enable a Marketing List but it needs to be related to a Campaign because the option to sync a Marketing List lives on the Campaign.
 
-Can we use Campaign Responses AND Marketing Lists on a Campaign?
+**Can we use Campaign Responses AND Marketing Lists on a Campaign?**
 
 Yes.

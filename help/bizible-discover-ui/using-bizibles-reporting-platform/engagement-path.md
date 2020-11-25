@@ -22,7 +22,7 @@ Engagement Path allows you to see a complete view of lead, contact, account, and
 
 **Email:** The email associated to the engagement
 
-**Marketing Touch Type:** Type of engagement(Web Visit, Web Form, Web Chat, CRM, Activity Types)
+**Marketing Touch Type:** Type of engagement (Web Visit, Web Form, Web Chat, CRM, Activity Types)
 
 **Channel:** Marketing channel which drove the engagement
 
@@ -122,4 +122,3 @@ Engagement Path allows you to see a complete view of lead, contact, account, and
   </tr> 
  </tbody> 
 </table>
-

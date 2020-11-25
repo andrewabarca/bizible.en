@@ -22,9 +22,6 @@ However, this report is showing the number of touchpoints related to James. With
 
 If you want to understand the 'count of contacts' you can then use the fields 'Count - First Touch', 'Count-Lead Creation Touch' or 'Count-U-Shaped' to understand how many contacts have had marketing interactions.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Bizible University: Stock SFDC Reports](https://universityonline.marketo.com/courses/bizible-fundamentals-bizible-102/#/page/5c5cb68dfb384d0c9fb96cc4)
-
