@@ -25,11 +25,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-crm-data.pdf"><img src="assets/crm-data-thumb.png"></a></p> 
+     <p><a href="https://experienceleague.corp.adobe.com/docs/bizible/assets/bizible-data-warehouse-crm-data.pdf"><img src="assets/crm-data-thumb.png"></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img src="assets/touchpoint-creation-data-thumb.png" ></a></p> 
+     <p><a href="https://experienceleague.corp.adobe.com/docs/bizible/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img src="assets/touchpoint-creation-data-thumb.png" ></a></p> 
     </div></td> 
   </tr> 
   <tr> 
@@ -39,11 +39,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img src="assets/touchpoint-attribute-data-thumb.png" ></a></p> 
+     <p><a href="https://experienceleague.corp.adobe.com/docs/bizible/assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img src="assets/touchpoint-attribute-data-thumb.png" ></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="http://docs.marketo.com/pages/assets/bizible-data-warehouse-spend-data.pdf"><img src="assets/spend-data-thumb.png" ></a></p> 
+     <p><a href="https://experienceleague.corp.adobe.com/docs/bizible/assets/bizible-data-warehouse-spend-data.pdf"><img src="assets/spend-data-thumb.png" ></a></p> 
     </div></td> 
   </tr> 
  </tbody> 
@@ -9946,258 +9946,51 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
 **How many Leads had sessions from Paid Search in 1-month?**
 
 ```
-select
-```
-
-```
-sum
-```
-
-```
-(tp.first_click_percentage)
-```
-
-```
-from
-```
-
-```
-biz_leads leads
-```
-
-```
-
-```
-
-```
-join
-```
-
-```
-biz_touchpoints tp
-```
-
-```
-
-```
-
-```
-on
-```
-
-```
-leads.Id = tp.Lead_Id
-```
-
-```
-
-```
-
-```
-join
-```
-
-```
-biz_user_touchpoints utp
-```
-
-```
-
-```
-
-```
-on
-```
-
-```
-tp.User_Touchpoint_Id = utp.Id
-```
-
-```
-where
-```
-
-```
-utp.touchpoint_date >=
-```
-
-```
-'2017-08-01'
-```
-
-```
-and
-```
-
-```
-utp.touchpoint_date <
-```
-
-```
-'2017-09-01'
-```
-
-```
-and
-```
-
-```
-utp.Channel
-```
-
-```
-like
-```
-
-```
+select sum (tp.first_click_percentage)
+from biz_leads leads
+  join biz_touchpoints tp
+    on leads.Id = tp.Lead_Id
+  join biz_user_touchpoints utp
+    on tp.User_Touchpoint_Id = utp.Id
+where utp.touchpoint_date >= '2017-08-01' and utp.touchpoint_date < '2017-09-01' and utp.Channel like
 'Paid Search%'
 ```
 
-How many sessions are there per Opportunity in Custom Model?
+**How many sessions are there per Opportunity in Custom Model?**
 
 ```
-select top
-```
-
-```
-100
-```
-
-```
-opps.Id, count(utp.*)
-```
-
-```
+select top 100 opps.Id, count(utp.*)
 from biz_opportunities opps
-```
-
-```
-
-```
-
-```
-inner join biz_attribution_touchpoints tp
-```
-
-```
-
-```
-
-```
-on opps.Id = tp.Opportunity_Id
-```
-
-```
-
-```
-
-```
-inner join biz_user_touchpoints utp
-```
-
-```
-
-```
-
-```
-on tp.User_Touchpoint_Id = utp.Id
-```
-
-```
-where tp.Custom_Model_Percentage >
-```
-
-```
-0
-```
-
-```
+  inner join biz_attribution_touchpoints tp
+    on opps.Id = tp.Opportunity_Id
+  inner join biz_user_touchpoints utp
+    on tp.User_Touchpoint_Id = utp.Id
+where tp.Custom_Model_Percentage > 0
 group by opps.Id
 ```
 
-What is the revenue per channel in Custom model per month?
+**What is the revenue per channel in Custom model per month?**
 
 ```
 select tp.Channel, extract(year from tp.Touchpoint_date) as year, extract(month from tp.Touchpoint_date) as month, sum(opps.Amount * tp.Custom_Model_percentage) as amountWithAttribution
-```
-
-```
 from biz_opportunities opps
+  join biz_attribution_touchpoints tp
+    on opps.Id = tp.Opportunity_Id
+group by tp.Channel, extract(year from tp.Touchpoint_date), extract(month from tp.Touchpoint_date) order by 1, 2, 3
 ```
 
-```
-
-```
-
-```
-join biz_attribution_touchpoints tp
-```
-
-```
-
-```
-
-```
-on opps.Id = tp.Opportunity_Id
-```
-
-```
-group by tp.Channel, extract(year from tp.Touchpoint_date), extract(month from tp.Touchpoint_date) order by
-```
-
-```
-1
-```
-
-```
-,
-```
-
-```
-2
-```
-
-```
-,
-```
-
-```
-3
-```
-
-How many anonymous sessions by channel?
+**How many anonymous sessions by channel?**
 
 ```
 select channel, count
-```
-
-```
 from biz_sessions
-```
-
-```
 group by channel
 ```
 
-What is the top landing page for Leads?
+**What is the top landing page for Leads?**
 
 ```
-select top
-```
-
-```
-5
-```
-
-```
-landing_page, count
-```
-
-```
+select top 5 landing_page, count
 from biz_sessions
-```
-
-```
 group by landing_page
 ```
-
