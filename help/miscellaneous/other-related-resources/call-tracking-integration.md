@@ -56,11 +56,11 @@ Touchpoint Type values that Bizible typically pushes are Web Visit, Web Form, or
 
 The Touchpoint Type is populated from the Task.Type field. If the Task.Type field is blank then Bizible will automatically set the Touchpoint Type as Web Visit. Once the Task.Type field is populated Bizible will read that value and populate the Touchpoint Type accordingly.
 
-What other fields does the Touchpoint populate from the phone call?
+**What other fields does the Touchpoint populate from the phone call?**
 
 Both the Touchpoint Type and Medium will contain the data that is pulled from the Task.Type. All other data points are pulled from the web tracking and javascript data.
 
-How come this phone call isn't tied to a web session?
+**Why is this phone call not tied to a web session?**
 
 First, check the Task to make sure there is a BizibleId populated. If there is no value, then we will not and cannot create a touchpoint for it. This will need to be escalated with CallTrackingMetrics.
 
@@ -72,4 +72,4 @@ If there is a value, note that we only consider all web sessions to be 30 minute
 
 Bizible currently has one official Call Tracking partner that has gone through the “official” integration process with us, which included co-marketing and product training. This one partner is CallTrackingMetrics.  
   
-If you are interested in your Call Tracking vendor working with Bizible, please have them reach out to [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4e3e3c212a3b2d3a0e2c2734272c222b602d2123).
+If you are interested in your Call Tracking vendor working with Bizible, please have them reach out to product@bizible.com.

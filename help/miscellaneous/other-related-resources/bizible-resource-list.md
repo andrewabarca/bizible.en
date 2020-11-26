@@ -12,32 +12,31 @@ Here are various links to pertinent articles/videos to help you get up and runni
 
 **General Knowledge**
 
-* [What is Marketing Attribution?](http://docs.marketo.com/display/BIZ/Marketing+Attribution)
-* [Bizible Attribution Models](http://docs.marketo.com/display/BIZ/Bizible+Attribution+Models)
+* [What is Marketing Attribution?](/help/introduction-to-bizible/overview-resources/marketing-attribution.md)
+* [Bizible Attribution Models](/help/introduction-to-bizible/overview-resources/bizible-attribution-models.md)
 
 **Configuration**
 
-* [Marketing Channel Setup, Best Practice](http://docs.marketo.com/display/BIZ/Marketing+Channels+and+Sub-Channels)
-* [Online Channel Setup](http://docs.marketo.com/display/BIZ/Online+Custom+Channel+Setup)
-* [Offline Channel Setup](http://docs.marketo.com/display/BIZ/Offline+Custom+Channel+Setup)
-* [What are UTM Parameters?](http://docs.marketo.com/display/BIZ/UTM+Parameters)
-* [UTM Best Practices](http://docs.marketo.com/display/BIZ/Best+Practices+for+Setting+Up+UTM+Parameters)
-* [Syncing SFDC Campaigns with Bizible Touchpoints](http://docs.marketo.com/display/BIZ/Campaigns+and+Campaign+Members)
-* [Uploading Marketing Spend](http://docs.marketo.com/display/BIZ/Marketing+Channel+Costs#MarketingChannelCosts-marketingcosts)
-* [Re-connect Ad Accounts](http://docs.marketo.com/display/BIZ/Reauthorizing+Connected+Accounts)
-* [Adding Bizible Javascript](http://docs.marketo.com/display/BIZ/Adding+Bizible+Script)
-    * [Adding Bizible Javascript to Different Form Providers](http://docs.marketo.com/display/BIZ/Adding+Bizible+Script+to+Different+Form+Providers)
-    * [Exclude Forms](http://docs.marketo.com/display/BIZ/Excluding+Bizible+from+Specific+Forms)
+* [Marketing Channel Setup, Best Practice](/help/channel-tracking-and-setup/online-channels/marketing-channels-and-sub-channels.md)
+* [Online Channel Setup](/help/channel-tracking-and-setup/online-channels/online-custom-channel-setup.md)
+* [Offline Channel Setup](/help/channel-tracking-and-setup/offline-channels/offline-custom-channel-setup.md)
+* [What are UTM Parameters?](/help/channel-tracking-and-setup/online-channels/utm-parameters.md)
+* [UTM Best Practices](/help/channel-tracking-and-setup/online-channels/best-practices-for-setting-up-utm-parameters.md)
+* [Syncing SFDC Campaigns with Bizible Touchpoints](/help/channel-tracking-and-setup/offline-channels/campaigns-and-campaign-members.md)
+* [Uploading Marketing Spend](/help/marketing-spend/spend-management/marketing-channel-costs.md#uploading-marketing-costs)
+* [Re-connect Ad Accounts](/help/api-connections/utilizing-bizibles-api-connections/reauthorizing-connected-accounts.md)
+* [Adding Bizible Javascript](/help/bizible-tracking/setting-up-tracking/adding-bizible-script.md)
+    * [Exclude Forms](/help/bizible-tracking/setting-up-tracking/excluding-bizible-from-specific-forms.md)
 
 **Reporting**
 
-* [Creating Custom Report Types with Bizible](http://docs.marketo.com/display/BIZ/Creating+Custom+Bizible+Report+Types) (if you need to report on custom Lead/Contact/Opportunity fields)
-* [Glossary of Bizible fields](http://docs.marketo.com/display/BIZ/Glossary+of+Bizible+Fields)
+* [Creating Custom Report Types with Bizible](/help/bizible-salesforce-reporting/new-report-types/creating-custom-bizible-report-types.md) (if you need to report on custom Lead/Contact/Opportunity fields)
+* [Glossary of Bizible fields](/help/introduction-to-bizible/overview-resources/glossary-of-bizible-fields.md)
 
 **Troubleshooting**
 
-* [Granting Bizible Support Access to SFDC](http://docs.marketo.com/display/BIZ/Granting+Salesforce+Access+to+Bizible+Support)
-* Email: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#196a6c6969766b6d597b7063707b757c377a7674) to open support tickets
+* [Granting Bizible Support Access to SFDC](/help/miscellaneous/other-related-resources/granting-salesforce-access-to-bizible-support.md)
+* Email: support@bizible.com to open support tickets
 
 ## Videos {#videos}
 
@@ -45,7 +44,8 @@ Here are a couple of videos to help you get up to speed:
 
 * [Bizible Intro Training](https://embed.vidyard.com/watch/Pb4DuWJwtFgw3jUBDGneb4) (22 mins)
 * [Bizible Reporting in SFDC](https://universityonline.marketo.com/courses/bizible-and-salesforce/) (30-45mins)
-* [Bizible 101](https://universityonline.marketo.com/courses/bizible-101/) (~30 minutes)
+
+**[Bizible 101](https://universityonline.marketo.com/courses/bizible-101/) (~30 minutes)**
 
 This course series is designed as a general introduction to the basic concepts you'll need to know to master Bizible. It provides an introduction to the concept of attribution, what Bizible does as a tool, and the general framework on which Bizible operates.
 
@@ -57,7 +57,7 @@ Topics covered:
 * Touchpoints
 * Attribution Models
 
-[**Bizible Reporting in SFDC**](http://universityonline.marketo.com/courses/bizible-and-salesforce/) **(~30-45 minutes)**
+**[Bizible Reporting in SFDC](https://universityonline.marketo.com/courses/bizible-and-salesforce/) (30-45 minutes)**
 
 This course series is designed as an introduction to the Bizible stock reports that have been installed into Salesforce. These reports act as the foundation for most reporting you'll do with Bizible data.
 
@@ -70,7 +70,7 @@ Topics covered:
 * Opportunities by ID Report
 * Opportunities by Channel Report
 
-[Channel Management](http://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/)**
+**[Channel Management](https://universityonline.marketo.com/courses/bizible-fundamentals-channel-management/)**
 
 This course covers various ways that you can customize Bizible, in terms of online and offline tracking. This course is more advanced, and may not be relevant to all users.
 
@@ -82,4 +82,4 @@ Topics covered:
 * Campaign and Campaign Member Fields
 * Offline Channel Management
 
-Here are all [beginner E-Learning videos](http://universityonline.marketo.com/#/library/bySubject/new-to-bizible/trails?_k=d1454j).
+Here are all [beginner E-Learning videos](https://universityonline.marketo.com/#/library/bySubject/new-to-bizible/trails?_k=d1454j).
