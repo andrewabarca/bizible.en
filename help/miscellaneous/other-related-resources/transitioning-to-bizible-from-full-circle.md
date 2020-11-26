@@ -39,4 +39,3 @@ That said, we certainly understand that many customers need this historic data; 
 ## In Summary {#in-summary}
 
 You’re in good company, and we’ve helped numerous other customers handle these changes. Work with your Bizible rep to understand the impacts above, as well as any other concerns you may have.
-

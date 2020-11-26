@@ -68,4 +68,3 @@ Bizible accepts the following values: Email Address, Salesforce Lead Id, or Sale
 And finally, within Bizible, you will need to specify the tracking parameter so that Bizible can locate the email or Id value. The default is “mailId” as shown in the examples above and the screenshot below. Enter the value into your Settings in Bizible, then click **Save**.
 
 ![](assets/one.png)
-

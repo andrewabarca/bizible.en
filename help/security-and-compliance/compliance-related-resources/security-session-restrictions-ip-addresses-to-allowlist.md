@@ -6,7 +6,7 @@ title: Security Session Restrictions - IP Addresses to Allowlist
 
 # Security Session Restrictions: IP Addresses to Allowlist {#security-session-restrictions-ip-addresses-to-allowlist}
 
-If there are [Session Security Settings](http://help.salesforce.com/articleView?id=admin_sessions.htm&type=0) in place preventing specific IP Addresses from pushing/pulling data to your Salesforce instance, we will need the following IPs allowlisted to allow Bizible to push data to Salesforce:
+If there are [Session Security Settings](https://help.salesforce.com/articleView?id=admin_sessions.htm&type=0) in place preventing specific IP Addresses from pushing/pulling data to your Salesforce instance, we will need the following IPs allowlisted to allow Bizible to push data to Salesforce:
 
 23.100.229.112/28  
 23.100.234.220  
@@ -21,4 +21,3 @@ If there are [Session Security Settings](http://help.salesforce.com/articleView?
 To add Bizible's IPs to the Trusted IP Ranges in Salesforce, click **Setup** > **Administration Setup** > **Security Controls** > **Network Access** > **New**.
 
 ![](assets/1.png)
-

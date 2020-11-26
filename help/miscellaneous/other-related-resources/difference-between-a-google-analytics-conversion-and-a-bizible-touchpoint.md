@@ -8,7 +8,7 @@ title: Difference between a Google Analytics Conversion and a Bizible Touchpoint
 
 Learn what a Google Analytics (GA) goal is and how it differentiates from a Bizible Touchpoint.
 
-**What are Google Analytic's Conversions?**
+**What are Google Analytics' Conversions?**
 
 Google Analytics conversions are completely determined by how a marketer or a web developer codes 'goal' completions on a particular website. Goals, according to Google could be thought of as "making a purchase (for an ecommerce site), completing a game level (for a mobile gaming app), or submitting a contact information form (for a marketing or lead generation site)." Most of the time, marketers see goals/conversions as someone filling out an informational form.
 

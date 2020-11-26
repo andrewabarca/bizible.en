@@ -15,4 +15,3 @@ Luckily, this is an easy fix.
 1. Scroll down and click **Save**.
 
    Keep in mind that Google Analytics does not reprocess data. Therefore this change will only be reflected moving forward, and your past data will still show with the bt, bk, and bm parameters.
-
