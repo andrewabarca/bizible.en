@@ -3337,7 +3337,7 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
 
 ## Sample queries {#sample-queries}
 
-*How many Leads had sessions from Paid Search in 1-month?*
+_How many Leads had sessions from Paid Search in 1-month?_
 
 select sum(tp.first_click_percentage)
 
@@ -3353,7 +3353,7 @@ on tp.User_Touchpoint_Id = utp.Id
 
 where utp.touchpoint_date >= '2017-08-01' and utp.touchpoint_date < '2017-09-01' and utp.Channel like 'Paid Search%'
 
-*How many sessions are there per Opportunity in Custom Model?*
+_How many sessions are there per Opportunity in Custom Model?_
 
 select top 100 opps.Id, count(utp.&#42;)
 
@@ -3371,7 +3371,7 @@ where tp.Custom_Model_Percentage > 0
 
 group by opps.Id
 
-*What is the revenue per channel in Custom model per month?*
+_What is the revenue per channel in Custom model per month?_
 
 select tp.Channel, extract(year from tp.Touchpoint_date) as year, extract(month from tp.Touchpoint_date) as month, sum(opps.Amount &#42; tp.Custom_Model_percentage) as amountWithAttribution
 
@@ -3383,7 +3383,7 @@ on opps.Id = tp.Opportunity_Id
 
 group by tp.Channel, extract(year from tp.Touchpoint_date), extract(month from tp.Touchpoint_date) order by 1, 2, 3
 
-*How many anonymous sessions by channel?*
+_How many anonymous sessions by channel?_
 
 select channel, count
 
@@ -3391,7 +3391,7 @@ from biz_sessions
 
 group by channel
 
-*What is the top landing page for Leads?*
+_What is the top landing page for Leads?_
 
 select top 5 landing_page, count
 

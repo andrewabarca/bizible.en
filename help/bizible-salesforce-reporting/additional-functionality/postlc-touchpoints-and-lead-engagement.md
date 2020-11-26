@@ -16,7 +16,7 @@ You can adjust the number of PostLC touchpoints that will be displayed in SFDC. 
 >
 >Instructions for how to adjust PostLC touchpoint settings can be found at the end of this article.
 
-PostLC touchpoints are dynamic. As a Lead or Contact continues to submit PostLC forms, Bizible will update the PostLC touchpoints in your CRM to show you their most recent form submissions. Specifically, if you've set a limit of 5 PostLC touchpoints, Bizible always push the 5 *most recent*touchpoints to your CRM.  In this example, this account has set their PostLC limit to four touchpoints. This Lead has already reached maximum number of PostLC touchpoints it can have in your CRM. The last PostLC touch was on 2/6/2018. If this person were to fill out another form the following day, Bizible will remove the first PostLC touchpoint from 11/9/2017 in order to add the latest touchpoint from 2/7/2018.
+PostLC touchpoints are dynamic. As a Lead or Contact continues to submit PostLC forms, Bizible will update the PostLC touchpoints in your CRM to show you their most recent form submissions. Specifically, if you've set a limit of 5 PostLC touchpoints, Bizible always push the 5 _most recent_ touchpoints to your CRM.  In this example, this account has set their PostLC limit to four touchpoints. This Lead has already reached maximum number of PostLC touchpoints it can have in your CRM. The last PostLC touch was on 2/6/2018. If this person were to fill out another form the following day, Bizible will remove the first PostLC touchpoint from 11/9/2017 in order to add the latest touchpoint from 2/7/2018.
 
 ![](assets/2.png)
 
@@ -30,17 +30,20 @@ To adjust the PostLC touchpoint settings for your Leads or Contacts, please foll
 
 **Leads**
 
-1. Log-in to your Bizible account at [apps.bizible.com](http://apps.bizible.com) and go to Settings.
+1. Log-in to your Bizible account at [apps.bizible.com](https://apps.bizible.com) and go to Settings.
+
 1. Under CRM, Select **Leads**.
+
 1. Input the number of postLC touchpoints you'd like to push to your Leads and click **Save**.
 
    ![](assets/3.png)
 
 **Contacts**
 
-1. Log-in to your Bizible account at [apps.bizible.com](http://apps.bizible.com) and go to Settings.
+1. Log-in to your Bizible account at [apps.bizible.com](https://apps.bizible.com) and go to Settings.
+
 1. Under CRM, Select **Contacts**.
+
 1. Input the number of postLC touchpoints you'd like to push to your Contacts and click **Save**.
 
    ![](assets/4.png)
-

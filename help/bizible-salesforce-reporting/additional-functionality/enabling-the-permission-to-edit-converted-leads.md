@@ -22,4 +22,3 @@ Learn how to enable the permission to edit converted lead records in Salesforce.
    ![](assets/3-1.png)
 
    And you're done!
-
