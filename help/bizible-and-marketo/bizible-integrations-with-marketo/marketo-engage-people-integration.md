@@ -102,24 +102,24 @@ When reporting on leads (people) in Bizible Discover, you'll see the total of yo
 
 Because this integration allows us to create touchpoints for leads that we’ve imported directly from Marketo, there may be leads that didn’t get synced to the CRM so therefore the count within Discover could be higher than the CRM since touchpoints are only pushed for the CRM Leads.
 
-How does this replace my data?
+**How does this replace my data?**
 
 This integration actually merges the data sets within your current Bizible instance so nothing is getting replaced. What we would expect from your current CRM Leads is that when we download the 2 years worth of Marketo Leads, we would simply update that Lead record to show that there was also a match to a Marketo Lead. That all happens in the backend and the touchpoints are expected to remain the same. We would also expect that we'd see more touchpoints because of the eligible Marketo Leads. If we're able to find web sessions matched to those Marketo people, we'll start seeing the touchpoints counted in Bizible.
 
-Can I only have my people downloaded from Marketo and cut off the CRM connection?
+**Can I only have my people downloaded from Marketo and cut off the CRM connection?**
 
 At this time, no. We’ll have this option in the future, but we need to build out other phases of this Marketo integration so that we can connect the programs, opportunities and deals from Marketo to Bizible.
 
-Do you import ALL of my Marketo people?
+**Do you import ALL of my Marketo people?**
 
 At the moment, the earliest we will import people is from 1/1/2018 so that we have a minimum of 2 years of data, which is the same behavior we enforce from CRM downloads. We will implement improved behavior to download a rolling 2 year window once the Marketo connection has been established.
 
 We also don’t filter for any people types, so all people within the two-year window will get imported and are eligible for touchpoints.
 
-What is SOLR and why do I need to have it enabled to use this feature?
+**What is SOLR and why do I need to have it enabled to use this feature?**
 
 Enabling SOLR for your Marketo instance is a trivial step that opens up hardware space in Marketo so that your subscription can utilize the Bizible integration. Without SOLR enabled, we don’t have access to certain calls that would otherwise allow us to download the appropriate people from your Marketo instance.
 
-How long will it take to import all historical Marketo People?
+**How long will it take to import all historical Marketo People?**
 
 The time will vary depending on how many API credits are allocated to the Bizible integration. We recommend 20000 API calls out of the maximum of 50000 allocated to each Marketo instance. It also varies based on the number of Marketo People that we're importing. That said, we have seen it can range anywhere between 2-10 days.
