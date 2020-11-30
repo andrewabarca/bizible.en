@@ -119,7 +119,7 @@ No action is required to create a new profile or setup anything specific within 
 
 >[!NOTE]
 >
->This section only applies to those provisioned _before_ 12/7/2020. If you were provisioned prior to 12/7/2020, you will not see a Bizible Product Card, and the steps below are required in the Adobe Admin Console for User Management. For those provisioned after 12/7/2020, please refer to the 'Setting Up the Bizible Product Card' section instead.
+>This section only applies to those provisioned _before_ 12/7/2020. If you were provisioned prior to 12/7/2020, you will not see a Bizible Product Card, and the steps below are required in the Adobe Admin Console for User Management. For those provisioned after 12/7/2020, please instead refer to the 'Setting Up the Bizible Product Card' section above.
 
 1. Navigate to https://adminconsole.adobe.com/overview.
 
