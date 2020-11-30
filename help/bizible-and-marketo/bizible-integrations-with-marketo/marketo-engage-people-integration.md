@@ -94,7 +94,7 @@ When reporting on leads (people) in Bizible Discover, you'll see the total of yo
  </tbody> 
 </table>
 
-**&#42;**There is a known behavioral issue where fields from the Marketo Company entity do not impact the Person’s updatedAt value, so if relevant fields such as Website or Company are updated, Bizible will not know that those values are modified because the updatedAt date/time value is not updated. This impacts the ABM feature, where we wouldn’t have fresh data to resolve the Account for the lead. There is no workaround at the moment, but there are plans to address this in the future.
+*There is a known behavioral issue where fields from the Marketo Company entity do not impact the Person’s updatedAt value, so if relevant fields such as Website or Company are updated, Bizible will not know that those values are modified because the updatedAt date/time value is not updated. This impacts the ABM feature, where we wouldn’t have fresh data to resolve the Account for the lead. There is no workaround at the moment, but there are plans to address this in the future.
 
 ## FAQ {#faq}
 
