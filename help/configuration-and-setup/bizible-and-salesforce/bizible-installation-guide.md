@@ -38,15 +38,35 @@ We will be installing two packages within your Salesforce environment and then c
 
 The first step to using Bizible is to create and sign-in to your provisioned Adobe Admin Console. If you haven't already received the email with log-in instructions, please contact your Bizible Account Representative.
 
-As a product within the Adobe Suite, Bizible leverages the full functionality of Adobe Admin Console for Identity Management.  More resources can be found here: https://helpx.adobe.com/enterprise/using/admin-console.html
+As a product within the Adobe Suite, Bizible leverages the full functionality of Adobe Admin Console for Identity Management. More resources can be found here: https://helpx.adobe.com/enterprise/using/admin-console.html.
 
-We recommend reviewing all of the resources, best practices, and options available to you for Identity Management: https://helpx.adobe.com/enterprise/using/set-up-identity.html
+We recommend reviewing all of the resources, best practices, and options available to you for Identity Management: https://helpx.adobe.com/enterprise/using/set-up-identity.html.
 
 For guidance and review of setting up your Identity Management within the Adobe Admin Console, please reach out to your Bizible Account Representative.
 
-In order to facilitate user authentication and authorization with your Bizible instance(s), the following steps are required within the Adobe Admin Console to setup the appropriate User Groups.
+In order to facilitate user authentication and authorization with your Bizible instance(s), the following steps are required within the Adobe Admin Console:
+
+**Setting Up the Bizible Product Card**
+
+>[!NOTE]
+>
+>This section applies to those provisioned _after_ 12/7/2020. For those provisioned prior to this date, please make sure you follow the steps to setup Global User Groups in the 'Setting up User Groups in the Adobe Admin Console' section below.
+
+Upon accessing the Adobe Admin Console, you will see your Bizible Product instance(s) present in the Overview section.
+
+   ![](assets/bizible-installation-guide-1a.png)
+
+Clicking the Bizible Product Card will show you all of your Bizible instance(s). By default, each Bizible Instance has its own profile, called 'Bizible'. Any Admins or Users added to this or any other profile within this instance will be able to log-in to Bizible.
+
+   ![](assets/bizible-installation-guide-1b.png)
+
+No action is required to create a new profile or setup anything specific within the Bizible Product instance(s). To begin adding users who can access Bizible, please refer to the section below 'Adding Bizible Admins and Bizible Users'.
 
 **Setting up User Groups in the Adobe Admin Console**
+
+>[!NOTE]
+>
+>This section only applies to those provisioned _before_ 12/7/2020. If you were provisioned prior to 12/7/2020, you will not see a Bizible Product Card, and the steps below are required in the Adobe Admin Console for User Management. For those provisioned after 12/7/2020, please refer to the 'Setting Up the Bizible Product Card' section instead.
 
 1. Navigate to https://adminconsole.adobe.com/overview.
 
