@@ -86,10 +86,11 @@ Bizible points to the standard Actual Revenue field by default. If you are not u
 **Close Date**
 
 Bizible points to the Actual Close Date field out of the box. If you are not using this or also use the Estimated Close Date field, please explain your process to your Solutions Engineer or Success Manager. A custom workflow may be need to account for both fields.
+<br>&nbsp;
 
 ## Set up Your Adobe Admin Console and Identity Provider {#set-up-your-adobe-admin-console-and-identity-provider}
 
-The first step to using Bizible is to create and sign-in to your provisioned Adobe Admin Console. If you haven't already received the email with log-in instructions, please contact your Bizible Account Representative.
+The first step to using Bizible is to create and sign-in to your provisioned Adobe Admin Console. If you haven't already received the email with log in instructions, please contact your Bizible Account Representative.
 
 As a product within the Adobe Suite, Bizible leverages the full functionality of Adobe Admin Console for Identity Management. More resources can be found here: https://helpx.adobe.com/enterprise/using/admin-console.html.
 
@@ -109,11 +110,13 @@ Upon accessing the Adobe Admin Console, you will see your Bizible Product instan
 
    ![](assets/microsoft-dynamics-crm-installation-guide-8a.png)
 
-Clicking the Bizible Product Card will show you all of your Bizible instance(s). By default, each Bizible Instance has its own profile, called 'Bizible'. Any Admins or Users added to this or any other profile within this instance will be able to log-in to Bizible.
+Clicking the Bizible Product Card will show you all of your Bizible instance(s). By default, each Bizible Instance has its own profile, called 'Bizible'. Any Admins or Users added to this or any other profile within this instance will be able to log in to Bizible.
 
    ![](assets/microsoft-dynamics-crm-installation-guide-8b.png)
 
-No action is required to create a new profile or setup anything specific within the Bizible Product instance(s). To begin adding users who can access Bizible, please refer to the section below 'Adding Bizible Admins and Bizible Users'.
+No action is required to create a new profile or setup anything specific within the Bizible Product instance(s).
+
+To begin adding users who can access Bizible, please refer to the [Adding Bizible Admins and Bizible Users](#adding-bizible-admins-and-bizible-users) section below.
 
 **Setting up User Groups in the Adobe Admin Console**
 
@@ -149,18 +152,24 @@ No action is required to create a new profile or setup anything specific within 
 
 Now learn how to add people to these groups...
 
-## Adding Users to the Admin Console User Groups {#adding-users-to-the-admin-console-user-groups}
+## Adding Bizible Admins and Bizible Users {#adding-bizible-admins-and-bizible-users}
 
-After you've created User Groups, the next step is to grant access to the Bizible application by adding users.
+After you've created User Groups or have the Default Product Profile set up in your Bizible instance(s), the next step is to grant access to the Bizible application by adding users. This can be done in the admins and users directory of the Bizible product card.
 
-|User Group | Description |
-|--- | --- |
-|**BizibleAdmins** |these are administrators and power users of the Bizible Application with full ability to update and manage Bizible-specific configuration options |
-|**BizibleUsers** |these are standard users of the Bizible Application with read only permissions within the Bizible application |
+>[!NOTE]
+>
+>If you were provisioned prior to 12/7/2020, users must be added to one of the two groups created here. This is where all Users who wish to access Bizible must be added, including Adobe Admin Console Administrators.
 
-When adding a user to their respective group, you'll see their [Identity Type listed](http://helpx.adobe.com/enterprise/using/set-up-identity.html).
+|User Group|Description|
+|---|---|
+|BizibleAdmins|these are administrators and power users of the Bizible Application with full ability to update and manage Bizible-specific configuration options|
+|BizibleUsers|these are standard users of the Bizible Application with read only permissions within the Bizible application|
 
-After a user has been added to a group, they're able to access the Bizible instance by choosing the Sign in with Adobe ID option at https://apps.bizible.com.
+When adding a user to their respective group, you'll see their [Identity Type listed](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/set-up-identity.ug.html).
+
+**Signing in to Bizible**
+
+After a user has been added to a group or a Product Profile, they're able to access their Bizible instance(s) by choosing the **Sign in with Adobe ID** option at [https://apps.bizible.com](https://apps.bizible.com).
 
    ![](assets/microsoft-dynamics-crm-installation-guide-15.png)
 
