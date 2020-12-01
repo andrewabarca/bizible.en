@@ -158,7 +158,7 @@ After you've created User Groups or have the Default Product Profile set up in y
 
 >[!NOTE]
 >
->If you were provisioned prior to 12/7/2020, users must be added to one of the two groups created here. This is where all Users who wish to access Bizible must be added, including Adobe Admin Console Administrators.
+>If you were provisioned prior to 12/7/2020, users must be added to one of the two groups created here. This is where all users who wish to access Bizible must be added, including Adobe Admin Console Administrators.
 
 |User Group|Description|
 |---|---|
