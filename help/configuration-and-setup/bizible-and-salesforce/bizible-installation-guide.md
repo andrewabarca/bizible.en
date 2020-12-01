@@ -33,14 +33,15 @@ We will be installing two packages within your Salesforce environment and then c
 [Hide Report Types](/help/configuration-and-setup/bizible-and-salesforce/hiding-unnecessary-report-types.md): Many of the Report Types we create within our product are not needed. To avoid confusion when learning to report on the product, we recommend hiding those that you don't need.
 
 [Custom Amount Field Workflow](/help/advanced-bizible-features/custom-revenue-amount/using-a-custom-revenue-amount-field.md) (if necessary): If you are using a custom amount field to record revenue in Salesforce, we will need a workflow created to map this field value to our Bizible Opportunity Amount field for revenue attribution reporting. Please be sure to let your Success Manager know if you're using a custom amount.
+<br>&nbsp;
 
 ## Set up Your Adobe Admin Console and Identity Provider {#set-up-your-adobe-admin-console-and-identity-provider}
 
-The first step to using Bizible is to create and sign-in to your provisioned Adobe Admin Console. If you haven't already received the email with log-in instructions, please contact your Bizible Account Representative.
+The first step to using Bizible is to create and sign-in to your provisioned Adobe Admin Console. If you haven't already received the email with log in instructions, please contact your Bizible Account Representative.
 
-As a product within the Adobe Suite, Bizible leverages the full functionality of Adobe Admin Console for Identity Management. More resources can be found here: https://helpx.adobe.com/enterprise/using/admin-console.html.
+As a product within the Adobe Suite, Bizible leverages the full functionality of Adobe Admin Console for Identity Management. More resources can be found here: [https://helpx.adobe.com/enterprise/using/admin-console.html](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
-We recommend reviewing all of the resources, best practices, and options available to you for Identity Management: https://helpx.adobe.com/enterprise/using/set-up-identity.html.
+We recommend reviewing all of the resources, best practices, and options available to you for Identity Management: [https://helpx.adobe.com/enterprise/using/set-up-identity.html](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 For guidance and review of setting up your Identity Management within the Adobe Admin Console, please reach out to your Bizible Account Representative.
 
@@ -56,11 +57,13 @@ Upon accessing the Adobe Admin Console, you will see your Bizible Product instan
 
    ![](assets/bizible-installation-guide-1a.png)
 
-Clicking the Bizible Product Card will show you all of your Bizible instance(s). By default, each Bizible Instance has its own profile, called 'Bizible'. Any Admins or Users added to this or any other profile within this instance will be able to log-in to Bizible.
+Clicking the Bizible Product Card will show you all of your Bizible instance(s). By default, each Bizible Instance has its own profile, called 'Bizible'. Any Admins or Users added to this or any other profile within this instance will be able to log in to Bizible.
 
    ![](assets/bizible-installation-guide-1b.png)
 
-No action is required to create a new profile or setup anything specific within the Bizible Product instance(s). To begin adding users who can access Bizible, please refer to the section below 'Adding Bizible Admins and Bizible Users'.
+No action is required to create a new profile or setup anything specific within the Bizible Product instance(s).
+
+To begin adding users who can access Bizible, please refer to the [Adding Bizible Admins and Bizible Users](#adding-bizible-admins-and-bizible-users) section below.
 
 **Setting up User Groups in the Adobe Admin Console**
 
@@ -98,9 +101,13 @@ No action is required to create a new profile or setup anything specific within 
 
    ![](assets/bizible-installation-guide-7.png)
 
-## Adding Users to the Admin Console User Groups {#adding-users-to-the-admin-console-user-groups}
+## Adding Bizible Admins and Bizible Users {#adding-bizible-admins-and-bizible-users}
 
-After you've created User Groups, the next step is to grant access to the Bizible application by adding users.
+After you've created User Groups or have the Default Product Profile set up in your Bizible instance(s), the next step is to grant access to the Bizible application by adding users. This can be done in the admins and users directory of the Bizible product card.
+
+>[!NOTE]
+>
+>If you were provisioned prior to 12/7/2020, users must be added to one of the two groups created here. This is where all users who wish to access Bizible must be added, including Adobe Admin Console Administrators.
 
 |User Group|Description|
 |---|---|
@@ -109,9 +116,13 @@ After you've created User Groups, the next step is to grant access to the Bizibl
 
 When adding a user to their respective group, you'll see their [Identity Type listed](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/set-up-identity.ug.html).
 
-After a user has been added to a group, they're able to access the Bizible instance by choosing the Sign in with Adobe ID option at https://apps.bizible.com.
+**Signing in to Bizible**
+
+After a user has been added to a group or a Product Profile, they're able to access their Bizible instance(s) by choosing the **Sign in with Adobe ID** option at [https://apps.bizible.com](https://apps.bizible.com).
 
    ![](assets/bizible-installation-guide-8.png)
+
+<br>&nbsp;
 
 ## Configuring your Connections and Data Providers {#configuring-your-connections-and-data-providers}
 
