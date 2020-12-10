@@ -83,3 +83,7 @@ This is the expected behavior due to the fact that we don't have costs segmented
 **Why don’t all Segment options appear for my Category filters?**
 
 Only the Segments that have valid records mapped to them will show up in the Segments filter. For example, if there are no records with the segment “Other,” then “Other” will not show up as an option.
+
+**Does Bizible Discover support the GB18030 character set?**
+
+Discover utilizes third party tools and does not support the GB18030 character set at this time.
