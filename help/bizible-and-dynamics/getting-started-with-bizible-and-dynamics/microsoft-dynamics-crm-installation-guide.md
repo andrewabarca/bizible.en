@@ -167,6 +167,10 @@ After you've created User Groups or have the Default Product Profile set up in y
 
 When adding a user to their respective group, you'll see their [Identity Type listed](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/set-up-identity.ug.html).
 
+>[!NOTE]
+>
+>In order to be a Bizible administrator (in apps.bizible.com), a user must be added as a User _and_ an Admin to any Bizible product profile within the Bizible product card.
+
 **Signing in to Bizible**
 
 After a user has been added to a group or a Product Profile, they're able to access their Bizible instance(s) by choosing the **Sign in with Adobe ID** option at [https://apps.bizible.com](https://apps.bizible.com).
