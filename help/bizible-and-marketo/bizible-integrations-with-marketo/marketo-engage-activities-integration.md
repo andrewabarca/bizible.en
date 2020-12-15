@@ -36,6 +36,7 @@ As part of the overall Bizible and Marketo Engage Integration, this effort to pu
    ![](assets/four-1.png)
 
 1. For each Activity Type, you’ll need to define one or more rules that determine which records are eligible for touchpoints. For our example, we will add a rule for the “Change Score” activity type so that the system will create a touchpoint when a Marketo Person reaches a score of 90 or greater.
+
 1. First, depending on the Activity Type, you may need to set up a Bizible Campaign Name that can be used later on for channel mapping. Bizible Campaign Names can be re-used across multiple rules. This helps have broader names that can be used in a single channel rule. Not all Activity Types contain a Marketo Program, hence the need for a name as this first step.
 
    Here’s an example of what that extra step would look like:
@@ -147,9 +148,9 @@ Custom Activity (xxx)
 
 ## Channel Mapping {#channel-mapping}
 
-For any of the rules from an Activity Type with a Program Id, the Marketo Program Channel is determined from the Program. We use the Program Channel to map to your custom Offline Channels, so you’ll need to make sure your channels are configured properly [as instructed here](http://docs.marketo.com/display/BIZ/Marketo+Engage+Programs+Integration#MarketoEngageProgramsIntegration-ChannelMapping).   
+For any of the rules from an Activity Type with a Program Id, the Marketo Program Channel is determined from the Program. We use the Program Channel to map to your custom Offline Channels, so you’ll need to make sure your channels are configured properly [as instructed here](http://docs.marketo.com/display/BIZ/Marketo+Engage+Programs+Integration#MarketoEngageProgramsIntegration-ChannelMapping).
   
-And for any of the rules from an Activity Type without a Program Id, your first step was to create a Campaign Name. Use this Campaign Name to set up your custom Online Channels [laid out here](http://docs.marketo.com/x/5AAgAQ).   
+And for any of the rules from an Activity Type without a Program Id, your first step was to create a Campaign Name. Use this Campaign Name to set up your custom Online Channels [laid out here](http://docs.marketo.com/x/5AAgAQ).
   
 If Channels for your Marketo Activities aren’t properly configured, it’s likely your new touchpoints will fall under the “Other” channel.
 
@@ -187,7 +188,7 @@ We only show “Approved” custom activity types and not Draft or Approved with
 
 Although there is no limit on the number of Activity Types you can create, we generally recommend no more than 5 activity types. It takes time to determine which marketing activities are relevant enough to be part of the touchpoint journey. For example, “Unsubscribe Email” may not be a significant touchpoint to track, but “Click Email” with additional filters might be a good one. This varies by each organization and each team, so we suggest you work with your teams to brainstorm on the best approach here.
 
-**Why is my Browser Name cut off?** 
+**Why is my Browser Name cut off?**
 Bizible’s Browser Name has a hard limit of 20 characters, although the User Agent value we get from Marketo tends to be a longer string.
 
 BrowserInfo.Name  
