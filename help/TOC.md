@@ -152,7 +152,9 @@ user-guide-description: Bizible gives marketers insight into which marketing eff
 + Bizible and Marketo {#bizible-and-marketo}
   + Bizible Integrations with Marketo {#bizible-integrations-with-marketo}
     + [Set Up Marketo Connection](bizible-and-marketo/bizible-integrations-with-marketo/set-up-marketo-connection.md)
+    + [Marketo Engage Activities Integration](bizible-and-marketo/bizible-integrations-with-marketo/marketo-engage-activities-integration.md)
     + [Marketo Engage People Integration](bizible-and-marketo/bizible-integrations-with-marketo/marketo-engage-people-integration.md)
+    + [Marketo Engage Programs Integration](bizible-and-marketo/bizible-integrations-with-marketo/marketo-engage-programs-integration.md)
 + Bizible Salesforce Reporting {#bizible-salesforce-reporting}
   + New Report Types {#new-report-types}
     + [Creating Custom Bizible Report Types](bizible-salesforce-reporting/new-report-types/creating-custom-bizible-report-types.md)
