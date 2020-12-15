@@ -148,9 +148,9 @@ Custom Activity (xxx)
 
 ## Channel Mapping {#channel-mapping}
 
-For any of the rules from an Activity Type with a Program Id, the Marketo Program Channel is determined from the Program. We use the Program Channel to map to your custom Offline Channels, so you’ll need to make sure your channels are configured properly [as instructed here](http://docs.marketo.com/display/BIZ/Marketo+Engage+Programs+Integration#MarketoEngageProgramsIntegration-ChannelMapping).
+For any of the rules from an Activity Type with a Program Id, the Marketo Program Channel is determined from the Program. We use the Program Channel to map to your custom Offline Channels, so you’ll need to make sure your channels are configured properly [as instructed here](/help/bizible-and-marketo/bizible-integrations-with-marketo/marketo-engage-programs-integration.md#channel-mapping).
   
-And for any of the rules from an Activity Type without a Program Id, your first step was to create a Campaign Name. Use this Campaign Name to set up your custom Online Channels [laid out here](http://docs.marketo.com/x/5AAgAQ).
+And for any of the rules from an Activity Type without a Program Id, your first step was to create a Campaign Name. Use this Campaign Name to set up your custom Online Channels [laid out here](/help/channel-tracking-and-setup/online-channels/online-custom-channel-setup.md).
   
 If Channels for your Marketo Activities aren’t properly configured, it’s likely your new touchpoints will fall under the “Other” channel.
 
