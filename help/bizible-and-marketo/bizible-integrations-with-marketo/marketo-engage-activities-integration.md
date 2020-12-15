@@ -189,6 +189,7 @@ We only show “Approved” custom activity types and not Draft or Approved with
 Although there is no limit on the number of Activity Types you can create, we generally recommend no more than 5 activity types. It takes time to determine which marketing activities are relevant enough to be part of the touchpoint journey. For example, “Unsubscribe Email” may not be a significant touchpoint to track, but “Click Email” with additional filters might be a good one. This varies by each organization and each team, so we suggest you work with your teams to brainstorm on the best approach here.
 
 **Why is my Browser Name cut off?**
+
 Bizible’s Browser Name has a hard limit of 20 characters, although the User Agent value we get from Marketo tends to be a longer string.
 
 BrowserInfo.Name  
