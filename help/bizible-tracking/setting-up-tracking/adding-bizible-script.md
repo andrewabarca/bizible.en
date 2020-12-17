@@ -33,7 +33,7 @@ Please note that using tag management systems to deploy Bizible JS can result in
 
 A common practice is to deploy Bizible JS via a tag management tool until timing/resourcing is better to move to hardcoding.
 
-To add Bizible script through a tag management solution, you'll need to create a new tag and add our JavaScript within it. Apply this tag to all pages on your website that you want to be tracked.
+To add Bizible script through a tag management solution, you'll need to create a new tag and add our JavaScript within it. Apply this tag to all the pages on your website that you want tracked.
 
 Bizible recommends that any page view should cause the tag to fire. Additionally, it's best to give Bizible the highest priority in the firing order and make sure there are no synchronous scripts in front of the Bizible tag in order to ensure the highest data quality.
 
