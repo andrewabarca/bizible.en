@@ -37,7 +37,7 @@ To add Bizible script through a tag management solution, you'll need to create a
 
 Bizible recommends that any page view should cause the tag to fire. Additionally, it's best to give Bizible the highest priority in the firing order and make sure there are no synchronous scripts in front of the Bizible tag in order to ensure the highest data quality.
 
-More information [can be found here](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-via-google-tag-manager.md).
+More information can be [found here](/help/bizible-tracking/setting-up-tracking/adding-bizible-script-via-google-tag-manager.md).
 
 ## Additional Considerations {#additional-considerations}
 
