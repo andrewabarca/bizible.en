@@ -47,7 +47,7 @@ This setup is for new Bizible customers using Dynamics CRM with an Azure Active 
 
    ![](assets/setup-9.png)
 
-1. Add Bizible’s redirect URLs: * `https://apps.bizible.com/OAuth2`* and * `http://apps.bizible.com/OAuth2?identityOnly=true`* to the list of Redirect URLs.
+1. Add Bizible’s redirect URLs: `https://apps.bizible.com/OAuth2` and `https://apps.bizible.com/OAuth2?identityOnly=true` to the list of Redirect URLs.
 
    ![](assets/setup-10.png)
 
