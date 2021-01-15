@@ -9,7 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/experience-cloud/tutorials/home.html
 solution: Bizible
 type: Documentation
-git-repo: https://git.corp.adobe.com/AdobeDocs/bizible.en
+git-repo: https://github.com/AdobeDocs/bizible.en
 ---
 
 # Metadata for internal use
