@@ -154,6 +154,10 @@ And for any of the rules from an Activity Type without a Program Id, your first 
   
 If Channels for your Marketo Activities aren’t properly configured, it’s likely your new touchpoints will fall under the “Other” channel.
 
+## Program Costs {#program-costs}
+
+Through the data import of Marketo Programs, costs are automatically downloaded from Period Costs and the reported cost in Marketo is distributed throughout the assigned month. For example, if $1000 is reported for January 2021, the $1000 is split across 31 days. The costs can be found in Bizible Discover.
+
 ## Cookie Mapping {#cookie-mapping}
 
 As a result of Bizible’s integration with Marketo, the Bizible Cookie Id is also now mapped and synced with the Marketo Munchkin Id. This helps close the gap to attribute the anonymous first touch to a web session rather than attributing both the FT and LC touches to a Marketo Activity. Imagine this scenario:

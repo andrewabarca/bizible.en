@@ -84,6 +84,10 @@ From the list of Marketo Program Channels, you’ll want to map the values to Bi
 
    ![](assets/eleven.png)
 
+## Program Costs {#program-costs}
+
+Through the data import of Marketo Programs, costs are automatically downloaded from Period Costs and the reported cost in Marketo is distributed throughout the assigned month. For example, if $1000 is reported for January 2021, the $1000 is split across 31 days. The costs can be found in Bizible Discover.
+
 ## How It Works {#how-it-works}
 
 **Field Mappings**
