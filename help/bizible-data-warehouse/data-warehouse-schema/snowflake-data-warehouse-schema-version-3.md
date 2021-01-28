@@ -1563,7 +1563,7 @@ All touchpoints that are associated with an Opportunity. This table will be empt
    <td><p>USER_TOUCHPOINT_ID</p></td> 
    <td><p>varchar</p></td> 
    <td><p>A lookup to the Biz_User_Touchpoints table to select columns such as email, campaignmember_id, session_id</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><p>BIZ_USER_TOUCHPOINTS.ID</p></td> 
   </tr> 
@@ -2356,7 +2356,7 @@ All CRM Campaign Members that are imported, along with custom Bizible fields. Th
    <td><p>LEAD_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email for the related Lead that this Campaign Member is tied to</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -2372,7 +2372,7 @@ All CRM Campaign Members that are imported, along with custom Bizible fields. Th
    <td><p>CONTACT_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email for the related Contact that this Campaign Member is tied to</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -2671,7 +2671,7 @@ All CRM Contacts that are imported, along with custom Bizible fields.
    <td><p>EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email address of the Contact from the CRM</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -3580,7 +3580,7 @@ Requirements: Enable Activities Sync: True
    <td><p>LEAD_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email of the related Lead that this Event is tied to</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -3596,7 +3596,7 @@ Requirements: Enable Activities Sync: True
    <td><p>CONTACT_EMAIL </p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email of the related Contact that this Event is tied to</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -3711,7 +3711,7 @@ Requirements: Enable Activities Sync: True OR Enable Call Tracking: True
    <td><p>LEAD_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email of the related Lead that this Task is tied to</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -3727,7 +3727,7 @@ Requirements: Enable Activities Sync: True OR Enable Call Tracking: True
    <td><p>CONTACT_EMAIL </p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email of the related Contact that this Task is tied to</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -4302,324 +4302,6 @@ Table that stores all landing pages downloaded from any connected ads accounts.
  </tbody> 
 </table>
 
-## BIZ_DISCOVERED_FORM {#biz-discovered-form}
-
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Column</th> 
-   <th><p>Data Type</p></th> 
-   <th>Description</th> 
-   <th>Sample Data</th> 
-   <th>Primary Key</th> 
-   <th>Foreign Keys/Joins</th> 
-  </tr> 
-  <tr> 
-   <td>ID</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td>X</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>BIZ_DIAG</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>DOMAIN</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>MODIFIED_DATE</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>URL</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>BIZIBLE_JS_ATTACHED</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>BIZIBLE_EXCLUDE_ON_LOGIN</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>LAST_FORM_SUBMIT</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>IS_DELETED</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>LAST_CRAWLED</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>LAST_FOUND_ON_EDGECASTLOG_DATE</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>URL_ROW_KEY</td> 
-   <td>number(38,0)</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
-</table>
-
-## BIZ_DISCOVERED_PAGE {#biz-discovered-page}
-
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Column</th> 
-   <th><p>Data Type</p></th> 
-   <th>Description</th> 
-   <th>Sample Data</th> 
-   <th>Primary Key</th> 
-   <th>Foreign Keys/Joins</th> 
-  </tr> 
-  <tr> 
-   <td>DOMAIN</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>MODIFIED_DATE</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>URL</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>LAST_CRAWLED</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>BIZIBLE_JS_PRESENT</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>BIZIBLE_ACCT_PRESENT</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>HAS_IFRAME</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>ERROR_LOADING_PAGE</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>HAS_OPTIMIZELY</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>HAS_GOOGLE_EXPERIMENTS</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>HAS_FORM</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>TIME_TO_LOAD</td> 
-   <td>number(22,19)</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>HAS_GOOGLE_TAG_MANAGER</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>IS_LANDING_PAGE</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>HAS_BIZIBLE_JS_IN_HEAD</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>REFERRER</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>LAST_FOUND_BIZIBLE_JS</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>LAST_PAGEVIEW</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>LAST_FOUND_ON_EDGECASTLOG_DATE</td> 
-   <td>timestamp_ntz</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>IS_DELETED</td> 
-   <td>boolean</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>QUERY_PARAMETERS</td> 
-   <td>varchar</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>ROW_KEY</td> 
-   <td>number(38,0)</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
-</table>
-
 ## BIZ_EMAIL_TO_VISITOR_IDS {#biz-email-to-visitor-ids}
 
 Email addresses mapped to the Visitor_Id.
@@ -4646,7 +4328,7 @@ Email addresses mapped to the Visitor_Id.
    <td><p>EMAIL </p></td> 
    <td><p>varchar</p></td> 
    <td><p>A known email address that’s tied to a given visitor Id from a session</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td>X</td> 
    <td><br></td> 
   </tr> 
@@ -5464,7 +5146,7 @@ All form submissions that occurred which contain a VisitorId and is related to a
    <td><p>EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email address provided that’s pulled directly from the form, as captured from the javascript.</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -6534,7 +6216,7 @@ All CRM Leads that are imported, along with custom Bizible fields.
    <td><p>EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email address of the Lead from the CRM</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -6735,7 +6417,7 @@ Stores all stage transitions that occur on the Lead or Contact, tying it to a to
    <td><p>EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The provided email address for the related Lead/Contact</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#e58297848d8488a5878c9f8c878980cb868a88"><span>[email protected]</span></a></p></td> 
+   <td><p>email@bizible.com</span></a></p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -6976,7 +6658,7 @@ All CRM Opportunities that are imported, along with custom Bizible fields.
    <td><p>CONVERTED_FROM_LEAD_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email of the related Lead that had converted into this Opportunity</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#8becf9eae3eae6cbe9e2f1e2e9e7eea5e8e4e6"><span>[email protected]</span></a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -6992,7 +6674,7 @@ All CRM Opportunities that are imported, along with custom Bizible fields.
    <td><p>PRIMARY_CONTACT_EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>If Primary Contact Role is used, the email d of the related Contact that is listed as the primary contact role</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f39481929b929eb3919a899a919f96dd909c9e"><span>[email protected]</span></a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -8761,7 +8443,7 @@ All touchpoints that are associated with a Lead and/or Contact. This table will 
    <td><p>EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The known email address that’s tied to this touchpoint via a Lead or Contact</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
@@ -8801,7 +8483,7 @@ All touchpoints that are associated with a Lead and/or Contact. This table will 
    <td><p>USER_TOUCHPOINT_ID</p></td> 
    <td><p>varchar</p></td> 
    <td><p>A lookup to the Biz_User_Touchpoints table to select columns such as session_id</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>_2018-08-29:18-14-53-8102030.10df92cbb414</p></td> 
+   <td><p>email@bizible.com_2018-08-29:18-14-53-8102030.10df92cbb414</p></td> 
    <td><br></td> 
    <td><p>BIZ_USER_TOUCHPOINTS.ID</p></td> 
   </tr> 
@@ -9611,7 +9293,7 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
    <td><p>ID</p></td> 
    <td><p>varchar</p></td> 
    <td><p>A unique Id for the user touchpoint</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#f995909595909897b99b9083909b959cd79a9694"><span>[email protected]</span></a>_2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
+   <td><p>email@bizible.com_2018-01-05:16-47-02-8803320.ddf67c101f58</p></td> 
    <td>X</td> 
    <td><p><br></p></td> 
   </tr> 
@@ -9627,7 +9309,7 @@ Any touchpoint recorded that can be tied to an email, so it can be a web visit, 
    <td><p>EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>The email address that this Touchpoint is created from</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection#9cf0f5f0f0f5fdf2dcfef5e6f5fef0f9b2fff3f1"><span>[email protected]</span></a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
