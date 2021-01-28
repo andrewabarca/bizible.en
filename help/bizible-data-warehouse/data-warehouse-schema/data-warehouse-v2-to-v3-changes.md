@@ -21,6 +21,10 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: CREATED_DATE
 * New column: IS_DELETED
 
+## BIZ_ACTIVITIES {#biz-activities}
+
+* New table: BIZ_ACTIVITIES
+
 ## BIZ_ADS {#biz-ads}
 
 * New table: BIZ_ADS
@@ -106,6 +110,10 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: OTHER_SYSTEM_ID
 * New column: CUSTOM_PROPERTIES
 
+## BIZ_CONVERSION_RATES {#biz-conversion-rates}
+
+* New table:  BIZ_CONVERSION_RATES
+
 ## BIZ_COSTS {#biz-costs}
 
 * New column: MODIFIED_DATE
@@ -134,6 +142,10 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * BIZIBLE_HOST_ID has been renamed to BIZIBLE_COOKIE_ID
 * New column: CUSTOM_PROPERTIES
 
+## BIZ_CURRENCIES {#biz-currencies}
+
+* New table: BIZ_CURRENCIES
+
 ## BIZ_CUSTOMER_AB_TESTS {#biz-customer-ab-tests}
 
 * New table: BIZ_CUSTOMER_AB_TESTS
@@ -151,6 +163,7 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: MODIFIED_DATE
 * New column: CREATED_DATE
 * New column: IS_DELETED
+* New column: IS_IGNORE
 
 ## BIZ_FACTS {#biz-facts}
 
@@ -299,6 +312,10 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 ## BIZ_PLACEMENTS {#biz-placements}
 
 * New table: BIZ_PLACEMENTS
+
+## BIZ_SEGMENTS {#biz-segments}
+
+* New table: BIZ_SEGMENTS
 
 ## BIZ_SESSIONS {#biz-sessions}
 

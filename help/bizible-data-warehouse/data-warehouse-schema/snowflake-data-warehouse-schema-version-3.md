@@ -191,7 +191,7 @@ Lead and Contact email addresses that are mapped and known under CRM Accounts. T
    <td><p>EMAIL</p></td> 
    <td><p>varchar</p></td> 
    <td><p>Any email address that has been mapped to the Account, whether through Contact relationships or from Lead2Account mapping</p></td> 
-   <td><p><a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a></p></td> 
+   <td><p>email@bizible.com</p></td> 
    <td>X</td> 
    <td><br></td> 
   </tr> 
@@ -216,6 +216,123 @@ Lead and Contact email addresses that are mapped and known under CRM Accounts. T
    <td><p>boolean</p></td> 
    <td><p>Whether or not the record is considered deleted</p></td> 
    <td><p>FALSE</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## BIZ_ACTIVITIES {#biz-activities}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th>Column</th> 
+   <th><p>Data Type</p></th> 
+   <th>Description</th> 
+   <th>Sample Data</th> 
+   <th>Primary Key</th> 
+   <th>Foreign Keys/Joins</th> 
+  </tr> 
+  <tr> 
+   <td><p>ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Id of the activity in the CRM</p></td> 
+   <td><p>number or GUID depending on the source system</p></td> 
+   <td>X</td> 
+   <td><p>BIZ_USER_TOUCHPOINTS.CRM_ACTIVITY_ID</p></td> 
+  </tr> 
+  <tr> 
+   <td><p>LEAD_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Id of person associated with this activity</p></td> 
+   <td><p></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>CONTACT_ID</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>Id of person associated with this activity</p></td> 
+   <td><p></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>ACTIVITY_TYPE_ID</p></td> 
+   <td><p>boolean</p></td> 
+   <td><p>Type Id as defined by the source system</p></td> 
+   <td><p></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>ACTIVITY_TYPE_NAME</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Name as defined by the source system</p></td> 
+   <td><p></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>START_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>Start of the activity</p></td> 
+   <td><p></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>END_DATE</p></td> 
+   <td><p>timestamp_ntz</p></td> 
+   <td><p>End of the activity</p></td> 
+   <td><p></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>CAMPAIGN_ID</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Id of the campaign the activity is part or</p></td> 
+   <td><p></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td><p>SOURCE_SYSTEM</p></td> 
+   <td><p>varchar</p></td> 
+   <td><p>Type of CRM</p></td> 
+   <td><p>Dynamics, Marketo</p></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>CREATED_DATE</td> 
+   <td>timestamp_ntz</td> 
+   <td>The created date of the activity from the CRM</td> 
+   <td> 
+    <div> 
+     <pre></pre> 
+    </div></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>MODIFIED_DATE</td> 
+   <td>timestamp_ntz</td> 
+   <td>The last modified date of the activity from the CRM</td>  
+   <td> 
+    <div> 
+     <pre></pre> 
+    </div></td> 
    <td><br></td> 
    <td><br></td> 
   </tr> 
