@@ -72,14 +72,29 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 
 * New column: LANDING_PAGE_RAW
 * New column: REFERRER_PAGE_RAW
+* New column: ROW_KEY
+* New column: OPPORTUNITY_ROW_KEY
+* New column: EMAIL
+* New column: VISITOR_ID
+* New column: FORM_PAGE_RAW
+* New column: LANDING_PAGE_KEY
+* New column: REFERRER_PAGE_KEY
+* New column: FORM_PAGE_KEY
+* New column: ACCOUNT_ROW_KEY
+* New column: ADVERTISER_ROW_KEY
+* New column: SITE_ROW_KEY
+* New column: PLACEMENT_ROW_KEY
+* New column: CAMPAIGN_ROW_KEY
+* New column: AD_ROW_KEY
+* New column: AD_GROUP_ROW_KEY
+* New column: CREATIVE_ROW_KEY
+* New column: KEYWORD_ROW_KEY
 * FIRST_CLICK_PERCENTAGE is now type Number(22,19)
 * LAST_ANON_CLICK_PERCENTAGE is now type Number(22,19)
 * U_SHAPE_PERCENTAGE is now type Number(22,19)
 * W_SHAPE_PERCENTAGE is now type Number(22,19)
 * FULL_PATH_PERCENTAGE is now type Number(22,19)
 * CUSTOM_MODEL_PERCENTAGE is now type Number(22,19)
-* New column: ROW_KEY
-* New column: OPPORTUNITY_ROW_KEY
 
 ## BIZ_CAMPAIGN_MEMBERS {#biz-campaign-members}
 
@@ -116,12 +131,23 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 
 ## BIZ_COSTS {#biz-costs}
 
-* New column: MODIFIED_DATE
 * COST_IN_MICRO is now type number(38,0)
 * CLICKS is now type number(38,0)
 * IMPRESSIONS is now type number(38,0)
 * ESTIMATED_TOTAL_POSSIBLE_IMPRESSIONS is now type number(38,0)
 * New column: AD_PROVIDER
+* New column: ISO_CURRENCY_CODE
+* New column: ROW_KEY
+* New column: ACCOUNT_ROW_KEY
+* New column: ADVERTISER_ROW_KEY
+* New column: SITE_ROW_KEY
+* New column: PLACEMENT_ROW_KEY
+* New column: CAMPAIGN_ROW_KEY
+* New column: AD_ROW_KEY
+* New column: AD_GROUP_ROW_KEY
+* New column: CREATIVE_ROW_KEY
+* New column: KEYWORD_ROW_KEY
+* New column: CURRENCY_ID
 
 ## BIZ_CREATIVES {#biz-creatives}
 
@@ -132,7 +158,6 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * Created_Date_CRM is now CREATED_DATE
 * Modified_Date_CRM is now MODIFIED_DATE
 * BIZIBLE_HOST_ID has been renamed to BIZIBLE_COOKIE_ID
-* New column: ACTIVITY_TYPE
 * New column: CUSTOM_PROPERTIES
 
 ## BIZ_CRM_TASKS {#biz-crm-tasks}
@@ -148,7 +173,9 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 
 ## BIZ_CUSTOMER_AB_TESTS {#biz-customer-ab-tests}
 
-* New table: BIZ_CUSTOMER_AB_TESTS
+* New column: MODIFIED_DATE
+* Deleted column: ID
+* Deleted column: SESSION_ID
 
 ## BIZ_CUSTOM_LANDING_PAGES {#biz-custom-landing-pages}
 
@@ -156,7 +183,9 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 
 ## BIZ_CUSTOMER_EVENTS {#biz-customer-events}
 
-* New table: BIZ_CUSTOMER_EVENTS
+* New column: MODIFIED_DATE
+* Deleted column: ID
+* Deleted column: SESSION_ID
 
 ## BIZ_EMAIL_TO_VISITOR_IDS {#biz-email-to-visitor-ids}
 
@@ -177,6 +206,7 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: USER_AGENT_STRING
 * New column: CLIENT_SEQUENCE
 * New column: CLIENT_RANDOM
+* New column: CURRENT_PAGE_KEY
 * New column: IS_DUPLICATED
 * New column: IS_PROCESSED
 * Email_in_Form has been renamed to EMAIL
@@ -215,6 +245,18 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * Deleted column: TERM
 * Deleted column: CONTENT
 * Deleted column: IS_DELETED
+* New column: ACCOUNT_ROW_KEY
+* New column: AD_GROUP_ROW_KEY
+* New column: AD_ROW_KEY
+* New column: ADVERTISER_ROW_KEY
+* New column: CAMPAIGN_ROW_KEY
+* New column: CREATIVE_ROW_KEY
+* New column: CURRENT_PAGE_KEY
+* New column: KEYWORD_ROW_KEY
+* New column: PLACEMENT_ROW_KEY
+* New column: REFERRER_PAGE_KEY
+* New column: SITE_ROW_KEY
+* New column: USER_AGENT_STRING
 
 ## BIZ_KEYWORDS {#biz-keywords}
 
@@ -236,10 +278,6 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: ROW_KEY
 * New column: CUSTOM_PROPERTIES
 
-## BIZ_LEAD_STAGE_TRANSITIONS {#biz-lead-stage-transitions}
-
-* New column: LAST_INDEX
-
 ## BIZ_OPPORTUNITIES {#biz-opportunities}
 
 * Created_Date_CRM is now CREATED_DATE
@@ -248,10 +286,12 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * ODDS_OF_CONVERSION is now type number(38,19)
 * New column: ROW_KEY
 * New column: CUSTOM_PROPERTIES
+* New column: CURRENCY_ISO_CODE
+* New column: CURRENCY_ID
 
 ## BIZ_OPP_STAGE_TRANSITIONS {#biz-opp-stage-transitions}
 
-* New column: LAST_INDEX
+* New column: EMAIL
 
 ## BIZ_PAGE_VIEWS {#biz-page-views}
 
@@ -266,6 +306,9 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: REFERRER_PAGE_RAW
 * New column: EMAIL
 * New column: ROW_KEY
+* New column: CURRENT_PAGE_KEY
+* New column: HAS_USER_CONSENT
+* New column: REFERRER_PAGE_KEY
 * Deleted column: Referrer_Name
 * Deleted column: Search_Phrase
 * Deleted column: Web_Source
@@ -292,7 +335,7 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * Deleted column: Creative_Name
 * Deleted column: Creative_Unique_ID
 * Deleted column: Creative_Description_1
-* Deleted column: Creative_Description_2 
+* Deleted column: Creative_Description_2
 * Deleted column: Creative_Destination_URL
 * Deleted column: Creative_Display_URL
 * Deleted column: Keyword_Name
@@ -321,7 +364,6 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 
 * New column: COOKIE_ID
 * Session_Date has been renamed to EVENT_DATE
-* New column: MODIFIED_DATE
 * New column: PAGE_TITLE
 * New Column: LANDING_PAGE_RAW
 * New Column: REFERRER_PAGE_RAW
@@ -338,15 +380,25 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: ISP_NAME
 * New column: IP_ADDRESS
 * New column: ROW_KEY
+* New column: IS_FIRST_SESSION
+* New column: LANDING_PAGE_KEY
+* New column: REFERRER_PAGE_KEY
+* New column: ACCOUNT_ROW_KEY
+* New column: ADVERTISER_ROW_KEY
+* New column: SITE_ROW_KEY
+* New column: PLACEMENT_ROW_KEY
+* New column: CAMPAIGN_ROW_KEY
+* New column: AD_ROW_KEY
+* New column: AD_GROUP_ROW_KEY
+* New column: CREATIVE_ROW_KEY
+* New column: KEYWORD_ROW_KEY
 * Deleted column: CATEGORIES
 * Deleted column: BROWSER_NAME
 * Deleted column: BROWSER_VERSION
 * Deleted column: PLATFORM_NAME
 * Deleted column: PLATFORM_VERSION
-* Deleted column: LANDING_PAGE
 * Deleted column: FORM_PAGE
 * Deleted column: FORM_DATE
-* Deleted column: MODIFIED_DATE
 * Deleted column: MARKETING_TOUCH_TYPE
 * Deleted column: IS_FORM_SUBMISSION_TOUCH
 * Deleted column: IS_IMPRESSION_TOUCH
@@ -396,6 +448,23 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: ROW_KEY
 * New column: CONTACT_ROW_KEY
 * New column: LEAD_ROW_KEY
+* Keyword_Uniqueid has been renamed to KEYWORD_UNIQUE_ID
+* Keyword_Matchtype has been renamed to KEYWORD_MATCH_TYPE
+* Is_Firsttouch has been renamed to IS_FIRST_TOUCH
+* New column: VISITOR_ID
+* New column: ACCOUNT_ROW_KEY
+* New column: AD_GROUP_ROW_KEY
+* New column: AD_ROW_KEY
+* New column: ADVERTISER_ROW_KEY
+* New column: CAMPAIGN_ROW_KEY
+* New column: CREATIVE_ROW_KEY
+* New column: FORM_PAGE_KEY
+* New column: FORM_PAGE_RAW
+* New column: KEYWORD_ROW_KEY
+* New column: LANDING_PAGE_KEY
+* New column: PLACEMENT_ROW_KEY
+* New column: REFERRER_PAGE_KEY
+* New column: SITE_ROW_KEY
 
 ## BIZ_URLS {#biz-urls}
 
@@ -408,16 +477,19 @@ From time to time, we make changes to our Data Warehouse schema, which includes 
 * New column: LANDING_PAGE_RAW
 * New column: REFERRER_PAGE_RAW
 * New column: FORM_PAGE_RAW
-* New column: IS_FIRST_TOUCH
-* New column: IS_LEAD_CREATION_TOUCH
-* New column: IS_OPP_CREATION_TOUCH
-* New column: IS_CLOSED_TOUCH
-* New column: STAGES_TOUCHED
-* New column: FIRST_CLICK_PERCENTAGE
-* New column: LAST_ANON_CLICK_PERCENTAGE
-* New column: U_SHAPE_PERCENTAGE
-* New column: W_SHAPE_PERCENTAGE
-* New column: FULL_PATH_PERCENTAGE
-* New column: CUSTOM_MODEL_PERCENTAGE
+* New column: IS_FIRST_KNOWN_TOUCH
 * New column: ROW_KEY
-
+* New column: CRM_ACTIVITY_ID
+* New column: VISITOR_ID
+* New column: LANDING_PAGE_KEY
+* New column: REFERRER_PAGE_KEY
+* New column: FORM_PAGE_KEY
+* New column: ACCOUNT_ROW_KEY
+* New column: ADVERTISER_ROW_KEY
+* New column: SITE_ROW_KEY
+* New column: PLACEMENT_ROW_KEY
+* New column: CAMPAIGN_ROW_KEY
+* New column: AD_ROW_KEY
+* New column: AD_GROUP_ROW_KEY
+* New column: CREATIVE_ROW_KEY
+* New column: KEYWORD_ROW_KEY
