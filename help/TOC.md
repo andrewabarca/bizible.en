@@ -175,6 +175,7 @@ user-guide-description: Bizible gives marketers insight into which marketing eff
   + Data Warehouse Schema {#data-warehouse-schema}
     + [Data Warehouse V2 to V3 Changes](bizible-data-warehouse/data-warehouse-schema/data-warehouse-v2-to-v3-changes.md)
     + [Redshift Data Warehouse Schema Version 2](bizible-data-warehouse/data-warehouse-schema/redshift-data-warehouse-schema-version-2.md)
+    + [Connecting to the Snowflake Data Warehouse](bizible-data-warehouse/data-warehouse-schema/connecting-to-the-snowflake-data-warehouse.md)
     + [Snowflake Data Warehouse Schema Version 3](bizible-data-warehouse/data-warehouse-schema/snowflake-data-warehouse-schema-version-3.md)
 + Security and Compliance {#security-and-compliance}
   + Compliance Related Resources {#compliance-related-resources}
