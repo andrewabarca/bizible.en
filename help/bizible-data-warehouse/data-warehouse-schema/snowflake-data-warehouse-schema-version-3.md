@@ -25,7 +25,7 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="https://experienceleague.adobe.com/docs/bizible/assets/bizible-data-warehouse-crm-data.pdf"><img src="assets/crm-data-thumb.png"></a></p> 
+     <p><a href=![CRM Data](/help/bizible-data-warehouse/data-warehouse-schema/assets/bizible-data-warehouse-crm-data.pdf)><img src="assets/crm-data-thumb.png"></a></p> 
     </div></td> 
    <td> 
     <div> 
