@@ -19,9 +19,9 @@ Adobe Identity Management Service (IMS) is the service that provides all authent
 
 We encourage you to explore all of the details here:
 
-* Adobe Admin Console Overview: https://helpx.adobe.com/enterprise/using/admin-console.html
-* Adobe Admin Console Admin Guide: https://helpx.adobe.com/enterprise/admin-guide.html
-* Adobe Identity Management Services Overview: https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeIdentityServices.pdf
+* Adobe Admin Console Overview: [https://helpx.adobe.com/enterprise/using/admin-console.html](https://helpx.adobe.com/enterprise/using/admin-console.html)
+* Adobe Admin Console Admin Guide: [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html)
+* Adobe Identity Management Services Overview: [https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeIdentityServices.pdf](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeIdentityServices.pdf)
 
 **Why is my Bizible account being Migrated to Adobe Admin Console?**
 
@@ -74,7 +74,7 @@ Listed below is an overview of the changes that will occur as a result of migrat
 | Action | Description | Additional Details |
 |--- |--- |--- |
 | Review User Management and any SSO Settings in Bizible | Bizible user management can be seen within apps.bizible.com on the 'Users.View/Add Account Users' tab.<br /> Any Bizible SSO setup can be seen within apps.bizible.com on the 'Security.Authentication' tab.<br /> When the migration starts, you will likely want to setup all Bizible users and settings present on these tabs within Adobe Admin Console to keep a consistent experience. | ![](assets/migration-2.png) |
-| Review Your Organizations Identity Provider (IdP) | When transitioning User Management from Bizible (and your CRM) to Adobe Admin Console, many organizations take advantage of Federated Identities. This allows your organization to manage all user credentials. More details can be seen <a href="https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html">here</a>.<br /> We recommend reviewing your Identity Provider and desired User Management strategies to help facilitate and accelerate your Bizible Adobe Admin Console migration. | https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html |
+| Review Your Organizations Identity Provider (IdP) | When transitioning User Management from Bizible (and your CRM) to Adobe Admin Console, many organizations take advantage of Federated Identities. This allows your organization to manage all user credentials. More details can be seen <a href="https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html">here</a>.<br /> We recommend reviewing your Identity Provider and desired User Management strategies to help facilitate and accelerate your Bizible Adobe Admin Console migration. | [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html) |
 
 **During Migration**
 
@@ -93,7 +93,7 @@ Listed below is an overview of the changes that will occur as a result of migrat
   <tr> 
    <td>Log in to Your Adobe Admin Console</td> 
    <td>Once your account has started the migration process, all Bizible admins for your account will be added as System Administrators to your new Adobe Admin Console.  These person(s) will receive an automated email from Bizible.<br /> These person(s) will be able to log in to Adobe Admin Console and begin all setup like outlined <a href="https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider">here</a>.<br /> Note that if your organization already has an Adobe IMS Organization, no new admins will be added by Adobe during the migration.<br /> Any system administrators will also receive an email alerting them to their new Bizible account setup.</td>
-   <td> <img src="assets/migration-3.png"><br /> https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider</td>  
+   <td> <img src="assets/migration-3.png"><br /> <a href="https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider">https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider</a></td>  
   </tr> 
   <tr> 
    <td>Review Adobe Admin Console and User Management Roles</td> 
@@ -102,12 +102,12 @@ Listed below is an overview of the changes that will occur as a result of migrat
 * [Adobe Admin Console Overview](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
 * [Adobe Admin Console Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html)</td>
-   <td>https://helpx.adobe.com/enterprise/using/admin-console.html<br /> https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html</td>  
+   <td><a href="https://helpx.adobe.com/enterprise/using/admin-console.html">https://helpx.adobe.com/enterprise/using/admin-console.html</a><br /> <a href="https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html">https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html</a></td>  
   </tr> 
   <tr> 
    <td>Setup Identity Provider and SSO in Adobe Admin Console (optional)</td> 
    <td>When transitioning User Management from Bizible (and your CRM) to Adobe Admin Console, many organizations take advantage of Federated Identities.  This allows your organization to manage all user credentials. More details can be seen <a href="https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html">here</a>.</td>
-   <td>https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html</td>  
+   <td><a href="https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html">https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html</a></td>  
   </tr> 
   <tr> 
    <td>Set up Bizible Users and Admins in Adobe Admin Console</td> 
@@ -138,9 +138,9 @@ Please see full [details here](https://www.adobe.com/content/dam/cc/en/security/
 
 **How do I set up my company Identity Provider (IdP) within Adobe Admin Console?**
 
-Azure: https://helpx.adobe.com/enterprise/using/sso-setup-azure.ug.html
-Google: https://helpx.adobe.com/enterprise/using/setup-sso-google.ug.html
-Okta: https://helpx.adobe.com/enterprise/kb/configure-okta-with-adobe-sso.html
+Azure: [https://helpx.adobe.com/enterprise/using/sso-setup-azure.ug.html](https://helpx.adobe.com/enterprise/using/sso-setup-azure.ug.html)
+Google: [https://helpx.adobe.com/enterprise/using/setup-sso-google.ug.html](https://helpx.adobe.com/enterprise/using/setup-sso-google.ug.html)
+Okta: [https://helpx.adobe.com/enterprise/kb/configure-okta-with-adobe-sso.html](https://helpx.adobe.com/enterprise/kb/configure-okta-with-adobe-sso.html)
 
 **How do I set up Users and Admins within Adobe Admin Console for Bizible?**
 
