@@ -29,7 +29,7 @@ Data Warehouse allows you to track as much as you want, report on your attributi
     </div></td> 
    <td> 
     <div> 
-     <p><a href="https://experienceleague.adobe.com/docs/bizible/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img src="assets/touchpoint-creation-data-thumb.png" ></a></p> 
+     <p><a href="https://experienceleague.adobe.com/docs/bizible/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img src="assets/touchpoint-creation-data-thumb.png"></a></p> 
     </div></td> 
   </tr> 
   <tr> 
