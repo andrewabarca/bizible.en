@@ -34,7 +34,7 @@ This setup is for new Bizible customers using Dynamics CRM with an Azure Active 
 
    ![](assets/setup-5.png)
 
-1. Follow the prompts and create a new application. It doesn't matter if it's a web application or a public client (mobile & desktop) application, but if you'd like specific examples for web applications or public client applications, check out our [quickstarts](http://docs.microsoft.com/en-us/azure/active-directory/develop/v1-overview).  
+1. Follow the prompts and create a new application. It doesn't matter if it's a web application or a public client (mobile & desktop) application, but if you'd like specific examples for web applications or public client applications, check out our [quickstarts](https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-overview).  
    a. Name is the application name and describes your application to end users.  
    b. Under Supported account types, select Accounts in any organizational directory and personal Microsoft accounts.  
    c. Provide the Redirect URI. For Web Applications, this is the base URL of your app where users can sign in. For example, `http://localhost:12345`. For public client (mobile & desktop), Azure AD uses it to return token responses. Enter a value specific to your application. For example, `http://MyFirstAADApp`.
@@ -51,6 +51,10 @@ This setup is for new Bizible customers using Dynamics CRM with an Azure Active 
 
    ![](assets/setup-10.png)
 
+1. Navigate to the API Permissions tab and make sure the correct permissions are assigned to the application.
+
+   ![](assets/setup-10a.png)
+
 1. From here, enter “enterprise” in the search box and click on Enterprise Applications
 
    ![](assets/setup-11.png)
@@ -61,9 +65,41 @@ This setup is for new Bizible customers using Dynamics CRM with an Azure Active 
 
    ![](assets/setup-13.png)
 
+1. On that same page, click **Grant Admin Consent for (instance name)**.
+
+   ![](assets/setup-13a.png)
+
+1. Click **Accept**.
+
+   ![](assets/setup-13b.png)
+
 1. From the "Users and Groups" tab, make sure that the valid "Users and Groups" are assigned to the Application.
   
    ![](assets/setup-14.png)
+
+## Creating an Application User {#creating-an-application-user}
+
+Once the application registration is done, then an application user can be created.
+
+1. Navigate to your Common Data Service environment (`https://[org].crm.dynamics.com`).
+
+1. Navigate to **Settings** > **Security** > **Users**.
+
+1. Choose **Application Users** in the view filter.
+
+1. Select **+ New**.
+
+1. In the Application User form, enter the required information.
+
+>[!NOTE]
+>
+>* The user name information must not match a user that exists in the Azure Active Directory.
+>
+>* In the Application ID field, enter the application ID of the app you registered earlier in the Azure AD.
+
+1. If the setup is correct, then after selecting **Save**, the **Application ID URI** and **Azure AD Object Id** fields will auto-populate with correct values.
+
+1. Before exiting the user form, choose **Manage Roles** and assign a security role to this application user so that the application user can access the desired organization data.
 
 ## Connecting your Dynamics Instance via OAuth {#connecting-your-dynamics-instance-via-oAuth}
 
@@ -75,7 +111,7 @@ This setup is for new Bizible customers using Dynamics CRM with an Azure Active 
 
   b. Client Secret is the application secret created in the Azure Portal for your application under Certificates & Secrets.
 
-   ![](assets/creating-2e.png)  
+   ![](assets/creating-2e.png)
   
   c. Application ID URI is the URL of the target web API (secured resource). To find the App ID URL, in the Azure Portal, click Azure Active Directory, click Application registrations, open the application's Settings page, then click Properties. It may also be an external resource like `https://graph.microsoft.com`. This is normally the URL of the dynamics instance.
 
