@@ -25,11 +25,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="https://experienceleague.adobe.com/docs/bizible/assets/bizible-data-warehouse-crm-data.pdf"><img src="assets/crm-data-thumb.png"></a></p> 
+     <p><a href="assets/bizible-data-warehouse-crm-data.pdf"><img src="assets/crm-data-thumb.png"></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="https://experienceleague.adobe.com/docs/bizible/assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img src="assets/touchpoint-creation-data-thumb.png"></a></p> 
+     <p><a href="assets/bizible-data-warehouse-touchpoint-creation-data.pdf"><img src="assets/touchpoint-creation-data-thumb.png"></a></p> 
     </div></td> 
   </tr> 
   <tr> 
@@ -39,11 +39,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="https://experienceleague.adobe.com/docs/bizible/assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img src="assets/touchpoint-attribute-data-thumb.png" ></a></p> 
+     <p><a href="assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img src="assets/touchpoint-attribute-data-thumb.png" ></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="https://experienceleague.adobe.com/docs/bizible/assets/bizible-data-warehouse-spend-data.pdf"><img src="assets/spend-data-thumb.png" ></a></p> 
+     <p><a href="assets/bizible-data-warehouse-spend-data.pdf"><img src="assets/spend-data-thumb.png" ></a></p> 
     </div></td> 
   </tr> 
  </tbody> 
