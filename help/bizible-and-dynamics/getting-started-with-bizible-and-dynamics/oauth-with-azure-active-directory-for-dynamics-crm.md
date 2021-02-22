@@ -91,11 +91,11 @@ Once the application registration is done, then an application user can be creat
 
 1. In the Application User form, enter the required information.
 
->[!NOTE]
->
->* The user name information must not match a user that exists in the Azure Active Directory.
->
->* In the Application ID field, enter the application ID of the app you registered earlier in the Azure AD.
+   >[!NOTE]
+   >
+   >* The user name information must not match a user that exists in the Azure Active Directory.
+   >
+   >* In the Application ID field, enter the application ID of the app you registered earlier in the Azure AD.
 
 1. If the setup is correct, then after selecting **Save**, the **Application ID URI** and **Azure AD Object Id** fields will auto-populate with correct values.
 
