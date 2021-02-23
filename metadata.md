@@ -1,12 +1,4 @@
 ---
-cloud: experience-cloud
-solution-title: User Guides
-solution-hub-url: https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html
-solution-image: /assets/experience-cloud-logo-24.png
-getting-started-title: Getting Started
-getting-started-url: https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/experience-cloud/tutorials/home.html
 solution: Bizible
 type: Documentation
 git-repo: https://github.com/AdobeDocs/bizible.en
