@@ -93,8 +93,8 @@ Listed below is an overview of the changes that will occur as a result of migrat
   <tr> 
    <td>Log in to Your Adobe Admin Console</td> 
    <td>Once your account has started the migration process, all Bizible admins for your account will be added as System Administrators to your new Adobe Admin Console.  These person(s) will receive an automated email from Bizible.<br /> These person(s) will be able to log in to Adobe Admin Console and begin all setup like outlined <a href="https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider">here</a>.<br /> Note that if your organization already has an Adobe IMS Organization, no new admins will be added by Adobe during the migration.<br /> Any system administrators will also receive an email alerting them to their new Bizible account setup.</td>
-   <td> <img src="assets/migration-3.png"><br /> <a href="https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider">https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider</a></td>  
-  </tr> 
+   <td> <a href="assets/migration-3.png"><img src="assets/migration-3.png"></a><br /> <a href="https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider">https://experienceleague.adobe.com/docs/bizible/using/configuration-and-setup/bizible-and-salesforce/bizible-installation-guide.html?lang=en#set-up-your-adobe-admin-console-and-identity-provider</a></td>  
+  </tr>
   <tr> 
    <td>Review Adobe Admin Console and User Management Roles</td> 
    <td>Review the Adobe Admin Console Overview and User Management options available:
