@@ -27,23 +27,21 @@ We encourage you to explore all of the details here:
 
 Adobe Admin Console and IMS provide a full suite of functionality for User management, Single Sign On (SSO), and entitlement management. Migrating Bizible accounts into the Adobe platform offers several benefits:
 
-* Centralized Entitlement & User Management
+* **Centralized Entitlement & User Management**: With Adobe Admin Console, all Adobe products, entitlements, and users are managed in a centralized location. With this migration, Bizible is now included in the list of your Adobe entitlements and all managed in one location.
 
-With Adobe Admin Console, all Adobe products, entitlements, and users are managed in a centralized location. With this migration, Bizible is now included in the list of your Adobe entitlements and all managed in one location.
+* **Extended Functionality & Integrations for User Management**: Adobe Admin Console offers a number of direct integrations with various Identity Providers (IdP), such as Google G-Suite, Azure Active Directory, and Okta.
 
-* Extended Functionality & Integrations for User Management
-
-Adobe Admin Console offers a number of direct integrations with various Identity Providers (IdP), such as Google G-Suite, Azure Active Directory, and Okta.
-
-* Future Bizible Product Enhancements
-
-Bizible has a number of product upgrades and new features on the product roadmap. Migrating onto Adobe Admin Console and IMS unlocks future Bizible integrations with various Adobe services and platforms.
+* **Future Bizible Product Enhancements**: Bizible has a number of product upgrades and new features on the product roadmap. Migrating onto Adobe Admin Console and IMS unlocks future Bizible integrations with various Adobe services and platforms.
 
 **What do I need to do as a part of this Bizible Adobe Admin Console Migration Effort?**
 
 Bizible will send an email to all Bizible administrators on your account when the migration begins. At this point, these administrators will receive an additional email from Adobe letting them know they are now system administrators in Adobe Admin Console, and that the Bizible entitlement has been added.
 
-At this point, you will have a window of 30 days to migrate user management from Bizible onto Adobe Admin Console.
+At this point, you will have a **Migration window of 30 days** to migrate user management from Bizible onto Adobe Admin Console.
+
+>[!NOTE]
+>
+>During the migration window, all existing Bizible access stays the same. After your migration window is complete, users will be required to log in to Bizible using Adobe Id.
 
 A full checklist and guide for this is [linked below](#adobe-ims-migration-checklist-and-action-items).
 
@@ -73,7 +71,7 @@ Listed below is an overview of the changes that will occur as a result of migrat
 
 | Action | Description | Additional Details |
 |--- |--- |--- |
-| Review User Management and any SSO Settings in Bizible | Bizible user management can be seen within apps.bizible.com on the 'Users.View/Add Account Users' tab.<br /> Any Bizible SSO setup can be seen within apps.bizible.com on the 'Security.Authentication' tab.<br /> When the migration starts, you will likely want to setup all Bizible users and settings present on these tabs within Adobe Admin Console to keep a consistent experience. | ![](assets/migration-2.png) |
+| Review User Management and any SSO Settings in Bizible | Bizible user management can be seen within apps.bizible.com on the 'Users.View/Add Account Users' tab.<br /> Any Bizible SSO setup can be seen within apps.bizible.com on the 'Security.Authentication' tab.<br /> When the migration starts, you will likely want to setup all Bizible users and settings present on these tabs within Adobe Admin Console to keep a consistent experience. | <a href="assets/migration-2.png"><img src="assets/migration-2.png" alt="Click to enlarge"></a>
 | Review Your Organizations Identity Provider (IdP) | When transitioning User Management from Bizible (and your CRM) to Adobe Admin Console, many organizations take advantage of Federated Identities. This allows your organization to manage all user credentials. More details can be seen <a href="https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html">here</a>.<br /> We recommend reviewing your Identity Provider and desired User Management strategies to help facilitate and accelerate your Bizible Adobe Admin Console migration. | [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html) |
 
 **During Migration**

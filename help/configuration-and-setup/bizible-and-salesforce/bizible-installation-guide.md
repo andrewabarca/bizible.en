@@ -105,6 +105,8 @@ To begin adding users who can access Bizible, please refer to the [Adding Bizibl
 
 After you've created User Groups or have the Default Product Profile set up in your Bizible instance(s), the next step is to grant access to the Bizible application by adding users. This can be done in the admins and users directory of the Bizible product card.
 
+   ![](assets/adding-biz-admins-users.png)
+
 >[!NOTE]
 >
 >If you were provisioned prior to 12/7/2020, users must be added to one of the two groups created here. This is where all users who wish to access Bizible must be added, including Adobe Admin Console Administrators.
