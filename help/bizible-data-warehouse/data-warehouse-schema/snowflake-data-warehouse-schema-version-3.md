@@ -10,7 +10,7 @@ Data Warehouse allows you to track as much as you want, report on your attributi
 
 ## Entity Relationship Diagrams {#entity-relationship-diagrams}
 
-*Click an image for its full-size version*
+_Click an image for its full-size version_
 
 <table> 
  <colgroup> 
@@ -39,11 +39,11 @@ Data Warehouse allows you to track as much as you want, report on your attributi
   <tr> 
    <td> 
     <div> 
-     <p><a href="assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img src="assets/touchpoint-attribute-data-thumb.png" ></a></p> 
+     <p><a href="assets/bizible-data-warehouse-touchpoint-attributes.pdf"><img src="assets/touchpoint-attribute-data-thumb.png"></a></p> 
     </div></td> 
    <td> 
     <div> 
-     <p><a href="assets/bizible-data-warehouse-spend-data.pdf"><img src="assets/spend-data-thumb.png" ></a></p> 
+     <p><a href="assets/bizible-data-warehouse-spend-data.pdf"><img src="assets/spend-data-thumb.png"></a></p> 
     </div></td> 
   </tr> 
  </tbody> 

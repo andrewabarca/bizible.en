@@ -21,6 +21,10 @@ To access your Snowflake data warehouse, you'll need to navigate to the specific
 
    ![](assets/connecting-to-the-snowflake-data-warehouse-3.png)
 
+   >[!NOTE]
+   >
+   >This is a read-only account that's available for your organization, not just an individual user. Any user within your organization that has access to Bizible can use this account to log into the Snowflake Data Warehouse reader account.
+
 1. Click the link provided in the Snowflake URL, this will take you to the Snowflake login page where you'll enter your username and password. _If you don't have your password, see the steps below to reset it_.
 
    ![](assets/connecting-to-the-snowflake-data-warehouse-4.png)
@@ -35,7 +39,12 @@ To access your Snowflake data warehouse, you'll need to navigate to the specific
 
 ## Reset Your Password {#reset-your-password}
 
-Bizible does not have access to your Snowflake login password.  If you need to reset your password, Click the Reset Password button on the Data Warehouse information page, and follow the instructions.  A temporary password will be provided; you will be prompted to create a new password when you login to the data warehouse.
+Bizible does not have access to your Snowflake login password.  If you need to reset your password, Click the Reset Password button on the Data Warehouse information page, and follow the instructions. A temporary password will be immediately displayed in the UI. You will be prompted to create your own password on your next data warehouse log in.
+
+>[!NOTE]
+>
+>* Resetting the password resets it for all Bizible users in your organization, not just the user currently logged in.
+>* We only show the temporary password in the UI. An email will not be sent.
 
    ![](assets/connecting-to-the-snowflake-data-warehouse-7.png)
 
@@ -43,7 +52,7 @@ Bizible does not have access to your Snowflake login password.  If you need to r
 
 ## Connecting to Snowflake via Third-Party Tools {#connecting-to-snowflake-via-third-party-tools}
 
-You'll need to enter a few pieces of information to connect your Snowflake data warehouse to a third-party tool.  
+You'll need to enter a few pieces of information to connect your Snowflake data warehouse to a third-party tool.
 
 >[!NOTE]
 >

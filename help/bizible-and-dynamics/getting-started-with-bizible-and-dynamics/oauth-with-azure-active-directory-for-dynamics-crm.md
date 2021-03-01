@@ -61,11 +61,7 @@ This setup is for new Bizible customers using Dynamics CRM with an Azure Active 
 
 1. Again, find and open your new application from the list of applications
 
-1. From the Permissions tab, make sure that the correct permissions are assigned to the Azure Active Directory application
-
-   ![](assets/setup-13.png)
-
-1. On that same page, click **Grant Admin Consent for (instance name)**.
+1. From the Permissions tab, click **Grant Admin Consent for (instance name)**.
 
    ![](assets/setup-13a.png)
 
@@ -125,6 +121,6 @@ Once the application registration is done, then an application user can be creat
 
 1. Once the key is clicked, a pop-up will appear and you’ll be prompted to enter the Client Id, Client Secret, and Application Id URI, similar to the signup flow.
 
-   ![](assets/reauth-3.png)
+   ![](assets/re-authenticating-3.png)
 
 1. After you click **Submit**, you’ll be prompted to sign-in with Azure Active Directory. When the authentication is successful, your Dynamics account will be re-authorized within Bizible.
