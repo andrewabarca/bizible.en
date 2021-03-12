@@ -39,6 +39,10 @@ We will be installing two packages within your Salesforce environment and then c
 
 The first step to using Bizible is to create and sign-in to your provisioned Adobe Admin Console. If you haven't already received the email with log in instructions, please contact your Bizible Account Representative.
 
+>[!NOTE]
+>
+>Bizible is a Digital Experience (DX) entitlement. If you have a pre-existing VIP, Team Direct, Classroom, or Allocation Adobe IMS Org, Bizible will be added to a newly created IMS Org and Adobe Admin Console.
+
 As a product within the Adobe Suite, Bizible leverages the full functionality of Adobe Admin Console for Identity Management. More resources can be found here: [https://helpx.adobe.com/enterprise/using/admin-console.html](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 We recommend reviewing all of the resources, best practices, and options available to you for Identity Management: [https://helpx.adobe.com/enterprise/using/set-up-identity.html](https://helpx.adobe.com/enterprise/using/admin-console.html).
