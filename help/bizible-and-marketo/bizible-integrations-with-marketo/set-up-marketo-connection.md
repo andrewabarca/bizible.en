@@ -52,3 +52,5 @@ Here's how to set up your connection to Marketo.
    >
    >* Marketo subscription Id
    >* Email address of the API user
+   >Relaxing the API limits only includes the daily call quota and does not include rate limit, concurrency limit, or daily bulk extract limit. 
+   
